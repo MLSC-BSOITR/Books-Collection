@@ -8,7 +8,7 @@
 4. Recheck your code and push request ( Wrong syntax code can be rejected ) .
 5. You done with your contribution , Celebrate !! 
 
-# Example
+ # Example
 
  {
  
