@@ -1,28 +1,2 @@
-[
-  
-  {
 
-     "id" : "1",
-
-     "bookName" : "Introduction to programming in java: An Interdisciplinary Approach",
-
-     "authorName" : "Kevin Wayne, Robert Sedgewick",
-
-     "bookLink" : [("https://introcs.cs.princeton.edu/java/home/")]
-
-  },
-
-  {
-      
-     "id" : " ",
-
-     "bookName" : " ",
-
-     "authorName" : " ",
-
-     "bookLink" : " "
-  }
-
-
-]
    
