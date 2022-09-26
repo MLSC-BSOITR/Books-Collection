@@ -18,7 +18,7 @@
     
     "authorName" : "Rajeev Kumar",
     
-    "bookLink"   : "(https://www.avabodh.com/cin/cin.html)"
+    "bookLink"   : "https://www.avabodh.com/cin/cin.html/"
     
 }
 
