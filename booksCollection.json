@@ -978,6 +978,7 @@
 
       "bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
    },
+
 {
        "id": "80",
 
@@ -1169,7 +1170,15 @@
   
        "bookLink" : "https://currentaffairs.adda247.com/queen-of-fire/"
 },
+{
+       "id": "88",
 
+      "bookName": "Deep work",
+
+      "authorName": "Cal Newport",
+
+      "bookLink": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692"
+   },
 
 ]
 
