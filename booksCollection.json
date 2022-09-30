@@ -1130,6 +1130,18 @@
       
       "bookLink"   : "https://automatetheboringstuff.com/"
       
+  },
+
+  {
+   
+      "id" : "444",
+      
+      "bookName" : "Statistics without tears",
+      
+      "authorName" : "Derek Rowntree",
+      
+      "bookLink"   : "https://www.pdfdrive.com/statistics-without-tears-a-primer-for-non-mathematicians-e164063180.html"
+      
   }
 
 ]
