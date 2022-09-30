@@ -978,7 +978,6 @@
 
       "bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
    },
-
 {
        "id": "80",
 
@@ -1122,7 +1121,6 @@
     },
 
    {
- 
       "id" : "443",
       
       "bookName" : "Automate the Boring Stuff with Python",
@@ -1159,38 +1157,47 @@
       
       "authorName" : "	Franz Kafka",
       
-      "bookLink"   : "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi"
+      "bookLink"   : "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi" }
 },
 {
-       "id" : "144",
+       "id" : "444",
   
-       "bookName" : "Queen of Fire",
+       "bookName" : "The India Story",
   
-       "authorName" : "	Devika Rangachari",
+       "authorName" : "Bimal Jalal",
   
-       "bookLink" : "https://currentaffairs.adda247.com/queen-of-fire/"
-},
+       "bookLink" : "https://www.careerpower.in/books-and-authors.html
+  },
 {
-       "id": "88",
-
-      "bookName": "Deep work",
-
-      "authorName": "Cal Newport",
-
-      "bookLink": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692"
-   },
-
- {
- 
-      "id" : "786",
+      "id" : "2409",
       
-      "bookName" : "Head First Java",
+      "bookName" : "Resisting Happiness: A True Story about Why We Sabotage Ourselves",
       
-      "authorName" : "Kathy Seirra and Bert Bates",
+      "authorName" : "Anonymous",
       
-      "bookLink"   : "https://www.amazon.in/Head-First-Java-Brain-Friendly-Guide/dp/8173666024"
+      "bookLink"   : "https://www.pdfdrive.com/resisting-happiness-a-true-story-about-why-we-sabotage-ourselves-d39563520.html
+},
+
+{
+      "id" : "445",
       
-  }
+      "bookName" : "Marutas of Unit 731",
+      
+      "authorName" : "Jenny Chan",
+      
+      "bookLink"   : "https://www.pacificatrocities.org/book-marutas-of-unit-731-human-experimentation-of-the-forgotten-asian-auschwitz.html"
+ };
+{
+      "id" : "405",
+      
+      "bookName" : "Birsa Munda – Janjatiya Nayak",
+      
+      "authorName" : "	Dharmendra Pradhan",
+      
+      "bookLink"   : "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1813792"
+ };
+
+
 
 ]
 
