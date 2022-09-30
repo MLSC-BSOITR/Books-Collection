@@ -1157,7 +1157,7 @@
       
   }
 
-  
+{
        "id" : "444",
   
        "bookName" : "The India Story",
@@ -1167,6 +1167,20 @@
        "bookLink" : "https://www.careerpower.in/books-and-authors.html"
   
     },
+
+{
+
+ 
+      "id" : "445",
+      
+      "bookName" : "Marutas of Unit 731",
+      
+      "authorName" : "Jenny Chan",
+      
+      "bookLink"   : "https://www.pacificatrocities.org/book-marutas-of-unit-731-human-experimentation-of-the-forgotten-asian-auschwitz.html"
+
+      
+  };
 
 
 ]
