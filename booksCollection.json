@@ -26,8 +26,36 @@
   
        "bookLink" : " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
    
-    },
+
+    }
+  {
   
+       "id" : "8",
+  
+       "bookName" : "Object Oriented Programming using 'C++'",
+  
+       "authorName" : "Pooja Chawla",
+  
+       "bookLink" : "http://www.freebookcentre.net/programming-books-download/Object-Oriented-Programming-using-'C++'.html/"
+  
+    },
+
+    },
+
+
+   
+  {
+        
+       "id" : "3",
+
+  
+       "bookName" : "Modern cmake",
+  
+       "authorName" : "Henry Schreiner",
+  
+       "bookLink" : "https://cliutils.gitlab.io/modern-cmake/ "
+   
+    },
 
    
    
