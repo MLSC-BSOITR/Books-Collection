@@ -26,6 +26,14 @@
       "bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
 
    },
+   
+   
+   
+  
+
+     
+   
+   
 
    {
   
@@ -38,6 +46,22 @@
        "bookLink" : "https://introcs.cs.princeton.edu/java/home/"
   
     },
+   
+   
+   {
+  
+       "id" : "30",
+  
+       "bookName" : "Introduction to DSA",
+  
+       "authorName" : "thomas h.cormen",
+  
+       "bookLink" : "https://www.bookchor.com/book/9788120340077/introduction-to-algorithms-third-edition?gclid=CjwKCAjwp9qZBhBkEiwAsYFsbwi7nHYBlCQrOloOaJTMKky6Ll9LdFxpLt5SR4Z1fZ8ZPfMHqhx7tBoCpJYQAvD_BwE"
+  
+    },
+   
+   
+   
   
     {
         
@@ -772,24 +796,6 @@
    
  },
 
-{
-   "id" : "777",
-   "bookName" :"The Pragmatic Programmer",
-      "authorName" : "Addison-Wesley Professional",
-   "bookLink"   : "https://books.google.com/books/about/The_Pragmatic_Programmer.html?id=5wBQEp6ruIAC"
-   },
- 
-{
-   "id" : "63",
-   
-   "bookName" : "Programming with Java",
-   
-   "authorName" : "E.BALGURUSAMY",
-   
-   "boolLink" : "http://www.mhhe.com/balgurusamy/java3e"
-},
-
-
 
 {
    "id" : "71",
@@ -809,6 +815,26 @@
    
    "BookLink" : "https://www.pdfdrive.com/give-and-take-why-helping-others-drives-our-success-d58864799.html"
 },
+    {    
+       "id" : "73",
+  
+       "bookName" : "Wilder Girls",
+  
+       "authorName" : "Rori Power",
+  
+       "bookLink" : "https://www.goodreads.com/book/show/42505366-wilder-girls"
+
+{    
+    "id" : "72",
+  
+    "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life ",
+  
+    "authorName" : "Darius Foroux",
+  
+    "bookLink" : "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
+       
+},
+
 
 {
    "id" : "72",
@@ -826,7 +852,12 @@
   
        "authorName" : "Darius Foroux",
   
+
        "bookLink" : "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
+
+    "bookLink" : "https://www.pdfdrive.com/the-gifts-of-imperfection-embrace-who-you-are-d60365102.html"
+
+
        
     },
 
@@ -848,6 +879,7 @@
 
       "authorName": "Vivek Kulkarni",
 
+
       "bookLink": "https://www.amazon.in/Theory-Computation-Vivek-Kulkarni/dp/0198084587"
    },
 
@@ -860,6 +892,7 @@
 
       "bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
    }
+
 
 
 ]
