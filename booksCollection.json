@@ -858,7 +858,7 @@
 }
 
 
-
+{
    "id" : "71",
    
    "bookName" : "The Art of Logic",
@@ -885,6 +885,8 @@
        "authorName" : "Rori Power",
   
        "bookLink" : "https://www.goodreads.com/book/show/42505366-wilder-girls"
+       
+    },
 
 {    
     "id" : "72",
