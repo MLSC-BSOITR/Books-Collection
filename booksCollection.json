@@ -29,16 +29,6 @@
   },
 
   {
-    "id": "3",
-
-    "bookName": "Introduction to Programming in Java: An Interdisciplinary Approach",
-
-    "authorName": "Kevin Wayne, Robert Sedgewick",
-
-    "bookLink": "https://introcs.cs.princeton.edu/java/home/"
-  },
-
-  {
     "id": "30",
 
     "bookName": "Introduction to DSA",
