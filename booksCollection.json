@@ -134,6 +134,7 @@
   
        "bookLink" :
 },
+
 {
    "id" : "25",
   
@@ -144,6 +145,7 @@
   
        "bookLink" :
 }
+
 {
    "id" : "21",
   
@@ -153,6 +155,19 @@
 
   
        "bookLink" :"https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
+
+}
+,
+{
+        "id" : "23",  
+   
+       "bookName" : "Zero to One",
+   
+       "authorName" : "Peter Thiel",
+
+       "bookLink" :"https://drive.google.com/file/d/0B7OmNithn8yCWE5WUUktZnJvR3M/view"
+}
+
 },
 {
 "id" : "9",
@@ -165,6 +180,7 @@
 },
 
  {
+
 
    "id" : "26",
   
@@ -369,7 +385,7 @@
 "bookLink"   : "https://drive.google.com/file/d/0B-vYMgZ5ExCda3NNWjQtcWVvamc/view?resourcekey=0-urTTbAw2FyEM6zZC2rUknA"
 
  }
-
+]
 
 
 
