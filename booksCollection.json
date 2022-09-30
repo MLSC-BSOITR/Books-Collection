@@ -13,8 +13,8 @@
        "bookLink" : "https://introcs.cs.princeton.edu/java/home/"
   
     },
-  
-    {
+  // You can contribute below as mentioned above    
+   {
         
        "id" : "2",
   
@@ -24,11 +24,11 @@
   
        "bookLink" : "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
        
-       },
+    },
 
      {
      
-     "id" : "4",
+     "id" : "3",
 
      "bookName" : " ABSALOM ",
 
@@ -39,24 +39,17 @@
 
     {
      
-     "id" : "5",
+     "id" : "4",
 
      "bookName" : " Rich Dad Poor Dad ",
 
      "authorName" : " Robert Kiyosaki's ",
 
      "bookLink"   : "https://sesifoundation.info/free-educational-books/"
-   }
-   
-
-]
-
-   
-// You can contribute below as mentioned above   
-  
-    {
+   } 
+   {
         
-       "id" : "3",
+       "id" : "5",
   
        "bookName" : "UNIX Systems Programming ",
   
@@ -92,9 +85,6 @@
     },
 
     },
-
-
-   
   {
         
        "id" : "3",
@@ -108,8 +98,7 @@
    
     },
 
-   
-   {
+    {
   
        "id" : "8",
   
@@ -130,6 +119,16 @@
 
   
        "bookLink" :
+},
+{
+   "id" : "25",
+  
+       "bookName" : "Arrays ",
+  
+       "authorName" : "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+
+  
+       "bookLink" :
 }
 {
    "id" : "21",
@@ -143,6 +142,7 @@
 }
 
  {
+
    "id" : "26",
   
        "bookName" : "How I taught my Grandmother to read ",
@@ -151,50 +151,31 @@
 
   
        "bookLink" :"https://www.amazon.in/How-Taught-My-Grandmother-Read/dp/014333364X"
-} 
+} ,
 
+ {
 
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   {
-    "id" : "3",
+    "id" : "22",
+  
+       "bookName" : "Effective Java, 3rd Edition",
+  
+       "authorName" : "Joshua Bloch",
+  
+       "bookLink" : "https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/"
+  
+    },
+ 
+{
+      "id" : "3",
   
        "bookName" : "ELON MUSK",
   
        "authorName" : "ASHLEE VANCE ",
   
        "bookLink" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEn9q0yLz6AhWUNSsKHRdqBuwYABAGGgJzZg&ohost=www.google.com&cid=CAESa-D20b403yHw7JnXJR0qslg0bJwuuT0jiExasS0a1qqmwnkJKhs8X57FuZTHpjLdWc6I14hCT2rcHCWMYtFPNEHLTo84bkGPfxWWv1AeFdahkHUd17-snqRm7S_9AbpVWHEBRgz1rqkAFd-J&sig=AOD64_3zO8C8K19PqIf29H7FxPeA8Cz7dw&ctype=5&q=&ved=2ahUKEwiQr8-0yLz6AhUY73MBHSXnCn8Qww8oAnoECAQQCw&adurl= "
-
+},
      
+{
    "id" : "50",
   
        "bookName" : "think and Grow rich",
@@ -202,7 +183,8 @@
        "authorName" : "Napoleon hill ",
   
        "bookLink" : "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-
+},
+{
       
      "id" : "21",
   
@@ -211,29 +193,8 @@
        "authorName" : "Napoleon hill ",
   
        "bookLink" : "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  {
+},
+{
         
        "id" : "18 ",
   
@@ -247,8 +208,7 @@
    
    
     {
-        
-       "id" : "3",
+        "id" : "3",
   
        "bookName" : "UNIX Systems Programming ",
   
@@ -277,7 +237,9 @@
        "authorName" : "bruce Eckel",
   
        "bookLink" : "https://kotlinlang.org/docs/books.html"
+        }
 
+]
 
   
   
