@@ -17,13 +17,21 @@ This repository contains free books on different programming languages, Concepts
 
     {
  
-    "id" : "2",
+    "id" : "1",
     
     "bookName" : "C Internals",
     
-    "authorName" : "Rajeev Kumar",
+    "authorName" : "Brian Kernighan",
     
     "bookLink"   : "https://www.avabodh.com/cin/cin.html"
+    
+    "id" : "2",
+    
+    "bookName" : "Let us c",
+    
+    "authorName" : "Dennis Ritchie",
+    
+    "bookLink" : "https://drive.google.com/file/d/1Yvq27-qsSPOxjJakf1cXpWq76L0F0cu_/view"
     
      }
    
