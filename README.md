@@ -17,13 +17,45 @@ This repository contains free books on different programming languages, Concepts
 
     {
  
-    "id" : "2",
+    "id" : "1",
     
     "bookName" : "C Internals",
     
     "authorName" : "Rajeev Kumar",
     
     "bookLink"   : "https://www.avabodh.com/cin/cin.html"
+    
+    "id" : "2",
+    
+    "bookName" : " Let Us C"
+    
+    "authorName" : "Yashawant Kanetkar"
+    
+    "bookLink" : "https://drive.google.com/file/d/1Yvq27-qsSPOxjJakf1cXpWq76L0F0cu_/view"
+    
+    "id" : "3"
+    
+    "bookName" : "Beginning c++ programming"
+    
+    "authorName" : "Richard Grimes"
+    
+    "bookLink" :"https://libribook.com/ebook/4934/beginning-c-programming-pdf/?bookid=45368"
+    
+    "id" : "4"
+    
+    "bookName" : "Python Cookbook"
+    
+    "authorName" : "By David Beazley and Brian K. Jones"
+    
+    "bookLink" : "http://chimera.labs.oreilly.com/books/1230000000393"
+    
+    "id" : "5"
+    
+    "bookName" :"Hadoop with Python"
+    
+    "authorName" : " Zachary Radtka and Donald Miner"
+    
+    "bookLink" : " http://www.oreilly.com/programming/free/hadoop-with-python.csp"
     
      }
      {
