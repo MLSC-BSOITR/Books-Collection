@@ -1264,5 +1264,14 @@
 
     "bookLink": "https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows"
   },
+  {
+     "id": "99",
+ 
+     "bookName": "Building Secure and Reliable Systems",
+ 
+     "authorName": "Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea and Adam Stubblefield",
+ 
+     "bookLink": "https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf"
+   },
    
 ]
