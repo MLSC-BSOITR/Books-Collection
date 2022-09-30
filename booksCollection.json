@@ -820,7 +820,7 @@
    "boolLink" : "https://jakevdp.github.io/PythonDataScienceHandbook/"
 },
   {    
-       "id" : ""72,
+       "id" : "72",
   
        "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life",
   
@@ -840,6 +840,15 @@
 
       "bookLink": "https://b-ok.asia/book/3309064/0305da?dsource=mostpopular"
 
+   },
+   {
+       "id": "78",
+
+      "bookName": "Theory Of Computation",
+
+      "authorName": "Vivek Kulkarni",
+
+      "bookLink": "https://www.amazon.in/Theory-Computation-Vivek-Kulkarni/dp/0198084587"
    }
 
 
