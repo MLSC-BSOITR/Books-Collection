@@ -298,6 +298,19 @@
   
        "bookLink" : "https://anybookpdf.com/she-stood-by-me-pdf-download/"
        
+    }
+{
+  
+       "id" : "123",
+  
+       "bookName" : "Machine Learning for Begineer",
+  
+       "authorName" : " Harsh Bhasin",
+  
+       "bookLink" : "https://in.bpbonline.com/products/machine-learning-for-beginners?variant=41457927323835&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=EAIaIQobChMI1KmC4d68-gIVEgByCh1yqASGEAYYAyABEgK6MvD_BwE"
+  
+    },
+
     },
 {
   
@@ -311,6 +324,7 @@
        "bookLink" : "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
   
     },
+
 
 
 ]
