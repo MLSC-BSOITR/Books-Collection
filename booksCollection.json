@@ -872,31 +872,8 @@
 
   {    
        "id" : "72",
-
-    "bookLink" : "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-d10172273.html"
-       
-},
-
- {
-
-      "id": "39",
-
-      "bookName": "The india story",
-
-      "authorName": "Bimal Jalal",
-
-      "bookLink": "https://archive.org/details/indianstorybook015651mbp"
-
-   },
-{
-        
-      "id" : "74",
   
-      "bookName" : "The Gifts of Imperfection: Embrace Who You Are",
-       
-       
        "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life",
-
   
        "authorName" : "Darius Foroux",
   
@@ -941,6 +918,17 @@
 
       "bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
    }
+{
+
+      "id": "38000 ",
+
+      "bookName": "Ikigai ",
+
+      "authorName": "Hector Garcia  ",
+
+      "bookLink": "https://www.amazon.in/Ikigai-H%C3%A9ctor-Garc%C3%ADa/dp/178633089X?asin=178633089X&revisionId=&format=4&depth=1"
+
+   },
 
 
 
