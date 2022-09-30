@@ -71,7 +71,7 @@
     },
 
 
-    }
+    
   {
   
        "id" : "8",
@@ -84,7 +84,7 @@
   
     },
 
-    },
+    
   {
         
        "id" : "3",
@@ -258,7 +258,7 @@
   
        "bookName" : "Learn java in one day & learn it will",
   
-       "authorName" : Jamie Chan ",
+       "authorName" : "Jamie Chan ",
   
        "bookLink" : "https://www.pdfdrive.com/learn-java-in-one-day-and-learn-it-well-e176428505.html "
        
