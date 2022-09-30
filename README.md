@@ -38,6 +38,18 @@ This repository contains free books on different programming languages, Concepts
     
      }
 
+     {
+ 
+    "id" : "5556",
+    
+    "bookName" : "The Everyday Life of an Algorithm",
+    
+    "authorName" : "Daniel Neyland",
+    
+    "bookLink"   : "https://link.springer.com/book/10.1007/978-3-030-00578-8"
+    
+     }
+
 
 
 
