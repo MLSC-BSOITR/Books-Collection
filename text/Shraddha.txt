@@ -1,6 +1,0 @@
-{
-"id": "03";
-"bookname": "Python Practicals";
-"Authorname": "Ravikumar Singh";
-"booklink": "https://www.navneet.com/cin/cin.html"
-}
