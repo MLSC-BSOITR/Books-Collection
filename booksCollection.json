@@ -822,11 +822,25 @@
 },
 
 {
+
         
    "id" : "73",
   
     "bookName" : "Living in the Light: A guide to personal transformation",
+
+   "id" : "72",
+   
+   "bookName" : "Python Data Science Handbook",
+   
+   "authorName" : "Jake VanderPlas",
+   
+   "boolLink" : "https://jakevdp.github.io/PythonDataScienceHandbook/"
+},
+  {    
+       "id" : "72",
   
+       "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life",
+
     "authorName" : "David Sargent",
   
     "bookLink" : "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-d10172273.html"
@@ -854,6 +868,27 @@
     "bookLink" : "https://www.pdfdrive.com/find-your-why-a-practical-guide-for-discovering-purpose-for-you-and-your-team-d157049824.html"
        
   },
+
+ {
+
+      "id": "77",
+
+      "bookName": "The Social Skills ",
+
+      "authorName": "Chris MacLeod",
+
+      "bookLink": "https://b-ok.asia/book/3309064/0305da?dsource=mostpopular"
+
+   },
+   {
+       "id": "78",
+
+      "bookName": "Theory Of Computation",
+
+      "authorName": "Vivek Kulkarni",
+
+      "bookLink": "https://www.amazon.in/Theory-Computation-Vivek-Kulkarni/dp/0198084587"
+   }
 
 
 ]
