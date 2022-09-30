@@ -1009,7 +1009,15 @@
 
       "bookLink": "https://www.pdfdrive.com/let-us-c-by-yashwant-e200713283.html"
    },
+{
+       "id": "82",
 
+      "bookName": "data structre a pseudocode approach with c",
+
+      "authorName": "Richard F.Gilberg and Behrouz A.Forouzan",
+
+      "bookLink": "https://www.pdfdrive.com/data-structures-a-pseudocode-approach-with-c-second-edition-e158112060.html"
+   },
 {
    "id" : "80",
    
@@ -1019,8 +1027,6 @@
    
    "boolLink" : "https://designingfortheweb.co.uk/"
 },
-
-
 {
    "id" : "321",
    
@@ -1032,6 +1038,7 @@
 },
 
 ]
+
   
 
   
