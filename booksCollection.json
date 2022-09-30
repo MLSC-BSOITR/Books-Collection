@@ -778,8 +778,7 @@
       "authorName" : "Addison-Wesley Professional",
    "bookLink"   : "https://books.google.com/books/about/The_Pragmatic_Programmer.html?id=5wBQEp6ruIAC"
    },
-   
-   
+ 
 {
    "id" : "63",
    
@@ -810,6 +809,18 @@
    
    "BookLink" : "https://www.pdfdrive.com/give-and-take-why-helping-others-drives-our-success-d58864799.html"
 },
+
+{
+        
+       "id" : ""72,
+  
+       "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life ",
+  
+       "authorName" : "Darius Foroux",
+  
+       "bookLink" : "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
+       
+    },
 
 
 ]
