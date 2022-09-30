@@ -13,34 +13,20 @@
        "bookLink" : "https://introcs.cs.princeton.edu/java/home/"
   
     },
-   
-// You can contribute below as mentioned above   
-  
-    {
-        
-       "id" : " ",
-  
-       "bookName" : " ",
-  
-       "authorName" : " ",
-  
-       "bookLink" : " "
-   
-    }
-   
-   
-   {
+
+{
    
    "id" : "3",
 
-"bookName" : " ABSALOM ",
+   "bookName" : " ABSALOM ",
 
-"authorName" : " ABSALOM! ",
+   "authorName" : " ABSALOM! ",
 
-"bookLink"   : "https://www.avabodh.com/cin/cin.html"
+   "bookLink"   : "https://www.avabodh.com/cin/cin.html"
    }
+}
+   
+  
+
   
   
-]
-     
-    
