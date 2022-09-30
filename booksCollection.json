@@ -978,6 +978,7 @@
 
       "bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
    },
+
 {
        "id": "80",
 
@@ -1121,6 +1122,7 @@
     },
 
    {
+ 
       "id" : "443",
       
       "bookName" : "Automate the Boring Stuff with Python",
@@ -1157,69 +1159,53 @@
       
       "authorName" : "	Franz Kafka",
       
-      "bookLink"   : "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi" }
+      "bookLink"   : "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi"
 },
 {
-       "id" : "444",
+       "id" : "144",
   
-       "bookName" : "The India Story",
+       "bookName" : "Queen of Fire",
   
-       "authorName" : "Bimal Jalal",
+       "authorName" : "	Devika Rangachari",
   
-       "bookLink" : "https://www.careerpower.in/books-and-authors.html
-  },
-{
-      "id" : "2409",
-      
-      "bookName" : "Resisting Happiness: A True Story about Why We Sabotage Ourselves",
-      
-      "authorName" : "Anonymous",
-      
-      "bookLink"   : "https://www.pdfdrive.com/resisting-happiness-a-true-story-about-why-we-sabotage-ourselves-d39563520.html
+       "bookLink" : "https://currentaffairs.adda247.com/queen-of-fire/"
 },
-
 {
-      "id" : "445",
-      
-      "bookName" : "Marutas of Unit 731",
-      
-      "authorName" : "Jenny Chan",
-      
-      "bookLink"   : "https://www.pacificatrocities.org/book-marutas-of-unit-731-human-experimentation-of-the-forgotten-asian-auschwitz.html"
- };
-{
-      "id" : "405",
-      
-      "bookName" : "Birsa Munda – Janjatiya Nayak",
-      
-      "authorName" : "	Dharmendra Pradhan",
-      
-      "bookLink"   : "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1813792"
- };
+       "id": "88",
 
+      "bookName": "Deep work",
 
+      "authorName": "Cal Newport",
 
-{
+      "bookLink": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692"
+   },
 
+ {
  
-   "id" : "421",
-   
-   "bookName" : "IKIGAI : The Japanese secret to a long and happy life",
-   
-   "authorName" : "Hector Garcia",
-   
-   "bookLink"   : "https://www.pdfdrive.com/ikigai-the-japanese-secret-to-a-long-and-happy-life-e195091541.html"
-},
+      "id" : "786",
+      
+      "bookName" : "Head First Java",
+      
+      "authorName" : "Kathy Seirra and Bert Bates",
+      
+      "bookLink"   : "https://www.amazon.in/Head-First-Java-Brain-Friendly-Guide/dp/8173666024"
+      
+  }
+ {
+ 
+      "id" : "7186",
+      
+      "bookName" : "The Boy Who Wrote a Constitution",
+      
+      "authorName" : "	Rajesh Talwar",
+      
+      "bookLink"   : "https://www.amazon.in/Boy-Who-Wrote-Constitution-Children/dp/9380637357#:~:text=Bhim%20Rao%20Ambedkar%2C%20the%20one%20who%20wrote%20our%20constitution."
+      
+  }
 
-{
-       "id" : "2404"
-   
-      "bookName" : "Rich dad poor dad",
-   
-      "authorName" : "Robert .T.Kiyosaki"
-   
-      "bookLink" : "https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad"
-},
+
+
+
 ]
 
   
