@@ -37,7 +37,18 @@
      "bookLink"   : "https://www.avabodh.com/cin/cin.html"
    }
 
-
+{
+  
+    "id" : "3",
+    
+    "companyName " : "capgemini",
+    
+    "position" : "software developnment",
+    
+    "requirements" : "Html, CSS, c++ ,JavaScript",
+    
+    "contactEmail" : "komalrnikam2019@gmail.com"
+},
 
 ]
 
