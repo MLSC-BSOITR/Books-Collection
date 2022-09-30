@@ -1210,8 +1210,15 @@
    
    "bookLink"   : "https://www.pdfdrive.com/ikigai-the-japanese-secret-to-a-long-and-happy-life-e195091541.html"
 },
+{
+        "id": "422",
 
+        "bookName" : "Intoduction to Statistical Learning: With Applications in R",
 
+        "authorName" : "Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",
+
+        "bookLink"   : "https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf"
+ },
 ]
 
   
