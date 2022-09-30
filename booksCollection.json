@@ -823,12 +823,16 @@
 
 {
 
+   "id" : "73",
+
+
         
    "id" : "73",
   
     "bookName" : "Living in the Light: A guide to personal transformation",
 
    "id" : "72",
+
    
    "bookName" : "Python Data Science Handbook",
    
@@ -837,8 +841,10 @@
    "boolLink" : "https://jakevdp.github.io/PythonDataScienceHandbook/"
 },
   {    
+       "id" : "74",
+
        "id" : "72",
-  
+
        "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life",
 
     "authorName" : "David Sargent",
@@ -856,6 +862,19 @@
   
     "bookLink" : "https://www.pdfdrive.com/the-gifts-of-imperfection-embrace-who-you-are-d60365102.html"
        
+    },
+ {
+
+      "id": "75",
+
+      "bookName": "Eat To Live",
+
+      "authorName": "Joel Fuhrman",
+
+      "bookLink": "https://www.pdfdrive.com/joel-fuhrman-eat-to-live-d5794082.html"
+
+   }
+
  },
  {
         
@@ -871,7 +890,7 @@
 
  {
 
-      "id": "77",
+      "id": "76",
 
       "bookName": "The Social Skills ",
 
