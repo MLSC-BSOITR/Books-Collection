@@ -212,6 +212,16 @@
        "authorName" : "bruce Eckel",
   
        "bookLink" : "https://kotlinlang.org/docs/books.html"
+        },
+ {
+  
+       "id" : "11",
+  
+       "bookName" : "Do Epic Shit",
+  
+       "authorName" : "Ankur Warikoo",
+  
+       "bookLink" : "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486"
         }
 
 ]
