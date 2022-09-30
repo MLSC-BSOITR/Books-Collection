@@ -93,7 +93,7 @@
     },
 
 
-    }
+    
   {
   
        "id" : "8",
@@ -106,10 +106,12 @@
   
     },
 
+
     },
 
 
    
+
   {
         
        "id" : "3",
@@ -406,7 +408,7 @@
   
        "bookName" : "Learn java in one day & learn it will",
   
-       "authorName" : Jamie Chan ",
+       "authorName" : "Jamie Chan ",
   
        "bookLink" : "https://www.pdfdrive.com/learn-java-in-one-day-and-learn-it-well-e176428505.html "
     },
@@ -552,6 +554,18 @@
   
        "bookLink" : "https://www.google.com/aclk?sa=l&ai=DChcSEwiFiNfi5Lz6AhUFNSsKHTEQB5MYABABGgJzZg&sig=AOD64_3yc2UkbKS_daY6Dvrd_FzK9qKYzQ&ctype=5&q=&ved=0ahUKEwiykNHi5Lz6AhXp3TgGHV4TAyMQww8IyQg&adurl="
 }
+
+{
+
+   "id" : "10",
+
+   "bookName" : "Automating the boring stuff with Python",
+
+   "authorName" : "Al Sweigart",
+
+   "bookLink"   : "https://automatetheboringstuff.com/"
+
+ },
 
 ]
 
