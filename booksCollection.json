@@ -375,6 +375,7 @@
        "authorName" : "Napoleon Hill ",
   
        "bookLink" : "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
+  }
 
    
    {
@@ -798,6 +799,18 @@
 
 
 {
+
+   "id" : "222",
+
+   "bookName" : "Python Crash Course",
+
+   "authorName" : "Eric Matthes",
+
+   "bookLink"   : "https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280"
+}
+
+
+
    "id" : "71",
    
    "bookName" : "The Art of Logic",
@@ -806,8 +819,9 @@
    
    "boolLink" : "https://www.audible.in/pd/The-Art-of-Logic-Audiobook/B086G35NFG?https%3A%2F%2Fwww.audible.in%2F%3F&source_code=AUDTM13403072200B3"
 },
+
 {
-   "id" : "72",
+   "ID" : "72",
    
    "BookName" : "Give and Take: WHY HELPING OTHERS DRIVES OUR SUCCESS",
    
@@ -815,7 +829,6 @@
    
    "BookLink" : "https://www.pdfdrive.com/give-and-take-why-helping-others-drives-our-success-d58864799.html"
 },
-
     {    
        "id" : "73",
   
@@ -836,18 +849,9 @@
        
 },
 
+
 {
-
-   "id" : "73",
-
-
-        
-   "id" : "73",
-  
-    "bookName" : "Living in the Light: A guide to personal transformation",
-
    "id" : "72",
-
    
    "bookName" : "Python Data Science Handbook",
    
@@ -855,15 +859,20 @@
    
    "boolLink" : "https://jakevdp.github.io/PythonDataScienceHandbook/"
 },
-  {    
-       "id" : "74",
+{
+   "id" : "72",
+   
+   "bookName" : "The Power Of Your Subconcious Mind",
+   
+   "authorName" : "Dr.Joseph Murphy",
+   
+   "boolLink" : "https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962/ref=asc_df_8192910962/?tag=googleshopdes-21&linkCode=df0&hvadid=396986422305&hvpos=&hvnetw=g&hvrand=7185990088350799283&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318314935106&psc=1&ext_vrnc=hi"
+},
+]
 
+  {    
        "id" : "72",
 
-       "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life",
-
-    "authorName" : "David Sargent",
-  
     "bookLink" : "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-d10172273.html"
        
 },
@@ -881,44 +890,28 @@
    },
 {
         
-    "id" : "74",
+      "id" : "74",
   
-    "bookName" : "The Gifts of Imperfection: Embrace Who You Are",
+      "bookName" : "The Gifts of Imperfection: Embrace Who You Are",
+       
+       
+       "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life",
+
   
-    "authorName" : "Brene Brown",
+       "authorName" : "Darius Foroux",
   
+
+       "bookLink" : "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
+
     "bookLink" : "https://www.pdfdrive.com/the-gifts-of-imperfection-embrace-who-you-are-d60365102.html"
+
 
        
     },
- {
-
-      "id": "75",
-
-      "bookName": "Eat To Live",
-
-      "authorName": "Joel Fuhrman",
-
-      "bookLink": "https://www.pdfdrive.com/joel-fuhrman-eat-to-live-d5794082.html"
-
-   }
-
- },
- {
-        
-    "id" : "75",
-  
-    "bookName" : "Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team",
-  
-    "authorName" : "Simon Sinek",
-  
-    "bookLink" : "https://www.pdfdrive.com/find-your-why-a-practical-guide-for-discovering-purpose-for-you-and-your-team-d157049824.html"
-       
-  },
 
  {
 
-      "id": "76",
+      "id": "77",
 
       "bookName": "The Social Skills ",
 
@@ -935,7 +928,18 @@
       "authorName": "Vivek Kulkarni",
 
 
+
       "bookLink": "https://www.amazon.in/Theory-Computation-Vivek-Kulkarni/dp/0198084587"
+   },
+
+{
+       "id": "79",
+
+      "bookName": "willow",
+
+      "authorName": "Wyland Drew",
+
+      "bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
    }
 
 
