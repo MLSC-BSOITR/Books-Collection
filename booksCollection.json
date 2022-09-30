@@ -69,6 +69,8 @@
        "bookLink" : "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
   
     },
+
+
   
 
 
@@ -167,7 +169,20 @@
        "bookLink" : " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
    
     },
-   
+ {
+  
+       "id" : "20",
+  
+       "bookName" : "The psychology of money",
+  
+       "authorName" : "Morgan Housel",
+  
+       "bookLink" : "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
+  
+    },
+      
+
+
    ]
    
    
