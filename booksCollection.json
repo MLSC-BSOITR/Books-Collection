@@ -19,8 +19,8 @@
 
       "id": "2",
 
-      
       "bookName": "Harry Potter and The Philosopher's Stone ",
+
       "authorName": "Jean K. Rowling ",
 
       "bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
@@ -1129,6 +1129,17 @@
       "authorName" : "Al Sweigart",
       
       "bookLink"   : "https://automatetheboringstuff.com/"
+      
+  },
+{
+ 
+      "id" : "369",
+      
+      "bookName" : "The Metamorphosis",
+      
+      "authorName" : "	Franz Kafka",
+      
+      "bookLink"   : "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi"
       
   }
 
