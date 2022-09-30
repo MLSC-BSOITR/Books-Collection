@@ -492,7 +492,17 @@
        "authorName" : "Robert Kiyosaki and Sharon Lechter",
 
        "bookLink" : "https://kotlinlang.org/docs/books.html"
-        }
+        },
+{
+  
+       "id" : "02",
+  
+       "bookName" : "Percy Jackson: The Lightning Thief",
+  
+       "authorName" : "Rick Riordan",
+  
+       "bookLink" : "https://www.google.com/aclk?sa=l&ai=DChcSEwiFiNfi5Lz6AhUFNSsKHTEQB5MYABABGgJzZg&sig=AOD64_3yc2UkbKS_daY6Dvrd_FzK9qKYzQ&ctype=5&q=&ved=0ahUKEwiykNHi5Lz6AhXp3TgGHV4TAyMQww8IyQg&adurl="
+}
         
 ]
 
