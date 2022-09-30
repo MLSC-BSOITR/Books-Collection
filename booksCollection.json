@@ -140,7 +140,16 @@
 
   
        "bookLink" :"https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
-}
+},
+{
+"id" : "9",
+
+"bookName" : "Let Us C",
+
+"authorName" : "Yashwant Kanetkar",
+
+"bookLink"   : "https://books.google.co.in/books/about/Let_us_C_16th_Edition.html?id=QIV8DwAAQBAJ&redir_esc=y"
+},
 
   
 
