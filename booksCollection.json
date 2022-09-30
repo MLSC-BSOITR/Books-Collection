@@ -333,6 +333,28 @@
   
        "bookLink" : "https://kotlinlang.org/docs/books.html"
 
+        },
+ {
+  
+       "id" : "11",
+  
+       "bookName" : "Do Epic Shit",
+  
+       "authorName" : "Ankur Warikoo",
+  
+       "bookLink" : "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486"
+        },
+ {
+  
+       "id" : "12",
+  
+       "bookName" : "The Rudest Book Ever",
+  
+       "authorName" : "Shwetabh Gangwar",
+  
+       "bookLink" : "https://www.amazon.in/Rudest-Book-Ever-Shwetabh-Gangwar/dp/9388754433"
+        },
+
         }
 {
    
@@ -342,6 +364,7 @@
   
        "bookLink" : "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
 },
+
 
 
 
