@@ -1121,7 +1121,6 @@
     },
 
    {
- 
       "id" : "443",
       
       "bookName" : "Automate the Boring Stuff with Python",
@@ -1131,10 +1130,17 @@
       "bookLink"   : "https://automatetheboringstuff.com/"
       
   },
-
-
+  {
+   
+      "id" : "444",
+      
+      "bookName" : "Statistics without tears",
+      
+      "authorName" : "Derek Rowntree",
+      
+      "bookLink"   : "https://www.pdfdrive.com/statistics-without-tears-a-primer-for-non-mathematicians-e164063180.html
+  },
    {
- 
       "id" : "1824",
       
       "bookName" : "New Moon",
@@ -1142,21 +1148,17 @@
       "authorName" : "Stephenie Meyer",
       
       "bookLink"   : "https://www.amazon.in/New-Moon-Stephenie-Meyer/dp/1904233880"
-
+   },
 {
 
- 
       "id" : "369",
       
       "bookName" : "The Metamorphosis",
       
       "authorName" : "	Franz Kafka",
       
-      "bookLink"   : "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi"
-
-      
-  }
-
+      "bookLink"   : "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi" }
+},
 {
        "id" : "444",
   
@@ -1164,13 +1166,19 @@
   
        "authorName" : "Bimal Jalal",
   
-       "bookLink" : "https://www.careerpower.in/books-and-authors.html"
-  
-    },
+       "bookLink" : "https://www.careerpower.in/books-and-authors.html
+  },
+{
+      "id" : "2409",
+      
+      "bookName" : "Resisting Happiness: A True Story about Why We Sabotage Ourselves",
+      
+      "authorName" : "Anonymous",
+      
+      "bookLink"   : "https://www.pdfdrive.com/resisting-happiness-a-true-story-about-why-we-sabotage-ourselves-d39563520.html
+},
 
 {
-
- 
       "id" : "445",
       
       "bookName" : "Marutas of Unit 731",
@@ -1178,9 +1186,7 @@
       "authorName" : "Jenny Chan",
       
       "bookLink"   : "https://www.pacificatrocities.org/book-marutas-of-unit-731-human-experimentation-of-the-forgotten-asian-auschwitz.html"
-
-      
-  };
+ };
 
 
 ]
