@@ -1170,7 +1170,15 @@
        "bookLink" : "https://www.careerpower.in/books-and-authors.html"
 },
 
-
+{
+       "id" : "2404"
+   
+      "bookName" : "Rich dad poor dad",
+   
+      "authorName" : "Robert .T.Kiyosaki"
+   
+      "bookLink" : "https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad"
+},
 ]
 
   
