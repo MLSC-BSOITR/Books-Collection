@@ -140,6 +140,19 @@
   
        "bookLink" :"https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
 }
+
+ {
+  
+       "id" : "22",
+  
+       "bookName" : "Effective Java, 3rd Edition",
+  
+       "authorName" : "Joshua Bloch",
+  
+       "bookLink" : "https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/"
+  
+    },
+ 
 {
     "id" : "3",
   
