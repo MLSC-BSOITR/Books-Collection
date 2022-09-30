@@ -26,7 +26,18 @@ This repository contains free books on different programming languages, Concepts
     "bookLink"   : "https://www.avabodh.com/cin/cin.html"
     
      }
-   
+         {
+ 
+    "id" : "2221",
+    
+    "bookName" : "C# internals",
+    
+    "authorName" : "Rajesh Kumar",
+    
+    "bookLink"   : "https://www.shahbooks.com/cin/cin.html"
+    
+     }
+
 
 
 
