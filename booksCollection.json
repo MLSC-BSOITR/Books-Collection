@@ -24,7 +24,22 @@
   
        "bookLink" : "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
        
+
        },
+
+    },
+      {
+        
+       "id" : "24",
+  
+       "bookName" : "HTML & CSS crash course ",
+  
+       "authorName" : "David McMahon",
+  
+       "bookLink" : "https://www.pdfdrive.com/html-css-crash-course-learn-html-and-css-with-easy-to-follow-step-by-step-tutorials-e158240321.html "
+       
+    },
+
 
      {
      
@@ -107,6 +122,9 @@
        "bookLink" : "https://cliutils.gitlab.io/modern-cmake/ "
    
     },
+   
+   {
+    "id" : "3",
 
    
    {
@@ -130,7 +148,21 @@
 
   
        "bookLink" :
+
+},
+
+{
+   "id" : "25",
+  
+       "bookName" : "Arrays ",
+  
+       "authorName" : "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+
+  
+       "bookLink" :
+
 }
+
 {
    "id" : "21",
   
@@ -140,8 +172,11 @@
 
   
        "bookLink" :"https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
+
 }
+,
 {
+
    "id" : "44",
   
        "bookName" : "Dorothy Hood",
@@ -152,42 +187,59 @@
        "bookLink" :"https://deals.manybooks.net/ebooks/dorothy-hood"
 }
 
-  
 
-
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
    {
     "id" : "3",
+
+        "id" : "23",  
+   
+       "bookName" : "Zero to One",
+   
+       "authorName" : "Peter Thiel",
+
+       "bookLink" :"https://drive.google.com/file/d/0B7OmNithn8yCWE5WUUktZnJvR3M/view"
+}
+
+},
+{
+"id" : "9",
+
+"bookName" : "Let Us C",
+
+"authorName" : "Yashwant Kanetkar",
+
+"bookLink"   : "https://books.google.co.in/books/about/Let_us_C_16th_Edition.html?id=QIV8DwAAQBAJ&redir_esc=y"
+},
+
+ {
+
+
+   "id" : "26",
+  
+       "bookName" : "How I taught my Grandmother to read ",
+  
+       "authorName" : "Sudha Murty",
+
+  
+       "bookLink" :"https://www.amazon.in/How-Taught-My-Grandmother-Read/dp/014333364X"
+} ,
+
+ {
+
+    "id" : "22",
+  
+       "bookName" : "Effective Java, 3rd Edition",
+  
+       "authorName" : "Joshua Bloch",
+  
+       "bookLink" : "https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/"
+  
+    },
+ 
+{
+      "id" : "3",
+
+
   
        "bookName" : "ELON MUSK",
   
@@ -212,27 +264,7 @@
        "authorName" : "Napoleon hill ",
   
        "bookLink" : "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+       },
 
   {
         
@@ -246,10 +278,15 @@
    
     },
    
+
    
     {
         
        "id" : "3",
+
+   {
+        "id" : "3",
+
   
        "bookName" : "UNIX Systems Programming ",
   
@@ -258,6 +295,23 @@
        "bookLink" : " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
    
     },
+
+   
+   ]
+[
+ {
+        
+       "id" : "4",
+  
+       "bookName" : "halfgirlfriend ",
+  
+       "authorName" : "chetan bhagat",
+  
+       "bookLink" : " https://www.amazon.in/Half-Girlfriend-Chetan-Bhagat/dp/8129135728   },
+    ]
+   
+   
+
  {
   
        "id" : "20",
@@ -279,6 +333,160 @@
   
        "bookLink" : "https://kotlinlang.org/docs/books.html"
 
+        },
+
+ {
+       "id" : "51",
+  
+       "bookName" : "PROFIT FIRST",
+  
+       "authorName" : "Mike michalowicz",
+  
+       "bookLink" : "https://www.amazon.in/Profit-First-Transform-Cash-Eating-Money-Making-ebook/dp/B01HCGYTH4"
+        },
+{
+  
+       "id" : "100",
+  
+       "bookName" : "Wings of Fire",
+  
+       "authorName" : "APJ Abdul Kalam",
+  
+       "bookLink" : "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461"
+        },
+{
+        
+       "id" : "76",
+  
+       "bookName" : "Learn java in one day & learn it will",
+  
+       "authorName" : Jamie Chan ",
+  
+       "bookLink" : "https://www.pdfdrive.com/learn-java-in-one-day-and-learn-it-well-e176428505.html "
+    },
+{
+        
+       "id" : "77",
+  
+       "bookName" : "She Stood By Me ",
+  
+       "authorName" : "Tarun Vikash ",
+  
+       "bookLink" : "https://anybookpdf.com/she-stood-by-me-pdf-download/"
+       
+    }
+{
+  
+       "id" : "123",
+  
+       "bookName" : "Machine Learning for Begineer",
+  
+       "authorName" : " Harsh Bhasin",
+  
+       "bookLink" : "https://in.bpbonline.com/products/machine-learning-for-beginners?variant=41457927323835&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=EAIaIQobChMI1KmC4d68-gIVEgByCh1yqASGEAYYAyABEgK6MvD_BwE"
+  
+    },
+
+    },
+{
+  
+       "id" : "48",
+  
+       "bookName" : "Data Structures & Algorithms in Java",
+  
+       "authorName" : "Robert Lafore",
 
   
+       "bookLink" : "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
+  
+    },
+{
+        
+       "id" : "2406",
+  
+       "bookName" : "2 States The Story Of My Marriage ",
+  
+       "authorName" : "Chetan Bhagat ",
+  
+       "bookLink" : "https://www.junkybooks.com/book/2-states-the-story-of-my-marriage"
+       
+    },
+
+{
+
+"id" : "77",
+
+"bookName" : "The 7 habits of highly effective people",
+
+"authorName" : "Stephen R Covey",
+
+"bookLink"   : "https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274"
+
+ }
+
+
+{
+
+"id" : "07",
+
+"bookName" : "How to win friends and influence people",
+
+"authorName" : "Dale carnegie",
+
+"bookLink"   : "https://drive.google.com/file/d/0B-vYMgZ5ExCda3NNWjQtcWVvamc/view?resourcekey=0-urTTbAw2FyEM6zZC2rUknA"
+
+ }
+]
+
+    {
+  
+      "id" : "118",
+ 
+      "bookName" : "Atomic Habit",
+ 
+      "authorName" : "James clear",
+
+ 
+      "bookLink" : "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
+ 
+   },
+
+
+{
+        
+       "id" : "42",
+
+  
+       "bookName" : "C++ Hacker's Guide",
+      
+       "authorName" : "Steve Oualline",
+  
+       "bookLink" : "https://www.e-booksdirectory.com/details.php?ebook=9545 "
+   
+    },
+
+{
+  
+       "id" : "100",
+  
+       "bookName" : "Rich Dad Poor Dad",
+  
+       "authorName" : "bruce Eckel",
+  
+       "bookLink" : "{
+  
+       "id" : "99",
+  
+       "bookName" : "Atomic Kotlin",
+  
+       "authorName" : "Robert Kiyosaki and Sharon Lechter",
+
+       "bookLink" : "https://kotlinlang.org/docs/books.html"
+        }
+        
+]
+
+
+  
+
   
