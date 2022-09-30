@@ -811,7 +811,15 @@
 },
 
 {
-        
+   "id" : "72",
+   
+   "bookName" : "Python Data Science Handbook",
+   
+   "authorName" : "Jake VanderPlas",
+   
+   "boolLink" : "https://jakevdp.github.io/PythonDataScienceHandbook/"
+},
+  {    
        "id" : ""72,
   
        "bookName" : "THINK STRAIGHT: Change Your Thoughts, Change Your Life ",
@@ -821,6 +829,7 @@
        "bookLink" : "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
        
     },
+
 
 
 ]
