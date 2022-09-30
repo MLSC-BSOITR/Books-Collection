@@ -28,7 +28,17 @@
    },
    
    
-   
+    {
+
+      "id": "100",
+
+      "bookName": "oop",
+
+      "authorName": "Balguru Swami",
+
+      "bookLink": "https://books.google.co.in/books/about/Programming_In_Ansi_C.html?id=3fZa9af1KtYC"
+
+   },
   
 
      
@@ -463,7 +473,20 @@
 
       "bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
 
-   }, 
+   },
+{
+
+      "id": "96",
+
+      "bookName": "The india story ",
+
+      "authorName": "Richard Wilson ",
+
+      "bookLink": "http://archive.org/details/indianstorybook015651mbp "
+
+   },
+   
+
    
    {
 
@@ -600,6 +623,18 @@
        "bookLink" : "https://kotlinlang.org/docs/books.html"
 
         }
+
+
+{
+    "id" : "912",
+  
+       "bookName" : "Elon Musk",
+  
+       "authorName" : "ASHLEE VANCE ",
+  
+       "bookLink" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEn9q0yLz6AhWUNSsKHRdqBuwYABAGGgJzZg&ohost=www.google.com&cid=CAESa-D20b403yHw7JnXJR0qslg0bJwuuT0jiExasS0a1qqmwnkJKhs8X57FuZTHpjLdWc6I14hCT2rcHCWMYtFPNEHLTo84bkGPfxWWv1AeFdahkHUd17-snqRm7S_9AbpVWHEBRgz1rqkAFd-J&sig=AOD64_3zO8C8K19PqIf29H7FxPeA8Cz7dw&ctype=5&q=&ved=2ahUKEwiQr8-0yLz6AhUY73MBHSXnCn8Qww8oAnoECAQQCw&adurl= "
+},
+
  {
        "id" : "52",
   
@@ -797,6 +832,19 @@
    
  },
 
+  {
+  
+       "id" : "3232",
+  
+       "bookName" : "Heat and Mass transfer",
+  
+       "authorName" : "Techknowlge",
+  
+       "bookLink" : "www.Techknowlge.edu.in"
+  
+    },
+
+
 
 {
 
@@ -810,7 +858,7 @@
 }
 
 
-
+{
    "id" : "71",
    
    "bookName" : "The Art of Logic",
@@ -837,6 +885,8 @@
        "authorName" : "Rori Power",
   
        "bookLink" : "https://www.goodreads.com/book/show/42505366-wilder-girls"
+       
+    },
 
 {    
     "id" : "72",
@@ -849,6 +899,15 @@
        
 },
 
+{
+   "id" : "36",
+   
+   "bookName" : "Data Structure in C++",
+   
+   "authorName" : "Dinesh mehta",
+   
+   "boolLink" : "http://www.mhhe.com/balgurusamy/c++3e"
+},
 
 {
    "id" : "72",
@@ -868,6 +927,7 @@
    
    "boolLink" : "https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962/ref=asc_df_8192910962/?tag=googleshopdes-21&linkCode=df0&hvadid=396986422305&hvpos=&hvnetw=g&hvrand=7185990088350799283&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318314935106&psc=1&ext_vrnc=hi"
 },
+
 ]
 
   {    
@@ -920,6 +980,197 @@
    },
 
 {
+       "id": "80",
+
+      "bookName": "The Grapes of Wrath",
+
+      "authorName": "John Steinbeck",
+
+      "bookLink": "https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath"
+   },
+{
+       "id" : "108",
+  
+       "bookName" : "Industrial and Technology Management",
+  
+       "authorName" : "Kundan. k. Gutam",
+       
+       "bookLink" : "https://everythingmanagement.com/books/schoolboek-industrial_and_technology_Management.pdf"
+  
+    },
+    {
+      "id": "38000 ",
+
+      "bookName": "Ikigai ",
+
+      "authorName": "Hector Garcia  ",
+
+      "bookLink": "https://www.amazon.in/Ikigai-H%C3%A9ctor-Garc%C3%ADa/dp/178633089X?asin=178633089X&revisionId=&format=4&depth=1"
+   },
+{
+       "id": "80",
+       
+      "bookName": "clean code",
+
+      "authorName": "Robert Cecil Martin",
+
+      "bookLink": "https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf"
+   },
+{
+      "id" : "78",
+      
+      "bookName": "what can i give?",
+
+      "authorName": "Srijan Pal Singh ",
+
+      "bookLink": "https://www.bookspdfdownload.com/2022/06/what-can-i-give-by-srijan-pal-singh-pdf.html"
+   },
+
+ {
+  
+       "id" : "90",
+  
+       "bookName" : "zero to one",
+  
+       "authorName" : "Peter Thiel",
+  
+       "bookLink" : "https://zerotonebookstore.book.pdf"
+  
+   },
+
+
+{
+       "id": "81",
+
+      "bookName": "Let us c",
+
+      "authorName": "Yashwant Kanetkar",
+
+      "bookLink": "https://www.pdfdrive.com/let-us-c-by-yashwant-e200713283.html"
+   },
+{
+       "id": "82",
+
+      "bookName": "data structre a pseudocode approach with c",
+
+      "authorName": "Richard F.Gilberg and Behrouz A.Forouzan",
+
+      "bookLink": "https://www.pdfdrive.com/data-structures-a-pseudocode-approach-with-c-second-edition-e158112060.html"
+   },
+{
+   "id" : "80",
+   
+   "bookName" : "Designing for the Web",
+   
+   "authorName" : "Mark Boulton",
+   
+   "boolLink" : "https://designingfortheweb.co.uk/"
+},
+{
+   "id" : "321",
+   
+   "bookName" : "My favourite Nature Stories",
+   
+   "authorName" : "Ruskin Bond",
+   
+   "boolLink" : "https://www.goodreads.com/book/show/30252137-my-favourite-nature-stories"
+},
+ {
+
+      "id": "81",
+
+      "bookName": "Dune",
+
+      "authorName": "Frank Herbert",
+
+      "bookLink": "https://anybookpdf.com"
+
+   },
+   {
+  
+       "id" : "2244",
+  
+       "bookName" : "Mathematics",
+  
+       "authorName" : "Techpublication",
+  
+       "bookLink" : "www.Techpublication.edu.in"
+  
+    },
+
+ {
+
+      "id": "8199",
+
+      "bookName": "Design of Machine Elements",
+
+      "authorName": "V. B. Bhandari",
+
+      "bookLink": "https://books.google.com/books/about/Design_of_Machine_Elements.html?id=f5Eit2FZe_cC"
+
+   },
+{
+  
+       "id" : "30",
+  
+       "bookName" : "The Christmas Pig",
+  
+       "authorName" : "JK Rowling",
+  
+       "bookLink" : "https://www.amazon.in/Christmas-Pig-J-K-Rowling/dp/1444964917"
+  
+    },
+
+   {
+ 
+      "id" : "443",
+      
+      "bookName" : "Automate the Boring Stuff with Python",
+      
+      "authorName" : "Al Sweigart",
+      
+      "bookLink"   : "https://automatetheboringstuff.com/"
+      
+  },
+  {
+   
+      "id" : "444",
+      
+      "bookName" : "Statistics without tears",
+      
+      "authorName" : "Derek Rowntree",
+      
+      "bookLink"   : "https://www.pdfdrive.com/statistics-without-tears-a-primer-for-non-mathematicians-e164063180.html
+  },
+   {
+      "id" : "1824",
+      
+      "bookName" : "New Moon",
+      
+      "authorName" : "Stephenie Meyer",
+      
+      "bookLink"   : "https://www.amazon.in/New-Moon-Stephenie-Meyer/dp/1904233880"
+   },
+{
+
+      "id" : "369",
+      
+      "bookName" : "The Metamorphosis",
+      
+      "authorName" : "	Franz Kafka",
+      
+      "bookLink"   : "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi"
+},
+{
+       "id" : "144",
+  
+       "bookName" : "Queen of Fire",
+  
+       "authorName" : "	Devika Rangachari",
+  
+       "bookLink" : "https://currentaffairs.adda247.com/queen-of-fire/"
+},
+{
        "id": "88",
 
       "bookName": "Deep work",
@@ -930,6 +1181,7 @@
    },
 
 ]
+
   
 
   

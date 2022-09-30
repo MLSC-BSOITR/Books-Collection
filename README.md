@@ -17,7 +17,7 @@ This repository contains free books on different programming languages, Concepts
 
     {
  
-    "id" : "2",
+    "id" : "1",
     
     "bookName" : "C Internals",
     
@@ -25,8 +25,75 @@ This repository contains free books on different programming languages, Concepts
     
     "bookLink"   : "https://www.avabodh.com/cin/cin.html"
     
+    "id" : "2",
+    
+    "bookName" : " Let Us C"
+    
+    "authorName" : "Yashawant Kanetkar"
+    
+    "bookLink" : "https://drive.google.com/file/d/1Yvq27-qsSPOxjJakf1cXpWq76L0F0cu_/view"
+    
+    "id" : "3"
+    
+    "bookName" : "Beginning c++ programming"
+    
+    "authorName" : "Richard Grimes"
+    
+    "bookLink" :"https://libribook.com/ebook/4934/beginning-c-programming-pdf/?bookid=45368"
+    
+    "id" : "4"
+    
+    "bookName" : "Python Cookbook"
+    
+    "authorName" : "By David Beazley and Brian K. Jones"
+    
+    "bookLink" : "http://chimera.labs.oreilly.com/books/1230000000393"
+    
+    "id" : "5"
+    
+    "bookName" :"Hadoop with Python"
+    
+    "authorName" : " Zachary Radtka and Donald Miner"
+    
+    "bookLink" : " http://www.oreilly.com/programming/free/hadoop-with-python.csp"
+    
      }
-   
+     {
+ 
+    "id" : "2221",
+    
+    "bookName" : "Cpp practical",
+    
+    "authorName" : "R. P. Jain",
+    
+    "bookLink"   : "https://www.shahbooks.com/cin.html"
+    
+     }
+
+     {
+ 
+    "id" : "5556",
+    
+    "bookName" : "The Everyday Life of an Algorithm",
+    
+    "authorName" : "Daniel Neyland",
+    
+    "bookLink"   : "https://link.springer.com/book/10.1007/978-3-030-00578-8"
+    
+     }
+      {
+ 
+    "id" : "201",
+    
+    "bookName" : "Whereabouts",
+    
+    "authorName" : "Jhumpa Lahiri",
+    
+    "bookLink"   : "https://www.google.co.in/books/edition/Whereabouts/WYQmEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover"
+    
+     }
+     
+
 
 
 
