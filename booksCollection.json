@@ -822,6 +822,19 @@
    
  },
 
+  {
+  
+       "id" : "3232",
+  
+       "bookName" : "Heat and Mass transfer",
+  
+       "authorName" : "Techknowlge",
+  
+       "bookLink" : "www.Techknowlge.edu.in"
+  
+    },
+
+
 
 {
 
@@ -902,6 +915,7 @@
    
    "boolLink" : "https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962/ref=asc_df_8192910962/?tag=googleshopdes-21&linkCode=df0&hvadid=396986422305&hvpos=&hvnetw=g&hvrand=7185990088350799283&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318314935106&psc=1&ext_vrnc=hi"
 },
+
 ]
 
   {    
