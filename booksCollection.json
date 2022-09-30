@@ -780,7 +780,7 @@
    },
    
    
-]
+
 {
    "id" : "63",
    
@@ -791,6 +791,16 @@
    "boolLink" : "http://www.mhhe.com/balgurusamy/java3e"
 },
 
+{
+   "id" : "64",
+   
+   "bookName" : "Living in the Light: A guide to personal transformation",
+   
+   "authorName" : "David Sargent",
+   
+   "boolLink" : "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-d10172273.html"
+},
+]
 
   
 
