@@ -862,6 +862,15 @@
        
 },
 
+{
+   "id" : "36",
+   
+   "bookName" : "Data Structure in C++",
+   
+   "authorName" : "Dinesh mehta",
+   
+   "boolLink" : "http://www.mhhe.com/balgurusamy/c++3e"
+},
 
 {
    "id" : "72",
@@ -930,7 +939,16 @@
       "authorName": "Wyland Drew",
 
       "bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
-   }
+   },
+{
+       "id": "80",
+
+      "bookName": "The Grapes of Wrath",
+
+      "authorName": "John Steinbeck",
+
+      "bookLink": "https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath"
+   },
 {
        "id" : "108",
   
@@ -952,7 +970,16 @@
    },
 {
        "id": "80",
+       
+      "bookName": "clean code",
 
+      "authorName": "Robert Cecil Martin",
+
+      "bookLink": "https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf"
+   },
+{
+      "id" : "78",
+      
       "bookName": "what can i give?",
 
       "authorName": "Srijan Pal Singh ",
@@ -960,6 +987,17 @@
       "bookLink": "https://www.bookspdfdownload.com/2022/06/what-can-i-give-by-srijan-pal-singh-pdf.html"
    },
 
+ {
+  
+       "id" : "90",
+  
+       "bookName" : "zero to one",
+  
+       "authorName" : "Peter Thiel",
+  
+       "bookLink" : "https://zerotonebookstore.book.pdf"
+  
+   },
 
 
 {
@@ -980,8 +1018,26 @@
 
       "bookLink": "https://www.pdfdrive.com/data-structures-a-pseudocode-approach-with-c-second-edition-e158112060.html"
    },
+{
+   "id" : "80",
+   
+   "bookName" : "Designing for the Web",
+   
+   "authorName" : "Mark Boulton",
+   
+   "boolLink" : "https://designingfortheweb.co.uk/"
+},
+{
+   "id" : "321",
+   
+   "bookName" : "My favourite Nature Stories",
+   
+   "authorName" : "Ruskin Bond",
+   
+   "boolLink" : "https://www.goodreads.com/book/show/30252137-my-favourite-nature-stories"
+},
 
-
+]
 
   
 
