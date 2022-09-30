@@ -491,7 +491,11 @@
   
        "authorName" : "chetan bhagat",
   
+
+       "bookLink" : " https://www.amazon.in/Half-Girlfriend-Chetan-Bhagat/dp/8129135728 "
+
        "bookLink" : " https://www.amazon.in/Half-Girlfriend-Chetan-Bhagat/dp/8129135728 "  
+
    },
     
    {
@@ -765,29 +769,17 @@
    "authorName" : "Tech publication",
 
    "bookLink"   : "https://www.techpublication.com/"
-
+   
  },
 
 {
-   "id" : "111",
-
-   "bookName" : "Javascript & Jquery",
-
-   "authorName" : "Jon Duckett",
-
-   "bookLink"   : "https://www.amazon.in/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647"
-},
-
-{
-   "id" : "222",
-
-   "bookName" : "Python Crash Course",
-
-   "authorName" : "Eric Matthes",
-
-   "bookLink"   : "https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280"
-}
-
+   "id" : "777",
+   "bookName" :"The Pragmatic Programmer",
+      "authorName" : "Addison-Wesley Professional",
+   "bookLink"   : "https://books.google.com/books/about/The_Pragmatic_Programmer.html?id=5wBQEp6ruIAC"
+   },
+   
+   
 ]
 
 
