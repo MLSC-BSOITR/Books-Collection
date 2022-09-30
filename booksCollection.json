@@ -780,7 +780,7 @@
    },
    
    
-
+]
 {
    "id" : "63",
    
@@ -790,17 +790,16 @@
    
    "boolLink" : "http://www.mhhe.com/balgurusamy/java3e"
 },
-
-{
-   "id" : "64",
-   
-   "bookName" : "Living in the Light: A guide to personal transformation",
-   
-   "authorName" : "David Sargent",
-   
-   "boolLink" : "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-d10172273.html"
-},
-]
+ {
+        
+       "id" : "9654",
+  
+       "bookName" : "Head first java ",
+  
+       "authorName" : "vasyl malik ",
+  
+       "bookLink" : "https://codegym.cc/groups/posts/best-java-books-for-beginners "
+    },
 
   
 
