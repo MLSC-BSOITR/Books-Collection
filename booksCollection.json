@@ -1226,6 +1226,17 @@
 		"bookLink"   : "https://ptgmedia.pearsoncmg.com/images/9780137579938/samplepages/9780137579938_Sample.pdf"
 		
 	},
+	{
+
+		"id" : "301",
+		
+		"bookName" : "Microservices Best Practices for Java",
+		
+		"authorName" : "Michael Hofmann, Erin Schnabel, Katherine Stanley and IBM Redbooks",
+		
+		"bookLink"   : "https://play.google.com/store/books/details/Michael_Hofmann_Microservices_Best_Practices_for_J?id=KdSrDQAAQBAJ"
+		
+	},
 ]	
 	
 
