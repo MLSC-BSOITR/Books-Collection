@@ -1188,5 +1188,14 @@
     "bookName":"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
     "AuthorName":"Geron Aurelien",
     "boolLink":"https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352139054/ref=asc_df_9352139054/?tag=googleshopdes-21&linkCode=df0&hvadid=397006573861&hvpos=&hvnetw=g&hvrand=15801219934689182910&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062177&hvtargid=pla-838380762468&psc=1&ext_vrnc=hi"
-  }
+  },
+{
+    "id": "445",
+
+    "bookName": "Fundamentals of Deep learning",
+
+    "authorName": "Nikhil Buduma ",
+
+    "bookLink": "https://www.oreilly.com/library/view/fundamentals-of-deep/9781491925607/"
+  },
 ]
