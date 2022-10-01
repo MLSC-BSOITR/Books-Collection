@@ -1271,5 +1271,11 @@
     "bookLink": "https://algs4.cs.princeton.edu/home/"
   },
 
+   {
+    "id" : "135",
+    "bookName" : "JavaScript for cats",
+    "authorName" : "Maxwell Ogden",
+    "bookLink"   : "http://jsforcats.com/"
+   },
 
 ]
