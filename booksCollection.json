@@ -952,6 +952,15 @@
 
     "boolLink": "http://www.mhhe.com/balgurusamy/c++3e"
   },
+    {
+    "id": "75",
+
+    "bookName": "The Algorithm Design Manual",
+
+    "authorName": "Steven S. Skiena",
+
+    "boolLink": "https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf"
+  },
 
   {
     "id": "72",
