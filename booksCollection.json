@@ -1273,5 +1273,25 @@
 
     "bookLink": "https://www.goodreads.com/book/show/9520360-the-son-of-neptune"
   },
+{
+"id" : "100",
+
+"bookName" : "Soft Skills: The Software Developer's Life Manual",
+
+"authorName" : "John Sonmez",
+
+"bookLink"   : "https://www.academia.edu/42799684/Books_The_software_developers_life_manual_John_Sonmez"
+},
+{
+ 
+ "id"   : "101",
+
+"bookName" : "Fundamentals of Deep learning",
+
+"authorName" : " Nikhil Buduma",
+
+"bookLink"   : "https://www.oreilly.com/library/view/fundamentals-of-deep/9781491925607/"
+
+},
    
 ]
