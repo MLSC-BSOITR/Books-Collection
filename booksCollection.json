@@ -842,9 +842,9 @@
 
     "bookName": "Rich Dad Poor Dad",
 
-    "authorName": "bruce Eckel",
+    "authorName": "Robert T. Kiyosaki",
 
-    "bookLink": " "
+    "bookLink": "https://m.snapdeal.com/product/rich-dad-poor-dad-paperback/623405955519?supc=SDL356861425&utm_source=earth&utm_medium=623405955519_388_364_185&vendorCode=S9b8a8&isSellerPage=true&fv=true&utm_source=earth_pmax&utm_campaign=Mobiles_tablets_account_pmax_maxc_1d_ftu&utm_medium=&utm_term=__{bidstrategy}&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1176m4YB-es_sOvS_zVZG8JfNSed39gH6rd_PB3IbLUgH0MY-8_Uy-rgaAh62EALw_wcB "
   },
 
   {
@@ -1248,16 +1248,8 @@
     "authorName": "Grant Smith",
 
     "bookLink": "https://www.barnesandnoble.com/w/everything-you-need-to-ace-computer-science-and-coding-in-one-big-fat-notebook-workman-publishing/1134542740"
-  },
-  {
-    "id": "305",
-
-    "bookName": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
-
-    "authorName": "Geron Aurelien",
-
-    "bookLink": "https://www.flipkart.com/hands-on-machine-learning-scikit-learn-keras-tensorflow-concepts-tools-techniques-build-intelligent-systems-second-4-colour-edition-english-paperback-aurlien-gron/p/itm4a8435bb05fb8"
   }
+  
   
 
 ]
