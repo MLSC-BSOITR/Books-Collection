@@ -530,6 +530,15 @@
 
     "bookLink": "https://kotlinlang.org/docs/books.html"
   },
+ {
+    "id": "52",
+
+    "bookName": "The 48 Laws of Power"
+   
+    "authorName": "Robert Greene",
+
+    "bookLink": "https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197"
+  },
 
   {
     "id": "912",
