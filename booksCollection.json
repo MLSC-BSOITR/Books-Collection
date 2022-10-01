@@ -1264,8 +1264,17 @@
 
     "bookLink": "https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows"
   },
+ {
+    "id": "99",
+
+    "bookName": "The Son of Neptune",
+
+    "authorName": "Rick Riordan",
+
+    "bookLink": "https://www.goodreads.com/book/show/9520360-the-son-of-neptune"
+  },
 {
-"id" : "99",
+"id" : "100",
 
 "bookName" : "Soft Skills: The Software Developer's Life Manual",
 
@@ -1275,7 +1284,7 @@
 },
 {
  
- "id"   : "100",
+ "id"   : "101",
 
 "bookName" : "Fundamentals of Deep learning",
 
