@@ -1,1185 +1,1188 @@
 [
-  {
-    "id": "1",
+	{
+		"id": "1",
 
-    "bookName": "Introduction to Programming in Java: An Interdisciplinary Approach",
+		"bookName": "Introduction to Programming in Java: An Interdisciplinary Approach",
 
-    "authorName": "Kevin Wayne, Robert Sedgewick",
+		"authorName": "Kevin Wayne, Robert Sedgewick",
 
-    "bookLink": "https://introcs.cs.princeton.edu/java/home/"
-  },
-  {
-    "id": "2",
+		"bookLink": "https://introcs.cs.princeton.edu/java/home/"
+	},
+	{
+		"id": "2",
 
-    "bookName": "Harry Potter and The Philosopher's Stone ",
+		"bookName": "Harry Potter and The Philosopher's Stone ",
 
-    "authorName": "Jean K. Rowling ",
+		"authorName": "Jean K. Rowling ",
 
-    "bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
-  },
+		"bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
+	},
 
-  {
-    "id": "100",
+	{
+		"id": "100",
 
-    "bookName": "oop",
+		"bookName": "oop",
 
-    "authorName": "Balguru Swami",
+		"authorName": "Balguru Swami",
 
-    "bookLink": "https://books.google.co.in/books/about/Programming_In_Ansi_C.html?id=3fZa9af1KtYC"
-  },
+		"bookLink": "https://books.google.co.in/books/about/Programming_In_Ansi_C.html?id=3fZa9af1KtYC"
+	},
 
-  {
-    "id": "3",
+	{
+		"id": "3",
 
-    "bookName": "Introduction to Programming in Java: An Interdisciplinary Approach",
+		"bookName": "Introduction to Programming in Java: An Interdisciplinary Approach",
 
-    "authorName": "Kevin Wayne, Robert Sedgewick",
+		"authorName": "Kevin Wayne, Robert Sedgewick",
 
-    "bookLink": "https://introcs.cs.princeton.edu/java/home/"
-  },
+		"bookLink": "https://introcs.cs.princeton.edu/java/home/"
+	},
 
-  {
-    "id": "30",
+	{
+		"id": "30",
 
-    "bookName": "Introduction to DSA",
+		"bookName": "Introduction to DSA",
 
-    "authorName": "thomas h.cormen",
+		"authorName": "thomas h.cormen",
 
-    "bookLink": "https://www.bookchor.com/book/9788120340077/introduction-to-algorithms-third-edition?gclid=CjwKCAjwp9qZBhBkEiwAsYFsbwi7nHYBlCQrOloOaJTMKky6Ll9LdFxpLt5SR4Z1fZ8ZPfMHqhx7tBoCpJYQAvD_BwE"
-  },
+		"bookLink": "https://www.bookchor.com/book/9788120340077/introduction-to-algorithms-third-edition?gclid=CjwKCAjwp9qZBhBkEiwAsYFsbwi7nHYBlCQrOloOaJTMKky6Ll9LdFxpLt5SR4Z1fZ8ZPfMHqhx7tBoCpJYQAvD_BwE"
+	},
 
-  {
-    "id": "4",
+	{
+		"id": "4",
 
-    "bookName": "Harry Potter and The Philosopher's Stone ",
+		"bookName": "Harry Potter and The Philosopher's Stone ",
 
-    "authorName": "Jean K. Rowling ",
+		"authorName": "Jean K. Rowling ",
 
-    "bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
-  },
-  {
-    "id": "5",
+		"bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
+	},
+	{
+		"id": "5",
 
-    "bookName": "HTML & CSS crash course ",
+		"bookName": "HTML & CSS crash course ",
 
-    "authorName": "David McMahon",
+		"authorName": "David McMahon",
 
-    "bookLink": "https://www.pdfdrive.com/html-css-crash-course-learn-html-and-css-with-easy-to-follow-step-by-step-tutorials-e158240321.html "
-  },
-  {
-    "id": "6",
+		"bookLink": "https://www.pdfdrive.com/html-css-crash-course-learn-html-and-css-with-easy-to-follow-step-by-step-tutorials-e158240321.html "
+	},
+	{
+		"id": "6",
 
-    "bookName": " ABSALOM ",
+		"bookName": " ABSALOM ",
 
-    "authorName": " ABSALOM! ",
+		"authorName": " ABSALOM! ",
 
-    "bookLink": "https://www.avabodh.com/cin/cin.html"
-  },
+		"bookLink": "https://www.avabodh.com/cin/cin.html"
+	},
 
-  {
-    "id": "7",
+	{
+		"id": "7",
 
-    "bookName": " ABSALOM ",
+		"bookName": " ABSALOM ",
 
-    "authorName": " ABSALOM! ",
+		"authorName": " ABSALOM! ",
 
-    "bookLink": "https://www.avabodh.com/cin/cin.html"
-  },
+		"bookLink": "https://www.avabodh.com/cin/cin.html"
+	},
 
-  {
-    "id": "8",
+	{
+		"id": "8",
 
-    "bookName": " Rich Dad Poor Dad ",
+		"bookName": " Rich Dad Poor Dad ",
 
-    "authorName": " Robert Kiyosaki's ",
+		"authorName": " Robert Kiyosaki's ",
 
-    "bookLink": "https://sesifoundation.info/free-educational-books/"
-  },
+		"bookLink": "https://sesifoundation.info/free-educational-books/"
+	},
 
-  {
-    "id": "9",
+	{
+		"id": "9",
 
-    "bookName": "UNIX Systems Programming ",
+		"bookName": "UNIX Systems Programming ",
 
-    "authorName": "David A Curry",
+		"authorName": "David A Curry",
 
-    "bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
-  },
+		"bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
+	},
 
-  {
-    "id": "10",
+	{
+		"id": "10",
 
-    "bookName": "The Big Online Book of Linux Ada Programming",
+		"bookName": "The Big Online Book of Linux Ada Programming",
 
-    "authorName": "Ken O. Burtch",
+		"authorName": "Ken O. Burtch",
 
-    "bookLink": "http://www.pegasoft.ca/resources/boblap/book.html"
-  },
+		"bookLink": "http://www.pegasoft.ca/resources/boblap/book.html"
+	},
 
-  {
-    "id": "11",
+	{
+		"id": "11",
 
-    "bookName": "Object Oriented Programming using 'C++'",
+		"bookName": "Object Oriented Programming using 'C++'",
 
-    "authorName": "Pooja Chawla",
+		"authorName": "Pooja Chawla",
 
-    "bookLink": "http://www.freebookcentre.net/programming-books-download/Object-Oriented-Programming-using-'C++'.html/"
-  },
+		"bookLink": "http://www.freebookcentre.net/programming-books-download/Object-Oriented-Programming-using-'C++'.html/"
+	},
 
-  {
-    "id": "12",
+	{
+		"id": "12",
 
-    "bookName": "Modern cmake",
+		"bookName": "Modern cmake",
 
-    "authorName": "Henry Schreiner",
+		"authorName": "Henry Schreiner",
 
-    "bookLink": "https://cliutils.gitlab.io/modern-cmake/ "
-  },
+		"bookLink": "https://cliutils.gitlab.io/modern-cmake/ "
+	},
 
-  {
-    "id": "13",
+	{
+		"id": "13",
 
-    "bookName": "Data Structures & Algorithms in Java",
+		"bookName": "Data Structures & Algorithms in Java",
 
-    "authorName": "Robert Lafore",
+		"authorName": "Robert Lafore",
 
-    "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
-  },
+		"bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
+	},
 
-  {
-    "id": "14",
+	{
+		"id": "14",
 
-    "bookName": "DSA ",
+		"bookName": "DSA ",
 
-    "authorName": " ",
+		"authorName": " ",
 
-    "bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
-  },
+		"bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+	},
 
-  {
-    "id": "15",
+	{
+		"id": "15",
 
-    "bookName": "UNIX Systems Programming ",
+		"bookName": "UNIX Systems Programming ",
 
-    "authorName": "David A Curry",
+		"authorName": "David A Curry",
 
-    "bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
-  },
-  {
-    "id": "16",
+		"bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
+	},
+	{
+		"id": "16",
 
-    "bookName": "The Big Online Book of Linux Ada Programming",
+		"bookName": "The Big Online Book of Linux Ada Programming",
 
-    "authorName": "Ken O. Burtch",
+		"authorName": "Ken O. Burtch",
 
-    "bookLink": "http://www.pegasoft.ca/resources/boblap/book.html"
-  },
+		"bookLink": "http://www.pegasoft.ca/resources/boblap/book.html"
+	},
 
-  {
-    "id": "17",
+	{
+		"id": "17",
 
-    "bookName": "Object Oriented Programming using 'C++'",
+		"bookName": "Object Oriented Programming using 'C++'",
 
-    "authorName": "Pooja Chawla",
+		"authorName": "Pooja Chawla",
 
-    "bookLink": "http://www.freebookcentre.net/programming-books-download/Object-Oriented-Programming-using-'C++'.html/"
-  },
-  {
-    "id": "18",
+		"bookLink": "http://www.freebookcentre.net/programming-books-download/Object-Oriented-Programming-using-'C++'.html/"
+	},
+	{
+		"id": "18",
 
-    "bookName": "Modern cmake",
+		"bookName": "Modern cmake",
 
-    "authorName": "Henry Schreiner",
+		"authorName": "Henry Schreiner",
 
-    "bookLink": "https://cliutils.gitlab.io/modern-cmake/ "
-  },
+		"bookLink": "https://cliutils.gitlab.io/modern-cmake/ "
+	},
 
-  {
-    "id": "19",
+	{
+		"id": "19",
 
-    "bookName": "Data Structures & Algorithms in Java",
+		"bookName": "Data Structures & Algorithms in Java",
 
-    "authorName": "Robert Lafore",
+		"authorName": "Robert Lafore",
 
-    "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
-  },
-  {
-    "id": "20",
+		"bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
+	},
+	{
+		"id": "20",
 
-    "bookName": "DSA ",
+		"bookName": "DSA ",
 
-    "authorName": " ",
+		"authorName": " ",
 
-    "bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
-  },
+		"bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+	},
 
-  {
-    "id": "21",
+	{
+		"id": "21",
 
-    "bookName": "Arrays ",
+		"bookName": "Arrays ",
 
-    "authorName": " ",
+		"authorName": " ",
 
-    "bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
-  },
+		"bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+	},
 
-  {
-    "id": "22",
+	{
+		"id": "22",
 
-    "bookName": "balaguruswamy ",
+		"bookName": "balaguruswamy ",
 
-    "authorName": "E. BALAGURUSWAMY",
+		"authorName": "E. BALAGURUSWAMY",
 
-    "bookLink": "https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
-  },
-  {
-    "id": "23",
+		"bookLink": "https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
+	},
+	{
+		"id": "23",
 
-    "bookName": "Dorothy Hood",
+		"bookName": "Dorothy Hood",
 
-    "authorName": "Colin Scales",
+		"authorName": "Colin Scales",
 
-    "bookLink": "https://deals.manybooks.net/ebooks/dorothy-hood"
-  },
+		"bookLink": "https://deals.manybooks.net/ebooks/dorothy-hood"
+	},
 
-  {
-    "id": "24",
+	{
+		"id": "24",
 
-    "bookName": "Zero to One",
+		"bookName": "Zero to One",
 
-    "authorName": "Peter Thiel",
+		"authorName": "Peter Thiel",
 
-    "bookLink": "https://drive.google.com/file/d/0B7OmNithn8yCWE5WUUktZnJvR3M/view"
-  },
+		"bookLink": "https://drive.google.com/file/d/0B7OmNithn8yCWE5WUUktZnJvR3M/view"
+	},
 
-  {
-    "id": "25",
+	{
+		"id": "25",
 
-    "bookName": "Let Us C",
+		"bookName": "Let Us C",
 
-    "authorName": "Yashwant Kanetkar",
+		"authorName": "Yashwant Kanetkar",
 
-    "bookLink": "https://books.google.co.in/books/about/Let_us_C_16th_Edition.html?id=QIV8DwAAQBAJ&redir_esc=y"
-  },
+		"bookLink": "https://books.google.co.in/books/about/Let_us_C_16th_Edition.html?id=QIV8DwAAQBAJ&redir_esc=y"
+	},
 
-  {
-    "id": "26",
+	{
+		"id": "26",
 
-    "bookName": "How I taught my Grandmother to read ",
+		"bookName": "How I taught my Grandmother to read ",
 
-    "authorName": "Sudha Murty",
+		"authorName": "Sudha Murty",
 
-    "bookLink": "https://www.amazon.in/How-Taught-My-Grandmother-Read/dp/014333364X"
-  },
+		"bookLink": "https://www.amazon.in/How-Taught-My-Grandmother-Read/dp/014333364X"
+	},
 
-  {
-    "id": "27",
+	{
+		"id": "27",
 
-    "bookName": "Effective Java, 3rd Edition",
+		"bookName": "Effective Java, 3rd Edition",
 
-    "authorName": "Joshua Bloch",
+		"authorName": "Joshua Bloch",
 
-    "bookLink": "https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/"
-  },
+		"bookLink": "https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/"
+	},
 
-  {
-    "id": "28",
+	{
+		"id": "28",
 
-    "bookName": "ELON MUSK",
+		"bookName": "ELON MUSK",
 
-    "authorName": "ASHLEE VANCE ",
+		"authorName": "ASHLEE VANCE ",
 
-    "bookLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEn9q0yLz6AhWUNSsKHRdqBuwYABAGGgJzZg&ohost=www.google.com&cid=CAESa-D20b403yHw7JnXJR0qslg0bJwuuT0jiExasS0a1qqmwnkJKhs8X57FuZTHpjLdWc6I14hCT2rcHCWMYtFPNEHLTo84bkGPfxWWv1AeFdahkHUd17-snqRm7S_9AbpVWHEBRgz1rqkAFd-J&sig=AOD64_3zO8C8K19PqIf29H7FxPeA8Cz7dw&ctype=5&q=&ved=2ahUKEwiQr8-0yLz6AhUY73MBHSXnCn8Qww8oAnoECAQQCw&adurl= "
-  },
+		"bookLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEn9q0yLz6AhWUNSsKHRdqBuwYABAGGgJzZg&ohost=www.google.com&cid=CAESa-D20b403yHw7JnXJR0qslg0bJwuuT0jiExasS0a1qqmwnkJKhs8X57FuZTHpjLdWc6I14hCT2rcHCWMYtFPNEHLTo84bkGPfxWWv1AeFdahkHUd17-snqRm7S_9AbpVWHEBRgz1rqkAFd-J&sig=AOD64_3zO8C8K19PqIf29H7FxPeA8Cz7dw&ctype=5&q=&ved=2ahUKEwiQr8-0yLz6AhUY73MBHSXnCn8Qww8oAnoECAQQCw&adurl= "
+	},
 
-  {
-    "id": "29",
+	{
+		"id": "29",
 
-    "bookName": "think and Grow rich",
+		"bookName": "think and Grow rich",
 
-    "authorName": "Napoleon hill ",
+		"authorName": "Napoleon hill ",
 
-    "bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-  },
+		"bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
+	},
 
-  {
-    "id": "30",
+	{
+		"id": "30",
 
-    "bookName": "think and Grow rich",
+		"bookName": "think and Grow rich",
 
-    "authorName": "Napoleon hill ",
+		"authorName": "Napoleon hill ",
 
-    "bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-  },
+		"bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
+	},
 
-  {
-    "id": "31",
+	{
+		"id": "31",
 
-    "bookName": "Think and grow rich ",
+		"bookName": "Think and grow rich ",
 
-    "authorName": "Napoleon Hill ",
+		"authorName": "Napoleon Hill ",
 
-    "bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-  },
+		"bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
+	},
 
-  {
-    "id": "32",
+	{
+		"id": "32",
 
-    "bookName": "Arrays ",
+		"bookName": "Arrays ",
 
-    "authorName": " ",
+		"authorName": " ",
 
-    "bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
-  },
+		"bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+	},
 
-  {
-    "id": "33",
+	{
+		"id": "33",
 
-    "bookName": "balaguruswamy ",
+		"bookName": "balaguruswamy ",
 
-    "authorName": "E. BALAGURUSWAMY",
+		"authorName": "E. BALAGURUSWAMY",
 
-    "bookLink": "https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
-  },
+		"bookLink": "https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
+	},
 
-  {
-    "id": "34",
+	{
+		"id": "34",
 
-    "bookName": "Effective Java, 3rd Edition",
+		"bookName": "Effective Java, 3rd Edition",
 
-    "authorName": "Joshua Bloch",
+		"authorName": "Joshua Bloch",
 
-    "bookLink": "https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/"
-  },
+		"bookLink": "https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/"
+	},
 
-  {
-    "id": "35",
+	{
+		"id": "35",
 
-    "bookName": "ELON MUSK",
+		"bookName": "ELON MUSK",
 
-    "authorName": "ASHLEE VANCE ",
+		"authorName": "ASHLEE VANCE ",
 
-    "bookLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEn9q0yLz6AhWUNSsKHRdqBuwYABAGGgJzZg&ohost=www.google.com&cid=CAESa-D20b403yHw7JnXJR0qslg0bJwuuT0jiExasS0a1qqmwnkJKhs8X57FuZTHpjLdWc6I14hCT2rcHCWMYtFPNEHLTo84bkGPfxWWv1AeFdahkHUd17-snqRm7S_9AbpVWHEBRgz1rqkAFd-J&sig=AOD64_3zO8C8K19PqIf29H7FxPeA8Cz7dw&ctype=5&q=&ved=2ahUKEwiQr8-0yLz6AhUY73MBHSXnCn8Qww8oAnoECAQQCw&adurl= "
-  },
+		"bookLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEn9q0yLz6AhWUNSsKHRdqBuwYABAGGgJzZg&ohost=www.google.com&cid=CAESa-D20b403yHw7JnXJR0qslg0bJwuuT0jiExasS0a1qqmwnkJKhs8X57FuZTHpjLdWc6I14hCT2rcHCWMYtFPNEHLTo84bkGPfxWWv1AeFdahkHUd17-snqRm7S_9AbpVWHEBRgz1rqkAFd-J&sig=AOD64_3zO8C8K19PqIf29H7FxPeA8Cz7dw&ctype=5&q=&ved=2ahUKEwiQr8-0yLz6AhUY73MBHSXnCn8Qww8oAnoECAQQCw&adurl= "
+	},
 
-  {
-    "id": "36",
+	{
+		"id": "36",
 
-    "bookName": "think and Grow rich",
+		"bookName": "think and Grow rich",
 
-    "authorName": "Napoleon hill ",
+		"authorName": "Napoleon hill ",
 
-    "bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-  },
+		"bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
+	},
 
-  {
-    "id": "37",
+	{
+		"id": "37",
 
-    "bookName": "think and Grow rich",
+		"bookName": "think and Grow rich",
 
-    "authorName": "Napoleon hill ",
+		"authorName": "Napoleon hill ",
 
-    "bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-  },
+		"bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
+	},
 
-  {
-    "id": "38 ",
+	{
+		"id": "38 ",
 
-    "bookName": "Think and grow rich ",
+		"bookName": "Think and grow rich ",
 
-    "authorName": "Napoleon Hill ",
+		"authorName": "Napoleon Hill ",
 
-    "bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-  },
+		"bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
+	},
 
-  {
-    "id": "39",
+	{
+		"id": "39",
 
-    "bookName": "UNIX Systems Programming ",
+		"bookName": "UNIX Systems Programming ",
 
-    "authorName": "David A Curry",
+		"authorName": "David A Curry",
 
-    "bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
-  },
-  {
-    "id": "96",
+		"bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
+	},
+	{
+		"id": "96",
 
-    "bookName": "The india story ",
+		"bookName": "The india story ",
 
-    "authorName": "Richard Wilson ",
+		"authorName": "Richard Wilson ",
 
-    "bookLink": "http://archive.org/details/indianstorybook015651mbp "
-  },
+		"bookLink": "http://archive.org/details/indianstorybook015651mbp "
+	},
 
-  {
-    "id": "40",
+	{
+		"id": "40",
 
-    "bookName": "The psychology of money",
+		"bookName": "The psychology of money",
 
-    "authorName": "Morgan Housel",
+		"authorName": "Morgan Housel",
 
-    "bookLink": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
-  },
+		"bookLink": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
+	},
 
-  {
-    "id": "41",
+	{
+		"id": "41",
 
-    "bookName": "Atomic Kotlin",
+		"bookName": "Atomic Kotlin",
 
-    "authorName": "bruce Eckel",
+		"authorName": "bruce Eckel",
 
-    "bookLink": "https://kotlinlang.org/docs/books.html"
-  },
+		"bookLink": "https://kotlinlang.org/docs/books.html"
+	},
 
-  {
-    "id": "42",
+	{
+		"id": "42",
 
-    "bookName": "HTML & CSS",
+		"bookName": "HTML & CSS",
 
-    "authorName": "Jon Duckett",
+		"authorName": "Jon Duckett",
 
-    "bookLink": "https://www.htmlandcssbook.com/buy/"
-  },
+		"bookLink": "https://www.htmlandcssbook.com/buy/"
+	},
 
-  {
-    "id": "43",
+	{
+		"id": "43",
 
-    "bookName": "UNIX Systems Programming ",
+		"bookName": "UNIX Systems Programming ",
 
-    "authorName": "David A Curry",
+		"authorName": "David A Curry",
 
-    "bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
-  },
-  {
-    "id": "44",
+		"bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
+	},
+	{
+		"id": "44",
 
-    "bookName": "halfgirlfriend ",
+		"bookName": "halfgirlfriend ",
 
-    "authorName": "chetan bhagat",
+		"authorName": "chetan bhagat",
 
-    "bookLink": " https://www.amazon.in/Half-Girlfriend-Chetan-Bhagat/dp/8129135728 "
-  },
+		"bookLink": " https://www.amazon.in/Half-Girlfriend-Chetan-Bhagat/dp/8129135728 "
+	},
 
-  {
-    "id": "45",
+	{
+		"id": "45",
 
-    "bookName": "The psychology of money",
+		"bookName": "The psychology of money",
 
-    "authorName": "Morgan Housel",
+		"authorName": "Morgan Housel",
 
-    "bookLink": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
-  },
-  {
-    "id": "46",
+		"bookLink": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681"
+	},
+	{
+		"id": "46",
 
-    "bookName": "Atomic Kotlin",
+		"bookName": "Atomic Kotlin",
 
-    "authorName": "bruce Eckel",
+		"authorName": "bruce Eckel",
 
-    "bookLink": "https://kotlinlang.org/docs/books.html"
-  },
+		"bookLink": "https://kotlinlang.org/docs/books.html"
+	},
 
-  {
-    "id": "47",
+	{
+		"id": "47",
 
-    "bookName": "Crafting a Compiler",
+		"bookName": "Crafting a Compiler",
 
-    "authorName": "Charles N Fisher",
+		"authorName": "Charles N Fisher",
 
-    "bookLink": "http://www.cs.nthu.edu.tw/~ychung/slides/CSC4180/Crafting%20a%20Compiler%20-%202010.pdf"
-  },
-  {
-    "id": "48",
+		"bookLink": "http://www.cs.nthu.edu.tw/~ychung/slides/CSC4180/Crafting%20a%20Compiler%20-%202010.pdf"
+	},
+	{
+		"id": "48",
 
-    "bookName": "Do Epic Shit",
+		"bookName": "Do Epic Shit",
 
-    "authorName": "Ankur Warikoo",
+		"authorName": "Ankur Warikoo",
 
-    "bookLink": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486"
-  },
-  {
-    "id": "49",
+		"bookLink": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486"
+	},
+	{
+		"id": "49",
 
-    "bookName": "The Rudest Book Ever",
+		"bookName": "The Rudest Book Ever",
 
-    "authorName": "Shwetabh Gangwar",
+		"authorName": "Shwetabh Gangwar",
 
-    "bookLink": "https://www.amazon.in/Rudest-Book-Ever-Shwetabh-Gangwar/dp/9388754433"
-  },
+		"bookLink": "https://www.amazon.in/Rudest-Book-Ever-Shwetabh-Gangwar/dp/9388754433"
+	},
 
-  {
-    "id": "50",
+	{
+		"id": "50",
 
-    "bookName": "Harry Potter and The Philosopher's Stone ",
+		"bookName": "Harry Potter and The Philosopher's Stone ",
 
-    "authorName": "Jean K. Rowling ",
+		"authorName": "Jean K. Rowling ",
 
-    "bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
-  },
+		"bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638259,00.html "
+	},
 
-  {
-    "id": "51",
+	{
+		"id": "51",
 
-    "bookName": "Habbit of Winning",
+		"bookName": "Habbit of Winning",
 
-    "authorName": "bruce Eckel",
+		"authorName": "bruce Eckel",
 
-    "bookLink": "https://kotlinlang.org/docs/books.html"
-  },
+		"bookLink": "https://kotlinlang.org/docs/books.html"
+	},
 
-  {
-    "id": "912",
+	{
+		"id": "912",
 
-    "bookName": "Elon Musk",
+		"bookName": "Elon Musk",
 
-    "authorName": "ASHLEE VANCE ",
+		"authorName": "ASHLEE VANCE ",
 
-    "bookLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEn9q0yLz6AhWUNSsKHRdqBuwYABAGGgJzZg&ohost=www.google.com&cid=CAESa-D20b403yHw7JnXJR0qslg0bJwuuT0jiExasS0a1qqmwnkJKhs8X57FuZTHpjLdWc6I14hCT2rcHCWMYtFPNEHLTo84bkGPfxWWv1AeFdahkHUd17-snqRm7S_9AbpVWHEBRgz1rqkAFd-J&sig=AOD64_3zO8C8K19PqIf29H7FxPeA8Cz7dw&ctype=5&q=&ved=2ahUKEwiQr8-0yLz6AhUY73MBHSXnCn8Qww8oAnoECAQQCw&adurl= "
-  },
+		"bookLink": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEn9q0yLz6AhWUNSsKHRdqBuwYABAGGgJzZg&ohost=www.google.com&cid=CAESa-D20b403yHw7JnXJR0qslg0bJwuuT0jiExasS0a1qqmwnkJKhs8X57FuZTHpjLdWc6I14hCT2rcHCWMYtFPNEHLTo84bkGPfxWWv1AeFdahkHUd17-snqRm7S_9AbpVWHEBRgz1rqkAFd-J&sig=AOD64_3zO8C8K19PqIf29H7FxPeA8Cz7dw&ctype=5&q=&ved=2ahUKEwiQr8-0yLz6AhUY73MBHSXnCn8Qww8oAnoECAQQCw&adurl= "
+	},
 
-  
-{
-       "id": "82",
+	{
+		"id": "82",
 
-      "bookName": "data structre a pseudocode approach with c",
+		"bookName": "data structre a pseudocode approach with c",
 
-      "authorName": "Richard F.Gilberg and Behrouz A.Forouzan",
+		"authorName": "Richard F.Gilberg and Behrouz A.Forouzan",
 
-      "bookLink": "https://www.pdfdrive.com/data-structures-a-pseudocode-approach-with-c-second-edition-e158112060.html"
-   },
-{
-   "id" : "80",
-   
-   "bookName" : "Designing for the Web",
-   
-   "authorName" : "Mark Boulton",
-   
-   "boolLink" : "https://designingfortheweb.co.uk/"
-},
-{
-   "id" : "321",
-   
-   "bookName" : "My favourite Nature Stories",
-   
-   "authorName" : "Ruskin Bond",
-   
-   "boolLink" : "https://www.goodreads.com/book/show/30252137-my-favourite-nature-stories"
-},
- {
+		"bookLink": "https://www.pdfdrive.com/data-structures-a-pseudocode-approach-with-c-second-edition-e158112060.html"
+	},
+	{
+		"id": "80",
 
-      "id": "81",
+		"bookName": "Designing for the Web",
 
-      "bookName": "Dune",
+		"authorName": "Mark Boulton",
 
-      "authorName": "Frank Herbert",
+		"boolLink": "https://designingfortheweb.co.uk/"
+	},
+	{
+		"id": "321",
 
-      "bookLink": "https://anybookpdf.com"
+		"bookName": "My favourite Nature Stories",
 
-   },
-   {
-  
-       "id" : "2244",
-  
-       "bookName" : "Mathematics",
-  
-       "authorName" : "Techpublication",
-  
-       "bookLink" : "www.Techpublication.edu.in"
-  
-    },
+		"authorName": "Ruskin Bond",
 
- {
+		"boolLink": "https://www.goodreads.com/book/show/30252137-my-favourite-nature-stories"
+	},
+	{
+		"id": "81",
 
-      "id": "8199",
+		"bookName": "Dune",
 
-      "bookName": "Design of Machine Elements",
+		"authorName": "Frank Herbert",
 
-      "authorName": "V. B. Bhandari",
+		"bookLink": "https://anybookpdf.com"
+	},
+	{
+		"id": "2244",
 
-      "bookLink": "https://books.google.com/books/about/Design_of_Machine_Elements.html?id=f5Eit2FZe_cC"
+		"bookName": "Mathematics",
 
-   },
-{
-  
-       "id" : "30",
-  
-       "bookName" : "The Christmas Pig",
-  
-       "authorName" : "JK Rowling",
-  
-       "bookLink" : "https://www.amazon.in/Christmas-Pig-J-K-Rowling/dp/1444964917"
-  
-    },
+		"authorName": "Techpublication",
 
-   {
-      "id" : "443",
-      
-      "bookName" : "Automate the Boring Stuff with Python",
-      
-      "authorName" : "Al Sweigart",
-      
-      "bookLink"   : "https://automatetheboringstuff.com/"
-      
-  },
-  {
-   
-      "id" : "444",
-      
-      "bookName" : "Statistics without tears",
-      
-      "authorName" : "Derek Rowntree",
-      
-      "bookLink"   : "https://www.pdfdrive.com/statistics-without-tears-a-primer-for-non-mathematicians-e164063180.html"
-  },
-   {
-      "id" : "1824",
-      
-      "bookName" : "New Moon",
-      
-      "authorName" : "Stephenie Meyer",
-      
-      "bookLink"   : "https://www.amazon.in/New-Moon-Stephenie-Meyer/dp/1904233880"
-   },
-{
+		"bookLink": "www.Techpublication.edu.in"
+	},
 
-      "id" : "369",
-      
-      "bookName" : "The Metamorphosis",
-      
-      "authorName" : "Franz Kafka",
-      
-      "bookLink"   : "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi" 
-   },
-{
-       "id" : "444",
-  
-       "bookName" : "The India Story",
-  
-       "authorName" : "Bimal Jalal",
-  
-       "bookLink" : "https://www.careerpower.in/books-and-authors.html"
-  },
-{
-      "id" : "2409",
-      
-      "bookName" : "Resisting Happiness: A True Story about Why We Sabotage Ourselves",
-      
-      "authorName" : "Anonymous",
-      
-      "bookLink"   : "https://www.pdfdrive.com/resisting-happiness-a-true-story-about-why-we-sabotage-ourselves-d39563520.html"
-},
+	{
+		"id": "8199",
 
-{
-      "id" : "445",
-      
-      "bookName" : "Marutas of Unit 731",
-      
-      "authorName" : "Jenny Chan",
-      
-      "bookLink"   : "https://www.pacificatrocities.org/book-marutas-of-unit-731-human-experimentation-of-the-forgotten-asian-auschwitz.html"
-      },
-    {
-      "id" : "405",
-      
-      "bookName" : "Birsa Munda – Janjatiya Nayak",
-      
-      "authorName" : "Dharmendra Pradhan",
-      
-      "bookLink"   : "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1813792"
- },
- 
-{
+		"bookName": "Design of Machine Elements",
 
-   "id" : "421",
-   
-   "bookName" : "IKIGAI : The Japanese secret to a long and happy life",
-   
-   "authorName" : "Hector Garcia",
-   
-   "bookLink"   : "https://www.pdfdrive.com/ikigai-the-japanese-secret-to-a-long-and-happy-life-e195091541.html"
-},
+		"authorName": "V. B. Bhandari",
 
-{
-       "id" : "2404",
-   
-      "bookName" : "Rich dad poor dad",
-   
-      "authorName" : "Robert .T.Kiyosaki",
-   
-      "bookLink" : "https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad"
-},
+		"bookLink": "https://books.google.com/books/about/Design_of_Machine_Elements.html?id=f5Eit2FZe_cC"
+	},
+	{
+		"id": "30",
 
-  {
-    "id": "52",
+		"bookName": "The Christmas Pig",
 
-    "bookName": "PROFIT FIRST",
+		"authorName": "JK Rowling",
 
-    "authorName": "Mike michalowicz",
+		"bookLink": "https://www.amazon.in/Christmas-Pig-J-K-Rowling/dp/1444964917"
+	},
 
-    "bookLink": "https://www.amazon.in/Profit-First-Transform-Cash-Eating-Money-Making-ebook/dp/B01HCGYTH4"
-  },
-  {
-    "id": "53",
+	{
+		"id": "443",
 
-    "bookName": "Wings of Fire",
+		"bookName": "Automate the Boring Stuff with Python",
 
-    "authorName": "APJ Abdul Kalam",
+		"authorName": "Al Sweigart",
 
-    "bookLink": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461"
-  },
-  {
-    "id": "54",
+		"bookLink": "https://automatetheboringstuff.com/"
+	},
+	{
+		"id": "444",
 
-    "bookName": "Learn java in one day & learn it will",
+		"bookName": "Statistics without tears",
 
-    "authorName": "Jamie Chan ",
+		"authorName": "Derek Rowntree",
 
-    "bookLink": "https://www.pdfdrive.com/learn-java-in-one-day-and-learn-it-well-e176428505.html "
-  },
+		"bookLink": "https://www.pdfdrive.com/statistics-without-tears-a-primer-for-non-mathematicians-e164063180.html"
+	},
+	{
+		"id": "1824",
 
-  {
-    "id": "55",
+		"bookName": "New Moon",
 
-    "bookName": "Artificial Intelligence-A Modern Approach",
+		"authorName": "Stephenie Meyer",
 
-    "authorName": "Stuart Russell | Peter Norvig",
+		"bookLink": "https://www.amazon.in/New-Moon-Stephenie-Meyer/dp/1904233880"
+	},
+	{
+		"id": "369",
 
-    "bookLink": "https://drive.google.com/file/d/1ZRgssvFSoPT3PtKZr_JxdauZAnrpjev8/view?usp=drivesdk"
-  },
-  {
-    "id": "56",
+		"bookName": "The Metamorphosis",
 
-    "bookName": "She Stood By Me ",
+		"authorName": "Franz Kafka",
 
-    "authorName": "Tarun Vikash ",
+		"bookLink": "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi"
+	},
+	{
+		"id": "444",
 
-    "bookLink": "https://anybookpdf.com/she-stood-by-me-pdf-download/"
-  },
+		"bookName": "The India Story",
 
-  {
-    "id": "57",
+		"authorName": "Bimal Jalal",
 
-    "bookName": "The Subtle Art of Not Giving a Fuck",
+		"bookLink": "https://www.careerpower.in/books-and-authors.html"
+	},
+	{
+		"id": "2409",
 
-    "authorName": "Mark Manson",
+		"bookName": "Resisting Happiness: A True Story about Why We Sabotage Ourselves",
 
-    "bookLink": "https://openlibrary.org/works/OL17590212W/The_Subtle_Art_of_Not_Giving_a_F%2Ack"
-  },
-  {
-    "id": "58",
+		"authorName": "Anonymous",
 
-    "bookName": "Machine Learning for Begineer",
+		"bookLink": "https://www.pdfdrive.com/resisting-happiness-a-true-story-about-why-we-sabotage-ourselves-d39563520.html"
+	},
 
-    "authorName": " Harsh Bhasin",
+	{
+		"id": "445",
 
-    "bookLink": "https://in.bpbonline.com/products/machine-learning-for-beginners?variant=41457927323835&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=EAIaIQobChMI1KmC4d68-gIVEgByCh1yqASGEAYYAyABEgK6MvD_BwE"
-  },
-  {
-    "id": "59",
+		"bookName": "Marutas of Unit 731",
 
-    "bookName": "Data Structures & Algorithms in Java",
+		"authorName": "Jenny Chan",
 
-    "authorName": "Robert Lafore",
+		"bookLink": "https://www.pacificatrocities.org/book-marutas-of-unit-731-human-experimentation-of-the-forgotten-asian-auschwitz.html"
+	},
+	{
+		"id": "405",
 
-    "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
-  },
-  {
-    "id": "60",
+		"bookName": "Birsa Munda – Janjatiya Nayak",
 
-    "bookName": "2 States The Story Of My Marriage ",
+		"authorName": "Dharmendra Pradhan",
 
-    "authorName": "Chetan Bhagat ",
+		"bookLink": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1813792"
+	},
 
-    "bookLink": "https://www.junkybooks.com/book/2-states-the-story-of-my-marriage"
-  },
+	{
+		"id": "421",
 
-  {
-    "id": "61",
+		"bookName": "IKIGAI : The Japanese secret to a long and happy life",
 
-    "bookName": "The 7 habits of highly effective people",
+		"authorName": "Hector Garcia",
 
-    "authorName": "Stephen R Covey",
+		"bookLink": "https://www.pdfdrive.com/ikigai-the-japanese-secret-to-a-long-and-happy-life-e195091541.html"
+	},
 
-    "bookLink": "https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274"
-  },
+	{
+		"id": "2404",
 
-  {
-    "id": "62",
+		"bookName": "Rich dad poor dad",
 
-    "bookName": "How to win friends and influence people",
+		"authorName": "Robert .T.Kiyosaki",
 
-    "authorName": "Dale carnegie",
+		"bookLink": "https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad"
+	},
 
-    "bookLink": "https://drive.google.com/file/d/0B-vYMgZ5ExCda3NNWjQtcWVvamc/view?resourcekey=0-urTTbAw2FyEM6zZC2rUknA"
-  },
-  {
-    "id": "63",
+	{
+		"id": "52",
 
-    "bookName": "RICH DAD POOR DAD",
+		"bookName": "PROFIT FIRST",
 
-    "authorName": "Robert kiyosaki ",
+		"authorName": "Mike michalowicz",
 
-    "bookLink": "https://www.flipkart.com/rich-dad-poor-robert-t-kiyosaki/p/itm4a07957f183fa?pid=RBKGGJQ2Q7ATCGNM&lid=LSTRBKGGJQ2Q7ATCGNM3AXP78&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyRLCNRy3aIznj3PfzcBtPluLDkwzMZf28GZ_c8aGPAHjfp4oucHrBoCIKkQAvD_BwE"
-  },
-  {
-    "id": "64",
+		"bookLink": "https://www.amazon.in/Profit-First-Transform-Cash-Eating-Money-Making-ebook/dp/B01HCGYTH4"
+	},
+	{
+		"id": "53",
 
-    "bookName": "Atomic Habit",
+		"bookName": "Wings of Fire",
 
-    "authorName": "James clear",
+		"authorName": "APJ Abdul Kalam",
 
-    "bookLink": "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
-  },
+		"bookLink": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461"
+	},
+	{
+		"id": "54",
 
-  {
-    "id": "65",
+		"bookName": "Learn java in one day & learn it will",
 
-    "bookName": "C++ Hacker's Guide",
+		"authorName": "Jamie Chan ",
 
-    "authorName": "Steve Oualline",
+		"bookLink": "https://www.pdfdrive.com/learn-java-in-one-day-and-learn-it-well-e176428505.html "
+	},
 
-    "bookLink": "https://www.e-booksdirectory.com/details.php?ebook=9545 "
-  },
+	{
+		"id": "55",
 
-  {
-    "id": "66",
+		"bookName": "Artificial Intelligence-A Modern Approach",
 
-    "bookName": "Rich Dad Poor Dad",
+		"authorName": "Stuart Russell | Peter Norvig",
 
-    "authorName": "bruce Eckel",
+		"bookLink": "https://drive.google.com/file/d/1ZRgssvFSoPT3PtKZr_JxdauZAnrpjev8/view?usp=drivesdk"
+	},
+	{
+		"id": "56",
 
-    "bookLink": " "
-  },
+		"bookName": "She Stood By Me ",
 
-  {
-    "id": "67",
+		"authorName": "Tarun Vikash ",
 
-    "bookName": "Atomic Kotlin",
+		"bookLink": "https://anybookpdf.com/she-stood-by-me-pdf-download/"
+	},
 
-    "authorName": "Robert Kiyosaki and Sharon Lechter",
+	{
+		"id": "57",
 
-    "bookLink": "https://kotlinlang.org/docs/books.html"
-  },
-  {
-    "id": "68",
+		"bookName": "The Subtle Art of Not Giving a Fuck",
 
-    "bookName": "Percy Jackson: The Lightning Thief",
+		"authorName": "Mark Manson",
 
-    "authorName": "Rick Riordan",
+		"bookLink": "https://openlibrary.org/works/OL17590212W/The_Subtle_Art_of_Not_Giving_a_F%2Ack"
+	},
+	{
+		"id": "58",
 
-    "bookLink": "https://www.google.com/aclk?sa=l&ai=DChcSEwiFiNfi5Lz6AhUFNSsKHTEQB5MYABABGgJzZg&sig=AOD64_3yc2UkbKS_daY6Dvrd_FzK9qKYzQ&ctype=5&q=&ved=0ahUKEwiykNHi5Lz6AhXp3TgGHV4TAyMQww8IyQg&adurl="
-  },
-  {
-    "id": "69",
+		"bookName": "Machine Learning for Begineer",
 
-    "bookName": "Automating the boring stuff with Python",
+		"authorName": " Harsh Bhasin",
 
-    "authorName": "Al Sweigart",
+		"bookLink": "https://in.bpbonline.com/products/machine-learning-for-beginners?variant=41457927323835&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=EAIaIQobChMI1KmC4d68-gIVEgByCh1yqASGEAYYAyABEgK6MvD_BwE"
+	},
+	{
+		"id": "59",
 
-    "bookLink": "https://automatetheboringstuff.com/"
-  },
-  {
-    "id": "70",
+		"bookName": "Data Structures & Algorithms in Java",
 
-    "bookName": "Design of Machine Elements",
+		"authorName": "Robert Lafore",
 
-    "authorName": "Tech publication",
+		"bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
+	},
+	{
+		"id": "60",
 
-    "bookLink": "https://www.techpublication.com/"
-  },
+		"bookName": "2 States The Story Of My Marriage ",
 
-  {
-    "id": "3232",
+		"authorName": "Chetan Bhagat ",
 
-    "bookName": "Heat and Mass transfer",
+		"bookLink": "https://www.junkybooks.com/book/2-states-the-story-of-my-marriage"
+	},
 
-    "authorName": "Techknowlge",
+	{
+		"id": "61",
 
-    "bookLink": "www.Techknowlge.edu.in"
-  },
+		"bookName": "The 7 habits of highly effective people",
 
-  {
-    "id": "222",
+		"authorName": "Stephen R Covey",
 
-    "bookName": "Python Crash Course",
+		"bookLink": "https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274"
+	},
 
-    "authorName": "Eric Matthes",
+	{
+		"id": "62",
 
-    "bookLink": "https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280"
-  },
+		"bookName": "How to win friends and influence people",
 
-  {
-    "id": "71",
+		"authorName": "Dale carnegie",
 
-    "bookName": "The Art of Logic",
+		"bookLink": "https://drive.google.com/file/d/0B-vYMgZ5ExCda3NNWjQtcWVvamc/view?resourcekey=0-urTTbAw2FyEM6zZC2rUknA"
+	},
+	{
+		"id": "63",
 
-    "authorName": "Eugenia cheng",
+		"bookName": "RICH DAD POOR DAD",
 
-    "boolLink": "https://www.audible.in/pd/The-Art-of-Logic-Audiobook/B086G35NFG?https%3A%2F%2Fwww.audible.in%2F%3F&source_code=AUDTM13403072200B3"
-  },
+		"authorName": "Robert kiyosaki ",
 
-  {
-    "ID": "72",
+		"bookLink": "https://www.flipkart.com/rich-dad-poor-robert-t-kiyosaki/p/itm4a07957f183fa?pid=RBKGGJQ2Q7ATCGNM&lid=LSTRBKGGJQ2Q7ATCGNM3AXP78&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbyRLCNRy3aIznj3PfzcBtPluLDkwzMZf28GZ_c8aGPAHjfp4oucHrBoCIKkQAvD_BwE"
+	},
+	{
+		"id": "64",
 
-    "BookName": "Give and Take: WHY HELPING OTHERS DRIVES OUR SUCCESS",
+		"bookName": "Atomic Habit",
 
-    "AuthorName": "Adam Grant",
+		"authorName": "James clear",
 
-    "BookLink": "https://www.pdfdrive.com/give-and-take-why-helping-others-drives-our-success-d58864799.html"
-  },
-  {
-    "id": "73",
+		"bookLink": "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
+	},
 
-    "bookName": "Wilder Girls",
+	{
+		"id": "65",
 
-    "authorName": "Rori Power",
+		"bookName": "C++ Hacker's Guide",
 
-    "bookLink": "https://www.goodreads.com/book/show/42505366-wilder-girls"
-  },
+		"authorName": "Steve Oualline",
 
-  {
-    "id": "72",
+		"bookLink": "https://www.e-booksdirectory.com/details.php?ebook=9545 "
+	},
 
-    "bookName": "THINK STRAIGHT: Change Your Thoughts, Change Your Life ",
+	{
+		"id": "66",
 
-    "authorName": "Darius Foroux",
+		"bookName": "Rich Dad Poor Dad",
 
-    "bookLink": "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
-  },
+		"authorName": "bruce Eckel",
 
-  {
-    "id": "36",
+		"bookLink": " "
+	},
 
-    "bookName": "Data Structure in C++",
+	{
+		"id": "67",
 
-    "authorName": "Dinesh mehta",
+		"bookName": "Atomic Kotlin",
 
-    "boolLink": "http://www.mhhe.com/balgurusamy/c++3e"
-  },
+		"authorName": "Robert Kiyosaki and Sharon Lechter",
 
-  {
-    "id": "72",
+		"bookLink": "https://kotlinlang.org/docs/books.html"
+	},
+	{
+		"id": "68",
 
-    "bookName": "Python Data Science Handbook",
+		"bookName": "Percy Jackson: The Lightning Thief",
 
-    "authorName": "Jake VanderPlas",
+		"authorName": "Rick Riordan",
 
-    "boolLink": "https://jakevdp.github.io/PythonDataScienceHandbook/"
-  },
-  {
-    "id": "72",
+		"bookLink": "https://www.google.com/aclk?sa=l&ai=DChcSEwiFiNfi5Lz6AhUFNSsKHTEQB5MYABABGgJzZg&sig=AOD64_3yc2UkbKS_daY6Dvrd_FzK9qKYzQ&ctype=5&q=&ved=0ahUKEwiykNHi5Lz6AhXp3TgGHV4TAyMQww8IyQg&adurl="
+	},
+	{
+		"id": "69",
 
-    "bookName": "The Power Of Your Subconcious Mind",
+		"bookName": "Automating the boring stuff with Python",
 
-    "authorName": "Dr.Joseph Murphy",
+		"authorName": "Al Sweigart",
 
-    "boolLink": "https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962/ref=asc_df_8192910962/?tag=googleshopdes-21&linkCode=df0&hvadid=396986422305&hvpos=&hvnetw=g&hvrand=7185990088350799283&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318314935106&psc=1&ext_vrnc=hi"
-  },
+		"bookLink": "https://automatetheboringstuff.com/"
+	},
+	{
+		"id": "70",
 
-  {
-    "id": "72",
+		"bookName": "Design of Machine Elements",
 
-    "bookName": "THINK STRAIGHT: Change Your Thoughts, Change Your Life",
+		"authorName": "Tech publication",
 
-    "authorName": "Darius Foroux",
+		"bookLink": "https://www.techpublication.com/"
+	},
 
-    "bookLink": "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
-  },
+	{
+		"id": "3232",
 
-  {
-    "id": "77",
+		"bookName": "Heat and Mass transfer",
 
-    "bookName": "The Social Skills ",
+		"authorName": "Techknowlge",
 
-    "authorName": "Chris MacLeod",
+		"bookLink": "www.Techknowlge.edu.in"
+	},
 
-    "bookLink": "https://b-ok.asia/book/3309064/0305da?dsource=mostpopular"
-  },
-  {
-    "id": "78",
+	{
+		"id": "222",
 
-    "bookName": "Theory Of Computation",
+		"bookName": "Python Crash Course",
 
-    "authorName": "Vivek Kulkarni",
+		"authorName": "Eric Matthes",
 
-    "bookLink": "https://www.amazon.in/Theory-Computation-Vivek-Kulkarni/dp/0198084587"
-  },
+		"bookLink": "https://www.amazon.in/Python-Crash-Course-Eric-Matthes/dp/1593279280"
+	},
 
-  {
-    "id": "79",
+	{
+		"id": "71",
 
-    "bookName": "willow",
+		"bookName": "The Art of Logic",
 
-    "authorName": "Wyland Drew",
+		"authorName": "Eugenia cheng",
 
-    "bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
-  },
-  {
-    "id": "80",
+		"boolLink": "https://www.audible.in/pd/The-Art-of-Logic-Audiobook/B086G35NFG?https%3A%2F%2Fwww.audible.in%2F%3F&source_code=AUDTM13403072200B3"
+	},
 
-    "bookName": "The Grapes of Wrath",
+	{
+		"ID": "72",
 
-    "authorName": "John Steinbeck",
+		"BookName": "Give and Take: WHY HELPING OTHERS DRIVES OUR SUCCESS",
 
-    "bookLink": "https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath"
-  },
-  {
-    "id": "108",
+		"AuthorName": "Adam Grant",
 
-    "bookName": "Industrial and Technology Management",
+		"BookLink": "https://www.pdfdrive.com/give-and-take-why-helping-others-drives-our-success-d58864799.html"
+	},
+	{
+		"id": "73",
 
-    "authorName": "Kundan. k. Gutam",
+		"bookName": "Wilder Girls",
 
-    "bookLink": "https://everythingmanagement.com/books/schoolboek-industrial_and_technology_Management.pdf"
-  },
-  {
-    "id": "38000 ",
+		"authorName": "Rori Power",
 
-    "bookName": "Ikigai ",
+		"bookLink": "https://www.goodreads.com/book/show/42505366-wilder-girls"
+	},
 
-    "authorName": "Hector Garcia  ",
+	{
+		"id": "72",
 
-    "bookLink": "https://www.amazon.in/Ikigai-H%C3%A9ctor-Garc%C3%ADa/dp/178633089X?asin=178633089X&revisionId=&format=4&depth=1"
-  },
-  {
-    "id": "80",
+		"bookName": "THINK STRAIGHT: Change Your Thoughts, Change Your Life ",
 
-    "bookName": "clean code",
+		"authorName": "Darius Foroux",
 
-    "authorName": "Robert Cecil Martin",
+		"bookLink": "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
+	},
 
-    "bookLink": "https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf"
-  },
-  {
-    "id": "78",
+	{
+		"id": "36",
 
-    "bookName": "what can i give?",
+		"bookName": "Data Structure in C++",
 
-    "authorName": "Srijan Pal Singh ",
+		"authorName": "Dinesh mehta",
 
-    "bookLink": "https://www.bookspdfdownload.com/2022/06/what-can-i-give-by-srijan-pal-singh-pdf.html"
-  },
+		"boolLink": "http://www.mhhe.com/balgurusamy/c++3e"
+	},
 
-  {
-    "id": "90",
+	{
+		"id": "72",
 
-    "bookName": "zero to one",
+		"bookName": "Python Data Science Handbook",
 
-    "authorName": "Peter Thiel",
+		"authorName": "Jake VanderPlas",
 
-    "bookLink": "https://zerotonebookstore.book.pdf"
-  },
+		"boolLink": "https://jakevdp.github.io/PythonDataScienceHandbook/"
+	},
+	{
+		"id": "72",
 
-  {
-    "id": "81",
+		"bookName": "The Power Of Your Subconcious Mind",
 
-    "bookName": "Let us c",
+		"authorName": "Dr.Joseph Murphy",
 
-    "authorName": "Yashwant Kanetkar",
+		"boolLink": "https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962/ref=asc_df_8192910962/?tag=googleshopdes-21&linkCode=df0&hvadid=396986422305&hvpos=&hvnetw=g&hvrand=7185990088350799283&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318314935106&psc=1&ext_vrnc=hi"
+	},
 
-    "bookLink": "https://www.pdfdrive.com/let-us-c-by-yashwant-e200713283.html"
-  },
-  {
-    "id": "82",
+	{
+		"id": "72",
 
-    "bookName": "data structre a pseudocode approach with c",
+		"bookName": "THINK STRAIGHT: Change Your Thoughts, Change Your Life",
 
-    "authorName": "Richard F.Gilberg and Behrouz A.Forouzan",
+		"authorName": "Darius Foroux",
 
-    "bookLink": "https://www.pdfdrive.com/data-structures-a-pseudocode-approach-with-c-second-edition-e158112060.html"
-  },
-  {
-    "id": "80",
+		"bookLink": "https://www.pdfdrive.com/think-straight-change-your-thoughts-change-your-life-e176175455.html "
+	},
 
-    "bookName": "Designing for the Web",
+	{
+		"id": "77",
 
-    "authorName": "Mark Boulton",
+		"bookName": "The Social Skills ",
 
-    "boolLink": "https://designingfortheweb.co.uk/"
-  },
-  {
-    "id": "321",
+		"authorName": "Chris MacLeod",
 
-    "bookName": "My favourite Nature Stories",
+		"bookLink": "https://b-ok.asia/book/3309064/0305da?dsource=mostpopular"
+	},
+	{
+		"id": "78",
 
-    "authorName": "Ruskin Bond",
+		"bookName": "Theory Of Computation",
 
-    "boolLink": "https://www.goodreads.com/book/show/30252137-my-favourite-nature-stories"
-  },
-  {
-    "id": "81",
+		"authorName": "Vivek Kulkarni",
 
-    "bookName": "Dune",
+		"bookLink": "https://www.amazon.in/Theory-Computation-Vivek-Kulkarni/dp/0198084587"
+	},
 
-    "authorName": "Frank Herbert",
+	{
+		"id": "79",
 
-    "bookLink": "https://anybookpdf.com"
-  },
-  {
-    "id": "2244",
+		"bookName": "willow",
 
-    "bookName": "Mathematics",
 
-    "authorName": "Techpublication",
+		"authorName": "Wyland Drew",
 
-    "bookLink": "www.Techpublication.edu.in"
-  },
+		"bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
+	},
+	{
+		"id": "80",
 
-  {
-    "id": "8199",
+		"bookName": "The Grapes of Wrath",
 
-    "bookName": "Design of Machine Elements",
+		"authorName": "John Steinbeck",
 
-    "authorName": "V. B. Bhandari",
+		"bookLink": "https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath"
+	},
+	{
+		"id": "108",
 
-    "bookLink": "https://books.google.com/books/about/Design_of_Machine_Elements.html?id=f5Eit2FZe_cC"
-  },
-  {
-    "id": "30",
+		"bookName": "Industrial and Technology Management",
 
-    "bookName": "The Christmas Pig",
+		"authorName": "Kundan. k. Gutam",
 
-    "authorName": "JK Rowling",
+		"bookLink": "https://everythingmanagement.com/books/schoolboek-industrial_and_technology_Management.pdf"
+	},
+	{
+		"id": "38000 ",
 
-    "bookLink": "https://www.amazon.in/Christmas-Pig-J-K-Rowling/dp/1444964917"
-  },
+		"bookName": "Ikigai ",
 
-  {
-    "id": "443",
+		"authorName": "Hector Garcia  ",
 
-    "bookName": "Automate the Boring Stuff with Python",
+		"bookLink": "https://www.amazon.in/Ikigai-H%C3%A9ctor-Garc%C3%ADa/dp/178633089X?asin=178633089X&revisionId=&format=4&depth=1"
+	},
+	{
+		"id": "80",
 
-    "authorName": "Al Sweigart",
+		"bookName": "clean code",
 
-    "bookLink": "https://automatetheboringstuff.com/"
-  },
+		"authorName": "Robert Cecil Martin",
 
-  {
-    "id": "1824",
+		"bookLink": "https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf"
+	},
+	{
+		"id": "78",
 
-    "bookName": "New Moon",
+		"bookName": "what can i give?",
 
-    "authorName": "Stephenie Meyer",
+		"authorName": "Srijan Pal Singh ",
 
-    "bookLink": "https://www.amazon.in/New-Moon-Stephenie-Meyer/dp/1904233880"
-  },
+		"bookLink": "https://www.bookspdfdownload.com/2022/06/what-can-i-give-by-srijan-pal-singh-pdf.html"
+	},
 
-  {
-    "id": "369",
+	{
+		"id": "90",
 
-    "bookName": "The Metamorphosis",
+		"bookName": "zero to one",
 
-    "authorName": "Franz Kafka",
+		"authorName": "Peter Thiel",
 
-    "bookLink": "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi"
-  },
+		"bookLink": "https://zerotonebookstore.book.pdf"
+	},
 
-  {
-    "id": "444",
+	{
+		"id": "81",
 
-    "bookName": "The India Story",
+		"bookName": "Let us c",
 
-    "authorName": "Bimal Jalal",
+		"authorName": "Yashwant Kanetkar",
+
+		"bookLink": "https://www.pdfdrive.com/let-us-c-by-yashwant-e200713283.html"
+	},
+	{
+		"id": "82",
+
+		"bookName": "data structre a pseudocode approach with c",
+
+		"authorName": "Richard F.Gilberg and Behrouz A.Forouzan",
+
+		"bookLink": "https://www.pdfdrive.com/data-structures-a-pseudocode-approach-with-c-second-edition-e158112060.html"
+	},
+	{
+		"id": "80",
+
+		"bookName": "Designing for the Web",
+
+		"authorName": "Mark Boulton",
+
+		"boolLink": "https://designingfortheweb.co.uk/"
+	},
+	{
+		"id": "321",
+
+		"bookName": "My favourite Nature Stories",
+
+		"authorName": "Ruskin Bond",
+
+		"boolLink": "https://www.goodreads.com/book/show/30252137-my-favourite-nature-stories"
+	},
+	{
+		"id": "81",
+
+		"bookName": "Dune",
+
+		"authorName": "Frank Herbert",
+
+		"bookLink": "https://anybookpdf.com"
+	},
+	{
+		"id": "2244",
+
+		"bookName": "Mathematics",
+
+		"authorName": "Techpublication",
+
+		"bookLink": "www.Techpublication.edu.in"
+	},
+
+	{
+		"id": "8199",
+
+		"bookName": "Design of Machine Elements",
+
+		"authorName": "V. B. Bhandari",
+
+		"bookLink": "https://books.google.com/books/about/Design_of_Machine_Elements.html?id=f5Eit2FZe_cC"
+	},
+	{
+		"id": "30",
+
+		"bookName": "The Christmas Pig",
+
+		"authorName": "JK Rowling",
+
+		"bookLink": "https://www.amazon.in/Christmas-Pig-J-K-Rowling/dp/1444964917"
+	},
+
+	{
+		"id": "443",
+
+		"bookName": "Automate the Boring Stuff with Python",
+
+		"authorName": "Al Sweigart",
+
+		"bookLink": "https://automatetheboringstuff.com/"
+	},
+
+	{
+		"id": "1824",
+
+		"bookName": "New Moon",
+
+		"authorName": "Stephenie Meyer",
+
+		"bookLink": "https://www.amazon.in/New-Moon-Stephenie-Meyer/dp/1904233880"
+	},
+
+	{
+		"id": "369",
+
+		"bookName": "The Metamorphosis",
+
+		"authorName": "Franz Kafka",
+
+		"bookLink": "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=asc_df_8172345135/?tag=googleshopdes-21&linkCode=df0&hvadid=397082446778&hvpos=&hvnetw=g&hvrand=2858684550239642970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007788&hvtargid=pla-404766234919&psc=1&ext_vrnc=hi"
+	},
+
+	{
+		"id": "444",
+
+		"bookName": "The India Story",
+
+		"authorName": "Bimal Jalal",
+
+		"bookLink": "https://www.careerpower.in/books-and-authors.html"
+	},
+	{
+		"id": "92",
+		"bookName": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+		"AuthorName": "Geron Aurelien",
+		"boolLink": "https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352139054/ref=asc_df_9352139054/?tag=googleshopdes-21&linkCode=df0&hvadid=397006573861&hvpos=&hvnetw=g&hvrand=15801219934689182910&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062177&hvtargid=pla-838380762468&psc=1&ext_vrnc=hi"
+	},
+	{
+		"id": "93",
+		"bookName": "The Psychology of Money",
+		"AuthorName": "Morgan Housel",
+		"boolLink": "https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268/ref=asc_df_9390166268/?tag=googleshopdes-21&linkCode=df0&hvadid=397008395029&hvpos=&hvnetw=g&hvrand=5246706992012891138&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20462&hvtargid=pla-975498148484&psc=1&ext_vrnc=hi"
+	}
 
     "bookLink": "https://www.careerpower.in/books-and-authors.html"
   },
@@ -1198,4 +1201,5 @@
 
     "bookLink": "https://www.oreilly.com/library/view/fundamentals-of-deep/9781491925607/"
   },
-]
+
+
