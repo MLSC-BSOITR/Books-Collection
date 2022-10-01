@@ -1264,5 +1264,16 @@
 
     "bookLink": "https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows"
   },
+{
+
+"id" : "99",
+
+"bookName" : "Fundamentals of Deep learning",
+
+"authorName" : " Nikhil Buduma",
+
+"bookLink"   : "https://www.oreilly.com/library/view/fundamentals-of-deep/9781491925607/"
+
+},
    
 ]
