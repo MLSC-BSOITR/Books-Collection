@@ -1203,7 +1203,18 @@
 
 		"bookLink": "https://www.pdfdrive.com/ikigai-the-japanese-secret-to-a-long-and-happy-life-e195091541.html "
 	},
-	
+
+	{
+
+		"id" : "300",
+		
+		"bookName" : "Python Programming with Design Patterns",
+		
+		"authorName" : "James W. Cooper",
+		
+		"bookLink"   : "https://ptgmedia.pearsoncmg.com/images/9780137579938/samplepages/9780137579938_Sample.pdf"
+		
+	},
 ]	
 	
 
