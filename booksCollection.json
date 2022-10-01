@@ -1250,6 +1250,15 @@
     "authorName": "Grant Smith",
 
     "bookLink": "https://www.barnesandnoble.com/w/everything-you-need-to-ace-computer-science-and-coding-in-one-big-fat-notebook-workman-publishing/1134542740"
+  },
+  {
+    "id": "133",
+
+    "bookName": "Cracking the Coding Interview",
+
+    "authorName": "Gayle Laakmann McDowell",
+
+    "bookLink": "https://www.crackingthecodinginterview.com"
   }
   
 
