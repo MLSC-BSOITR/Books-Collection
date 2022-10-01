@@ -19,11 +19,11 @@ This repository contains free books on different programming languages, Concepts
  
     "id" : "1",
     
-    "bookName" : "C Internals",
+    "bookName" : "The Alchemist",
     
-    "authorName" : "Rajeev Kumar",
+    "authorName" : "Panlo Coelho",
     
-    "bookLink"   : "https://www.avabodh.com/cin/cin.html"
+    "bookLink"   : "https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988"
     
     },
      
