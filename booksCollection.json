@@ -997,6 +997,7 @@
 
 		"bookName": "willow",
 
+
 		"authorName": "Wyland Drew",
 
 		"bookLink": "https://www.getepic.com/book/7008190/willow-finds-a-way"
@@ -1182,4 +1183,23 @@
 		"AuthorName": "Morgan Housel",
 		"boolLink": "https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268/ref=asc_df_9390166268/?tag=googleshopdes-21&linkCode=df0&hvadid=397008395029&hvpos=&hvnetw=g&hvrand=5246706992012891138&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20462&hvtargid=pla-975498148484&psc=1&ext_vrnc=hi"
 	}
-]
+
+    "bookLink": "https://www.careerpower.in/books-and-authors.html"
+  },
+  {
+    "id":"92",
+    "bookName":"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "AuthorName":"Geron Aurelien",
+    "boolLink":"https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352139054/ref=asc_df_9352139054/?tag=googleshopdes-21&linkCode=df0&hvadid=397006573861&hvpos=&hvnetw=g&hvrand=15801219934689182910&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062177&hvtargid=pla-838380762468&psc=1&ext_vrnc=hi"
+  },
+{
+    "id": "445",
+
+    "bookName": "Fundamentals of Deep learning",
+
+    "authorName": "Nikhil Buduma ",
+
+    "bookLink": "https://www.oreilly.com/library/view/fundamentals-of-deep/9781491925607/"
+  },
+
+
