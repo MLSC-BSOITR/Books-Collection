@@ -796,7 +796,7 @@
     "bookName": "Cracking the Coding Interview",
     "authorName": "Gayle Laakmann McDowell",
     "bookLink": "https://www.crackingthecodinginterview.com"
-  }
+  },
   
     {
     "id": "134",
@@ -821,7 +821,8 @@
     "bookName" : "Python for Beginners",
     "authorName" : "Adam Stewart",
     "bookLink"   : "https://www.pdfdrive.com/python-programming-python-programming-for-beginners-python-programming-for-intermediates-e180663309.html"
-      {
+      
+    },{
     "id": "138",
     "bookName": "Living in the Light: A guide to personal transformation",
     "authorName": "David Sargent",
@@ -864,7 +865,7 @@
     "bookName": "Numerical Optimization",
     "authorName": "Jorge Nocedal, Stephen Wright",
     "bookLink": " http://link.springer.com/openurl?genre=book&isbn=978-0-387-40065-5"
-  },
+  }
 
 
 ]
