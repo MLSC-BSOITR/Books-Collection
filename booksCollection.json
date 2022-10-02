@@ -821,5 +821,11 @@
     "bookName" : "Python for Beginners",
     "authorName" : "Adam Stewart",
     "bookLink"   : "https://www.pdfdrive.com/python-programming-python-programming-for-beginners-python-programming-for-intermediates-e180663309.html"
+      {
+    "id": "138",
+    "bookName": "Living in the Light: A guide to personal transformation",
+    "authorName": "David Sargent",
+    "bookLink": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
+  },
 }
 ]
