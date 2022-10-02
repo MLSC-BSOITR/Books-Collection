@@ -832,6 +832,31 @@
     "bookName" : "The Python Handbook – Learn Python for Beginners",
     "authorName" : "Flavio Copes",
     "bookLink"   : "https://www.freecodecamp.org/news/the-python-handbook/"
+  },
+  { "id" : "139",
+    "bookName" : "The Python Handbook – Learn Python for Beginners",
+    "authorName" : "Flavio Copes",
+    "bookLink"   : "https://www.freecodecamp.org/news/the-python-handbook/"
+  },
+  { "id" : "140",
+    "bookName" : "The Immortals of Meluha",
+    "authorName" : "Amish Tripathi",
+    "bookLink"   : "https://www.amazon.on/immortals-of-meluha/"
+  },
+  { "id" : "141",
+    "bookName" : "Screte of Nagas",
+    "authorName" : "Amish Tripathi",
+    "bookLink"   : "https://www.amazon.on/Screte-of-Nagas/"
+  },
+  { "id" : "142",
+    "bookName" : "The Oth of Vayuputras",
+    "authorName" : "Amish Tripathi",
+    "bookLink"   : "https://www.amazon.on/The-Oth-of-Vayuputras/"
+  },
+  { "id" : "143",
+    "bookName" : "The War of Lanka",
+    "authorName" : "Amish Tripathi",
+    "bookLink"   : "https://www.amazon.on/The-War-of-Lanka/"
   }
-}
+
 ]
