@@ -884,6 +884,12 @@
     "authorName": "Jorge Nocedal, Stephen Wright",
     "bookLink": " http://link.springer.com/openurl?genre=book&isbn=978-0-387-40065-5"
   },
+    {
+    "id": "147",
+    "bookName": "Data Structures & Algorithms",
+    "authorName": "Robert Lafore",
+    "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
+  },
   {
     "id": "141",
     "bookName": "Networking All-in-One for Dummies 7e",
