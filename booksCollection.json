@@ -861,6 +861,12 @@
     "bookLink"   : "https://www.amazon.on/The-War-of-Lanka/"
   },
 {
+    "id": "144",
+    "bookName": "The Call Of The Wild",
+    "authorName": "Jack London",
+    "bookLink": "https://www.pdfbooksworld.com/The-Call-Of-The-Wild-by-Jack-London"
+  },
+{
     "id": "140",
     "bookName": "Numerical Optimization",
     "authorName": "Jorge Nocedal, Stephen Wright",
