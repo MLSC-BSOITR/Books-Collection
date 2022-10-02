@@ -866,6 +866,12 @@
     "authorName": "Jack London",
     "bookLink": "https://www.pdfbooksworld.com/The-Call-Of-The-Wild-by-Jack-London"
   },
+  {
+    "id": "145",
+    "bookName": "Data Structures & Algorithms",
+    "authorName": "Robert Lafore",
+    "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
+  },
 {
     "id": "140",
     "bookName": "Numerical Optimization",
