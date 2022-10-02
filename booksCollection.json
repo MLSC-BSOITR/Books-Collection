@@ -890,6 +890,12 @@
     "authorName": "Doug Lowe",
     "bookLink": "https://drive.google.com/file/d/1y-uhM9x9kHBGVZzAY-osE2z3qwwHWBLl/view?usp=sharing"
   }
+  {
+    "id" : "142",
+    "bookName" : "Binary Tree",
+    "authorName" : "Nick Parlante",
+    "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/BinaryTrees.pdf"
+},
 
 
 ]
