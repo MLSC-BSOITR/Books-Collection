@@ -833,5 +833,13 @@
     "authorName" : "Flavio Copes",
     "bookLink"   : "https://www.freecodecamp.org/news/the-python-handbook/"
   }
+
+{
+    "id": "140",
+    "bookName": "Numerical Optimization",
+    "authorName": "Jorge Nocedal, Stephen Wright",
+    "bookLink": " http://link.springer.com/openurl?genre=book&isbn=978-0-387-40065-5"
+  },
+
 }
 ]
