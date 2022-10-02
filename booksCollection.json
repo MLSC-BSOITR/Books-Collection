@@ -895,6 +895,12 @@
     "bookName": "Algorithms and Data Structure",
     "authorName": "N Wirth",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/AD.pdf"
+  },
+  {
+    "id": "145",
+    "bookName": "Algorithms and Complexity",
+    "authorName": "Harbert S.WIlf",
+    "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/AlgoComp.pdf"
   }
 
 
