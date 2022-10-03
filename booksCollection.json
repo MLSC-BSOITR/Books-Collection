@@ -891,6 +891,7 @@
     "bookLink": "https://drive.google.com/file/d/1y-uhM9x9kHBGVZzAY-osE2z3qwwHWBLl/view?usp=sharing"
   },
   {
+
     "id": "150",
     "bookName": "Algorithms and Data Structure",
     "authorName": "N Wirth",
@@ -907,7 +908,35 @@
     "bookName": "Mastering Algorithms with C",
     "authorName": " Kyle Loudon",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/Mastering-Algorithms-with-C-Loudon.pdf"
+
+    "id" : "142",
+    "bookName" : "Binary Tree",
+    "authorName" : "Nick Parlante",
+    "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/BinaryTrees.pdf"
+  },
+  {
+    "id": "143",
+    "bookName": "Fluent Python",
+    "authorName": "Luciano Ramalho",
+    "bookLink": "https://www.oreilly.com/library/view/fluent-python/9781491946237/"
+  },
+  {
+    "id": "144",
+    "bookName": "The C++ Programming Language",
+    "authorName": "Bjarne Stroustrup",
+    "bookLink": "https://www.stroustrup.com/4th.html"
+  },
+  {
+    "id": "145",
+    "bookName": "HTML and CSS: Design and Build Websites",
+    "authorName": "Jon Duckett",
+    "bookLink": "https://www.htmlandcssbook.com/"
+  },
+  {
+    "id": "146",
+    "bookName": "JavaScript and jQuery: Interactive Front-End Web Development",
+    "authorName": "Jon Duckett",
+    "bookLink": "https://javascriptbook.com/"
+
   }
-
-
 ]
