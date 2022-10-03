@@ -943,11 +943,17 @@
     "bookName" : "Monk Who Sold His Ferrari",
     "authorName" : "Robin Sharma",
     "bookLink"   : "https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.apnamba.com/Ebooks-pdf/The%2520Monk%2520who%2520sold%2520his%2520ferrari%2520-%2520Robin%2520Sharma%2520(PDF)%2520%255BQwerty80%255D.pdf&ved=2ahUKEwj85tbwrMP6AhXRT2wGHQ5WB1AQFnoECEgQAQ&usg=AOvVaw0fs_LxLKaxMqPQkZOwQ8_w"
-  }
+  },
   {
     "id" : "148",
     "bookName" : "Pro Git",
     "authorName" : "Ben Straub and Scott Chacon",
     "bookLink"   : "https://github.com/progit/progit2/releases/download/2.1.357/progit.pdf"
+  },
+  {
+    "id" : "149",
+    "bookName" : "Dart Apprentice (First Edition): Beginning Programming with Dart",
+    "authorName" : "Jonathan Sande and Matt Galloway",
+    "bookLink"   : "https://dokumen.pub/download/dart-apprentice-1nbsped-1950325326-9781950325320.html"
   }
 ]
