@@ -961,6 +961,12 @@
     "bookName" : "Developing 2D Games with Unity: Independent Game Programming with C# ",
     "authorName" : "Jared Halpern",
     "bookLink"   : "https://drive.google.com/file/d/1BmMNmps5yUoSvI_pm3fuzNO4fZEWRbB1/view?usp=sharing"
+  },
+  {
+    "id" : "151",
+    "bookName" : "Android Apprentice (Second Edition): Beginning Android Development with Kotlin",
+    "authorName" : "Darryl Bayliss, Tom Blankenship, Fuad Kamal, Namrata Bandekar",
+    "bookLink"   : "https://pt.br1lib.org/book/5269268/3fd6d5"
   }
   
 ]
