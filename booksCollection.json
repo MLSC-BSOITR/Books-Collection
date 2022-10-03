@@ -973,5 +973,11 @@
     "bookName" : "Android Apprentice (Second Edition): Beginning Android Development with Kotlin",
     "authorName" : "Darryl Bayliss, Tom Blankenship, Fuad Kamal, Namrata Bandekar",
     "bookLink"   : "https://pt.br1lib.org/book/5269268/3fd6d5"
+  },
+ {
+    "id" : "153",
+    "bookName" : "Full-Stack Web Development with GraphQL and React - Second Edition",
+    "authorName" : "Sebastian Grebe, packt",
+    "bookLink"   : "https://pt.b-ok.asia/book/19273530/f80a3c"
   }
 ]
