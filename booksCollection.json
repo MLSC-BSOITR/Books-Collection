@@ -985,5 +985,12 @@
     "bookName" : "The Software Architecture Handbook",
     "authorName" : "Germán Cocca",
     "bookLink"   : "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"
+  },
+ {
+    "id" : "155",
+    "bookName" : "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
+    "authorName" : "Marijn Haverbeke",
+    "bookLink"   : "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
   }
+
 ]
