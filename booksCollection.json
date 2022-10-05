@@ -1010,7 +1010,7 @@
     "bookName" : "Discrete Mathematics",
     "authorName" : "Oscar Levin",
     "bookLink"   : "http://discrete.openmathbooks.org/dmoi3.html"
-}.
+},
   
  {
     "id" : "156",
@@ -1018,5 +1018,12 @@
     "authorName" : "Marijn Haverbeke",
     "bookLink"   : "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
 
+  },
+
+  {
+    "id" : "157",
+    "bookName" : "Data Structures and Algorithms in Python",
+    "authorName" : "Michael T. Goodrich",
+    "bookLink"   : "https://www.pdfdrive.com/data-structures-and-algorithms-in-python-e25119593.html"
   }
 ]
