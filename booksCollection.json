@@ -898,6 +898,13 @@
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/AD.pdf"
   }
   {
+
+    "id" : "150",
+    "bookName" : "ComputerScienceI",
+    "authorName" : "Dr.ChrisBourke",
+    "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
+  },
+  {
     "id": "151",
     "bookName": "Algorithms and Data Structure",
     "authorName": "N Wirth",
@@ -986,4 +993,5 @@
     "authorName" : "Germán Cocca",
     "bookLink"   : "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"
   }
+
 ]
