@@ -1019,4 +1019,12 @@
     "bookLink"   : "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
 
   }
+{
+    "id" : "157",
+    "bookName" : "The Python Book",
+    "authorName" : "Guido van Rossum",
+    "bookLink"   : "https://askbooks.net/pdf-the-python-book-the-ultimate-guide-to-coding-with-python-the-ultimate-guide-to-coding-with-python-over-20-incredible-projects/"
+
+  }
+
 ]
