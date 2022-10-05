@@ -1018,5 +1018,11 @@
     "authorName" : "Marijn Haverbeke",
     "bookLink"   : "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
 
+  },
+  {
+    "id" : "157",
+    "bookName" : "The Magic of Thinking Big",
+    "authorName" : "David J. Schwartz",
+    "bookLink"   : "https://drive.google.com/file/d/1Gs_5N5cdbFkkL-G6vYcEqZah81QiZ75J/view?usp=sharing"
   }
 ]
