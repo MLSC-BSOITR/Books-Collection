@@ -821,14 +821,15 @@
     "bookName" : "Python for Beginners",
     "authorName" : "Adam Stewart",
     "bookLink"   : "https://www.pdfdrive.com/python-programming-python-programming-for-beginners-python-programming-for-intermediates-e180663309.html"
-      
-    },{
+    },
+    
+    {
     "id": "138",
     "bookName": "Living in the Light: A guide to personal transformation",
     "authorName": "David Sargent",
     "bookLink": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
   },
-{
+  {
     "id": "139",
     "bookName": "The Great Gatsby",
     "authorName": "Francis Scott Fitzgerald",
@@ -897,25 +898,36 @@
     "authorName": "N Wirth",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/AD.pdf"
   }
-  {
-
+ 
+   {
+  
+      "id" : "119",
+      "bookName" : "cracking the coding interview",
+      "authorName" : "gayle laakmann mcdowell",
+      "bookLink" : "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
+ 
+   },
+   
+ {
     "id" : "150",
     "bookName" : "ComputerScienceI",
     "authorName" : "Dr.ChrisBourke",
     "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
   },
+  
   {
     "id": "151",
     "bookName": "Algorithms and Data Structure",
     "authorName": "N Wirth",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/AD.pdf"
-  }
+  },
   {
     "id": "152",
     "bookName": "Mastering Algorithms with C",
     "authorName": " Kyle Loudon",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/Mastering-Algorithms-with-C-Loudon.pdf"
-
+  }.
+  { 
     "id" : "142",
     "bookName" : "Binary Tree",
     "authorName" : "Nick Parlante",
@@ -992,6 +1004,6 @@
     "bookName" : "The Software Architecture Handbook",
     "authorName" : "Germán Cocca",
     "bookLink"   : "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"
-  }
-
+  } 
+   
 ]
