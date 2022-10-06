@@ -797,8 +797,7 @@
     "authorName": "Gayle Laakmann McDowell",
     "bookLink": "https://www.crackingthecodinginterview.com"
   },
-  
-    {
+  {
     "id": "134",
     "bookName": "Algorithms, 4th Edition",
     "authorName": "Robert Sedgewic, Kevin Wayne",
@@ -817,13 +816,12 @@
     "bookLink": "https://introcs.cs.princeton.edu/python/home/"
   },
   {
-    "id" : "137",
-    "bookName" : "Python for Beginners",
-    "authorName" : "Adam Stewart",
-    "bookLink"   : "https://www.pdfdrive.com/python-programming-python-programming-for-beginners-python-programming-for-intermediates-e180663309.html"
-    },
-    
-    {
+    "id": "137",
+    "bookName": "Python for Beginners",
+    "authorName": "Adam Stewart",
+    "bookLink": "https://www.pdfdrive.com/python-programming-python-programming-for-beginners-python-programming-for-intermediates-e180663309.html"
+  },
+  {
     "id": "138",
     "bookName": "Living in the Light: A guide to personal transformation",
     "authorName": "David Sargent",
@@ -836,32 +834,36 @@
     "bookLink": "https://www.pdfbooksworld.com/The-Great-Gatsby-by-Francis-Scott-Fitzgerald"
   },
   {
-    "id" : "140",
-    "bookName" : "The Python Handbook – Learn Python for Beginners",
-    "authorName" : "Flavio Copes",
-    "bookLink"   : "https://www.freecodecamp.org/news/the-python-handbook/"
+    "id": "140",
+    "bookName": "The Python Handbook – Learn Python for Beginners",
+    "authorName": "Flavio Copes",
+    "bookLink": "https://www.freecodecamp.org/news/the-python-handbook/"
   },
-  { "id" : "141",
-    "bookName" : "The Immortals of Meluha",
-    "authorName" : "Amish Tripathi",
-    "bookLink"   : "https://www.amazon.on/immortals-of-meluha/"
+  {
+    "id": "141",
+    "bookName": "The Immortals of Meluha",
+    "authorName": "Amish Tripathi",
+    "bookLink": "https://www.amazon.on/immortals-of-meluha/"
   },
-  { "id" : "142",
-    "bookName" : "Screte of Nagas",
-    "authorName" : "Amish Tripathi",
-    "bookLink"   : "https://www.amazon.on/Screte-of-Nagas/"
+  {
+    "id": "142",
+    "bookName": "Screte of Nagas",
+    "authorName": "Amish Tripathi",
+    "bookLink": "https://www.amazon.on/Screte-of-Nagas/"
   },
-  { "id" : "143",
-    "bookName" : "The Oth of Vayuputras",
-    "authorName" : "Amish Tripathi",
-    "bookLink"   : "https://www.amazon.on/The-Oth-of-Vayuputras/"
+  {
+    "id": "143",
+    "bookName": "The Oth of Vayuputras",
+    "authorName": "Amish Tripathi",
+    "bookLink": "https://www.amazon.on/The-Oth-of-Vayuputras/"
   },
-  { "id" : "144",
-    "bookName" : "The War of Lanka",
-    "authorName" : "Amish Tripathi",
-    "bookLink"   : "https://www.amazon.on/The-War-of-Lanka/"
+  {
+    "id": "144",
+    "bookName": "The War of Lanka",
+    "authorName": "Amish Tripathi",
+    "bookLink": "https://www.amazon.on/The-War-of-Lanka/"
   },
-{
+  {
     "id": "145",
     "bookName": "The Call Of The Wild",
     "authorName": "Jack London",
@@ -873,13 +875,13 @@
     "authorName": "Robert Lafore",
     "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
   },
-    {
+  {
     "id": "147",
     "bookName": "C by balaguruswamy ",
     "authorName": "E.BALAGURUSWAMY",
     "bookLink": "https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
   },
-{
+  {
     "id": "148",
     "bookName": "Numerical Optimization",
     "authorName": "Jorge Nocedal, Stephen Wright",
@@ -892,29 +894,23 @@
     "bookLink": "https://drive.google.com/file/d/1y-uhM9x9kHBGVZzAY-osE2z3qwwHWBLl/view?usp=sharing"
   },
   {
-
     "id": "150",
     "bookName": "Algorithms and Data Structure",
     "authorName": "N Wirth",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/AD.pdf"
-  }
- 
-   {
-  
-      "id" : "119",
-      "bookName" : "cracking the coding interview",
-      "authorName" : "gayle laakmann mcdowell",
-      "bookLink" : "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
- 
-   },
-   
- {
-    "id" : "150",
-    "bookName" : "ComputerScienceI",
-    "authorName" : "Dr.ChrisBourke",
-    "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
   },
-  
+  {
+    "id": "119",
+    "bookName": "cracking the coding interview",
+    "authorName": "gayle laakmann mcdowell",
+    "bookLink": "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
+  },
+  {
+    "id": "150",
+    "bookName": "ComputerScienceI",
+    "authorName": "Dr.ChrisBourke",
+    "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
+  },
   {
     "id": "151",
     "bookName": "Algorithms and Data Structure",
@@ -926,12 +922,12 @@
     "bookName": "Mastering Algorithms with C",
     "authorName": " Kyle Loudon",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/Mastering-Algorithms-with-C-Loudon.pdf"
-  }.
-  { 
-    "id" : "142",
-    "bookName" : "Binary Tree",
-    "authorName" : "Nick Parlante",
-    "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/BinaryTrees.pdf"
+  },
+  {
+    "id": "142",
+    "bookName": "Binary Tree",
+    "authorName": "Nick Parlante",
+    "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/BinaryTrees.pdf"
   },
   {
     "id": "143",
@@ -958,65 +954,63 @@
     "bookLink": "https://javascriptbook.com/"
   },
   {
-    "id" : "147",
-    "bookName" : "Monk Who Sold His Ferrari",
-    "authorName" : "Robin Sharma",
-    "bookLink"   : "https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.apnamba.com/Ebooks-pdf/The%2520Monk%2520who%2520sold%2520his%2520ferrari%2520-%2520Robin%2520Sharma%2520(PDF)%2520%255BQwerty80%255D.pdf&ved=2ahUKEwj85tbwrMP6AhXRT2wGHQ5WB1AQFnoECEgQAQ&usg=AOvVaw0fs_LxLKaxMqPQkZOwQ8_w"
+    "id": "147",
+    "bookName": "Monk Who Sold His Ferrari",
+    "authorName": "Robin Sharma",
+    "bookLink": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.apnamba.com/Ebooks-pdf/The%2520Monk%2520who%2520sold%2520his%2520ferrari%2520-%2520Robin%2520Sharma%2520(PDF)%2520%255BQwerty80%255D.pdf&ved=2ahUKEwj85tbwrMP6AhXRT2wGHQ5WB1AQFnoECEgQAQ&usg=AOvVaw0fs_LxLKaxMqPQkZOwQ8_w"
   },
   {
-    "id" : "148",
-    "bookName" : "Pro Git",
-    "authorName" : "Ben Straub and Scott Chacon",
-    "bookLink"   : "https://github.com/progit/progit2/releases/download/2.1.357/progit.pdf"
+    "id": "148",
+    "bookName": "Pro Git",
+    "authorName": "Ben Straub and Scott Chacon",
+    "bookLink": "https://github.com/progit/progit2/releases/download/2.1.357/progit.pdf"
   },
   {
-    "id" : "149",
-    "bookName" : "Dart Apprentice (First Edition): Beginning Programming with Dart",
-    "authorName" : "Jonathan Sande and Matt Galloway",
-    "bookLink"   : "https://dokumen.pub/download/dart-apprentice-1nbsped-1950325326-9781950325320.html"
+    "id": "149",
+    "bookName": "Dart Apprentice (First Edition): Beginning Programming with Dart",
+    "authorName": "Jonathan Sande and Matt Galloway",
+    "bookLink": "https://dokumen.pub/download/dart-apprentice-1nbsped-1950325326-9781950325320.html"
   },
   {
-    "id" : "150",
-    "bookName" : "Developing 2D Games with Unity: Independent Game Programming with C# ",
-    "authorName" : "Jared Halpern",
-    "bookLink"   : "https://drive.google.com/file/d/1BmMNmps5yUoSvI_pm3fuzNO4fZEWRbB1/view?usp=sharing"
+    "id": "150",
+    "bookName": "Developing 2D Games with Unity: Independent Game Programming with C# ",
+    "authorName": "Jared Halpern",
+    "bookLink": "https://drive.google.com/file/d/1BmMNmps5yUoSvI_pm3fuzNO4fZEWRbB1/view?usp=sharing"
   },
   {
-    "id" : "151",
-    "bookName" : "Internet Infrastructure: Networking, Web Services, and Cloud Computing ",
-    "authorName" : " Richard Fox & Wei Hao",
-    "bookLink"   : "https://www.pdfdrive.com/internet-infrastructure-networking-web-services-and-cloud-computing-e183943698.html"
+    "id": "151",
+    "bookName": "Internet Infrastructure: Networking, Web Services, and Cloud Computing ",
+    "authorName": " Richard Fox & Wei Hao",
+    "bookLink": "https://www.pdfdrive.com/internet-infrastructure-networking-web-services-and-cloud-computing-e183943698.html"
   },
   {
-    "id" : "152",
-    "bookName" : "Android Apprentice (Second Edition): Beginning Android Development with Kotlin",
-    "authorName" : "Darryl Bayliss, Tom Blankenship, Fuad Kamal, Namrata Bandekar",
-    "bookLink"   : "https://pt.br1lib.org/book/5269268/3fd6d5"
-  },
- {
-    "id" : "153",
-    "bookName" : "Full-Stack Web Development with GraphQL and React - Second Edition",
-    "authorName" : "Sebastian Grebe, packt",
-    "bookLink"   : "https://pt.b-ok.asia/book/19273530/f80a3c"
+    "id": "152",
+    "bookName": "Android Apprentice (Second Edition): Beginning Android Development with Kotlin",
+    "authorName": "Darryl Bayliss, Tom Blankenship, Fuad Kamal, Namrata Bandekar",
+    "bookLink": "https://pt.br1lib.org/book/5269268/3fd6d5"
   },
   {
-    "id" : "154",
-    "bookName" : "The Software Architecture Handbook",
-    "authorName" : "Germán Cocca",
-    "bookLink"   : "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"
+    "id": "153",
+    "bookName": "Full-Stack Web Development with GraphQL and React - Second Edition",
+    "authorName": "Sebastian Grebe, packt",
+    "bookLink": "https://pt.b-ok.asia/book/19273530/f80a3c"
   },
   {
-    "id" : "155",
-    "bookName" : "Discrete Mathematics",
-    "authorName" : "Oscar Levin",
-    "bookLink"   : "http://discrete.openmathbooks.org/dmoi3.html"
-}.
-  
- {
-    "id" : "156",
-    "bookName" : "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
-    "authorName" : "Marijn Haverbeke",
-    "bookLink"   : "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
-
+    "id": "154",
+    "bookName": "The Software Architecture Handbook",
+    "authorName": "Germán Cocca",
+    "bookLink": "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"
+  },
+  {
+    "id": "155",
+    "bookName": "Discrete Mathematics",
+    "authorName": "Oscar Levin",
+    "bookLink": "http://discrete.openmathbooks.org/dmoi3.html"
+  },
+  {
+    "id": "156",
+    "bookName": "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
+    "authorName": "Marijn Haverbeke",
+    "bookLink": "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
   }
 ]
