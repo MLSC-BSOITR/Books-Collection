@@ -1011,19 +1011,22 @@
     "authorName" : "Oscar Levin",
     "bookLink"   : "http://discrete.openmathbooks.org/dmoi3.html"
 },
-  
  {
     "id" : "156",
     "bookName" : "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
     "authorName" : "Marijn Haverbeke",
     "bookLink"   : "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
-
-  },
-
-  {
+ },
+ {
     "id" : "157",
     "bookName" : "Data Structures and Algorithms in Python",
     "authorName" : "Michael T. Goodrich",
     "bookLink"   : "https://www.pdfdrive.com/data-structures-and-algorithms-in-python-e25119593.html"
+ },
+  {
+    "id" : "157",
+    "bookName" : "The Art of Racing in the Rain",
+    "authorName" : "Garth Stein",
+    "bookLink"   : "https://www.scollingsworthenglish.com/uploads/3/8/4/2/38422447/garth_stein_-_the_art_of_racing_in_the_rain.pdf"
   }
 ]
