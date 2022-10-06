@@ -1084,6 +1084,11 @@
     "bookName" : "Learn C on the Mac",
     "authorName" : "Dave Mark",
     "bookLink"   : "https://www.pdfdrive.com/learn-c-on-the-mac-for-os-x-and-ios-e163066317.html"
+  },
+  {
+    "id" : "189",
+    "bookName" : "Clojure - Functional Programming for the JVM",
+    "authorName" : "R. Mark Volkmann",
+    "bookLink"   : "https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm"
   }
-
 ]
