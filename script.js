@@ -1,8 +1,8 @@
 fetch("booksCollection.json")
 .then((response)=>response.json())
 .then(function(books){
-    let placeholder=document.querySelector("#data-output");
-    let out="";
+    const placeholder=document.querySelector("#data-output");
+    const out="";
     books.forEach((book)=>{
         out+="<tr>";
         out+="<td>"+book.bookName+"</td>";
