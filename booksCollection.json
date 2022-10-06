@@ -797,8 +797,7 @@
     "authorName": "Gayle Laakmann McDowell",
     "bookLink": "https://www.crackingthecodinginterview.com"
   },
-  
-    {
+  {
     "id": "134",
     "bookName": "Algorithms, 4th Edition",
     "authorName": "Robert Sedgewic, Kevin Wayne",
@@ -840,27 +839,31 @@
     "authorName" : "Flavio Copes",
     "bookLink"   : "https://www.freecodecamp.org/news/the-python-handbook/"
   },
-  { "id" : "141",
+  { 
+    "id" : "141",
     "bookName" : "The Immortals of Meluha",
     "authorName" : "Amish Tripathi",
     "bookLink"   : "https://www.amazon.on/immortals-of-meluha/"
   },
-  { "id" : "142",
+  {
+    "id" : "142",
     "bookName" : "Screte of Nagas",
     "authorName" : "Amish Tripathi",
     "bookLink"   : "https://www.amazon.on/Screte-of-Nagas/"
   },
-  { "id" : "143",
+  { 
+    "id" : "143",
     "bookName" : "The Oth of Vayuputras",
     "authorName" : "Amish Tripathi",
     "bookLink"   : "https://www.amazon.on/The-Oth-of-Vayuputras/"
   },
-  { "id" : "144",
+  { 
+    "id" : "144",
     "bookName" : "The War of Lanka",
     "authorName" : "Amish Tripathi",
     "bookLink"   : "https://www.amazon.on/The-War-of-Lanka/"
   },
-{
+  {
     "id": "145",
     "bookName": "The Call Of The Wild",
     "authorName": "Jack London",
@@ -872,7 +875,7 @@
     "authorName": "Robert Lafore",
     "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
   },
-    {
+  {
     "id": "147",
     "bookName": "C by balaguruswamy ",
     "authorName": "E.BALAGURUSWAMY",
@@ -986,7 +989,7 @@
     "authorName" : "Darryl Bayliss, Tom Blankenship, Fuad Kamal, Namrata Bandekar",
     "bookLink"   : "https://pt.br1lib.org/book/5269268/3fd6d5"
   },
- {
+  {
     "id" : "166",
     "bookName" : "Full-Stack Web Development with GraphQL and React - Second Edition",
     "authorName" : "Sebastian Grebe, packt",
@@ -1021,7 +1024,7 @@
     "bookName" : "The Art of Racing in the Rain",
     "authorName" : "Garth Stein",
     "bookLink"   : "https://www.scollingsworthenglish.com/uploads/3/8/4/2/38422447/garth_stein_-_the_art_of_racing_in_the_rain.pdf"
-   }
+   },
    {
     "id" : "172",
     "bookName" : "The Python Book",
