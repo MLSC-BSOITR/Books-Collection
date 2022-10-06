@@ -1048,6 +1048,15 @@
     "bookName" : "Introduction to Algorithms",
     "authorName" : "Thomas H. Cormen",
     "bookName" : "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
-   }
+   },
+   {
+  
+    "id" : "176",
 
+    "bookName" : "Principles of Data Structures Using C and C++",
+
+    "authorName" : "Das, Vinu V.",
+
+    "bookLink"   : "https://www.pdfdrive.com/principles-of-data-structures-using-c-and-c-e19847224.html"
+   }
 ]
