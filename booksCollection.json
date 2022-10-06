@@ -797,8 +797,7 @@
     "authorName": "Gayle Laakmann McDowell",
     "bookLink": "https://www.crackingthecodinginterview.com"
   },
-  
-    {
+  {
     "id": "134",
     "bookName": "Algorithms, 4th Edition",
     "authorName": "Robert Sedgewic, Kevin Wayne",
@@ -821,9 +820,8 @@
     "bookName" : "Python for Beginners",
     "authorName" : "Adam Stewart",
     "bookLink"   : "https://www.pdfdrive.com/python-programming-python-programming-for-beginners-python-programming-for-intermediates-e180663309.html"
-    },
-    
-    {
+  },  
+  {
     "id": "138",
     "bookName": "Living in the Light: A guide to personal transformation",
     "authorName": "David Sargent",
@@ -861,7 +859,7 @@
     "authorName" : "Amish Tripathi",
     "bookLink"   : "https://www.amazon.on/The-War-of-Lanka/"
   },
-{
+  {
     "id": "145",
     "bookName": "The Call Of The Wild",
     "authorName": "Jack London",
@@ -873,13 +871,13 @@
     "authorName": "Robert Lafore",
     "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
   },
-    {
+  {
     "id": "147",
     "bookName": "C by balaguruswamy ",
     "authorName": "E.BALAGURUSWAMY",
     "bookLink": "https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
   },
-{
+  {
     "id": "148",
     "bookName": "Numerical Optimization",
     "authorName": "Jorge Nocedal, Stephen Wright",
@@ -892,29 +890,23 @@
     "bookLink": "https://drive.google.com/file/d/1y-uhM9x9kHBGVZzAY-osE2z3qwwHWBLl/view?usp=sharing"
   },
   {
-
     "id": "150",
     "bookName": "Algorithms and Data Structure",
     "authorName": "N Wirth",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/AD.pdf"
-  }
- 
-   {
-  
-      "id" : "119",
-      "bookName" : "cracking the coding interview",
-      "authorName" : "gayle laakmann mcdowell",
-      "bookLink" : "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
- 
-   },
-   
- {
+  },
+  {
+    "id" : "119",
+    "bookName" : "cracking the coding interview",
+    "authorName" : "gayle laakmann mcdowell",
+    "bookLink" : "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
+  }, 
+  {
     "id" : "150",
     "bookName" : "ComputerScienceI",
     "authorName" : "Dr.ChrisBourke",
     "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
   },
-  
   {
     "id": "151",
     "bookName": "Algorithms and Data Structure",
@@ -926,7 +918,7 @@
     "bookName": "Mastering Algorithms with C",
     "authorName": " Kyle Loudon",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/Mastering-Algorithms-with-C-Loudon.pdf"
-  }.
+  },
   { 
     "id" : "142",
     "bookName" : "Binary Tree",
@@ -993,7 +985,7 @@
     "authorName" : "Darryl Bayliss, Tom Blankenship, Fuad Kamal, Namrata Bandekar",
     "bookLink"   : "https://pt.br1lib.org/book/5269268/3fd6d5"
   },
- {
+  {
     "id" : "153",
     "bookName" : "Full-Stack Web Development with GraphQL and React - Second Edition",
     "authorName" : "Sebastian Grebe, packt",
@@ -1022,5 +1014,11 @@
     "bookName" : "Flutter Apprentice (Second Edition)",
     "authorName" : "Vincenzo Guzzi, Kevin D Moore, Vincent Ngo and Michael Katz",
     "bookLink"   : "https://archive.org/details/flutter-apprentice/mode/2up"
-  }
+  },
+  {
+    "id" : "158",
+    "bookName" : "The Road to React with Firebase: Your Journey to Master Advanced React for Business Web Applications",
+    "authorName" : "Robin Wieruch",
+    "bookLink"   : "https://www.pdfdrive.com/download.pdf?id=126679589&h=83694f81296c4229bb6a994684d8138e&u=cache&ext=pdf"
+  },
 ]
