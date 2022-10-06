@@ -1011,99 +1011,47 @@
     "authorName" : "Oscar Levin",
     "bookLink"   : "http://discrete.openmathbooks.org/dmoi3.html"
  },
-  
  {
     "id" : "156",
     "bookName" : "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
     "authorName" : "Marijn Haverbeke",
     "bookLink"   : "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
-
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ },
+ {
+    "id" : "157",
+    "bookName" : "Data Structures and Algorithms in Python",
+    "authorName" : "Michael T. Goodrich",
+    "bookLink"   : "https://www.pdfdrive.com/data-structures-and-algorithms-in-python-e25119593.html"
+ },
   {
+    "id" : "158",
+    "bookName" : "The Art of Racing in the Rain",
+    "authorName" : "Garth Stein",
+    "bookLink"   : "https://www.scollingsworthenglish.com/uploads/3/8/4/2/38422447/garth_stein_-_the_art_of_racing_in_the_rain.pdf"
+  }
+{
+    "id" : "159",
+    "bookName" : "The Python Book",
+    "authorName" : "Guido van Rossum",
+    "bookLink"   : "https://askbooks.net/pdf-the-python-book-the-ultimate-guide-to-coding-with-python-the-ultimate-guide-to-coding-with-python-over-20-incredible-projects/"
+ },
+{
     "id" : "161",
     "bookName" : "Database System Concepts",
     "authorName" : "Abraham Silberschatz, Henry F. Korth, S. Sudarshan",
     "bookLink"   : "https://www.amazon.in/Database-System-Concepts-Silberschatz/dp/9332901384"
-
+ },
+ {
+    "id" : "160",
+    "bookName" : "The Magic of Thinking Big",
+    "authorName" : "David J. Schwartz",
+    "bookLink"   : "https://drive.google.com/file/d/1Gs_5N5cdbFkkL-G6vYcEqZah81QiZ75J/view?usp=sharing"
+  },
+ {
+    "id" : "161",
+    "bookName" : "Introduction to Algorithms",
+    "authorName" : "Thomas H. Cormen",
+    "bookName" : "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
   }
+
 ]
