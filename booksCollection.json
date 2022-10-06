@@ -1010,13 +1010,17 @@
     "bookName" : "Discrete Mathematics",
     "authorName" : "Oscar Levin",
     "bookLink"   : "http://discrete.openmathbooks.org/dmoi3.html"
-}.
-  
- {
+  },
+  {
     "id" : "156",
     "bookName" : "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
     "authorName" : "Marijn Haverbeke",
     "bookLink"   : "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
-
+  },
+  {
+    "id" : "157",
+    "bookName" : "Flutter Apprentice (Second Edition)",
+    "authorName" : "Vincenzo Guzzi, Kevin D Moore, Vincent Ngo and Michael Katz",
+    "bookLink"   : "https://archive.org/details/flutter-apprentice/mode/2up"
   }
 ]
