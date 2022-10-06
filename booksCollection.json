@@ -821,9 +821,8 @@
     "bookName" : "Python for Beginners",
     "authorName" : "Adam Stewart",
     "bookLink"   : "https://www.pdfdrive.com/python-programming-python-programming-for-beginners-python-programming-for-intermediates-e180663309.html"
-    },
-    
-    {
+   },
+   {
     "id": "138",
     "bookName": "Living in the Light: A guide to personal transformation",
     "authorName": "David Sargent",
@@ -879,7 +878,7 @@
     "authorName": "E.BALAGURUSWAMY",
     "bookLink": "https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
   },
-{
+  {
     "id": "148",
     "bookName": "Numerical Optimization",
     "authorName": "Jorge Nocedal, Stephen Wright",
@@ -892,166 +891,160 @@
     "bookLink": "https://drive.google.com/file/d/1y-uhM9x9kHBGVZzAY-osE2z3qwwHWBLl/view?usp=sharing"
   },
   {
-
     "id": "150",
     "bookName": "Algorithms and Data Structure",
     "authorName": "N Wirth",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/AD.pdf"
-  }
- 
-   {
-  
-      "id" : "119",
+  },
+  {
+      "id" : "151",
       "bookName" : "cracking the coding interview",
       "authorName" : "gayle laakmann mcdowell",
       "bookLink" : "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
- 
-   },
-   
- {
-    "id" : "150",
+  },
+  {
+    "id" : "152",
     "bookName" : "ComputerScienceI",
     "authorName" : "Dr.ChrisBourke",
     "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
   },
-  
   {
-    "id": "151",
+    "id": "153",
     "bookName": "Algorithms and Data Structure",
     "authorName": "N Wirth",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/AD.pdf"
   },
   {
-    "id": "152",
+    "id": "154",
     "bookName": "Mastering Algorithms with C",
     "authorName": " Kyle Loudon",
     "bookLink": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/Mastering-Algorithms-with-C-Loudon.pdf"
-  }.
+  },
   { 
-    "id" : "142",
+    "id" : "155",
     "bookName" : "Binary Tree",
     "authorName" : "Nick Parlante",
     "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://everythingcomputerscience.com/books/BinaryTrees.pdf"
   },
   {
-    "id": "143",
+    "id": "156",
     "bookName": "Fluent Python",
     "authorName": "Luciano Ramalho",
     "bookLink": "https://www.oreilly.com/library/view/fluent-python/9781491946237/"
   },
   {
-    "id": "144",
+    "id": "157",
     "bookName": "The C++ Programming Language",
     "authorName": "Bjarne Stroustrup",
     "bookLink": "https://www.stroustrup.com/4th.html"
   },
   {
-    "id": "145",
+    "id": "158",
     "bookName": "HTML and CSS: Design and Build Websites",
     "authorName": "Jon Duckett",
     "bookLink": "https://www.htmlandcssbook.com/"
   },
   {
-    "id": "146",
+    "id": "159",
     "bookName": "JavaScript and jQuery: Interactive Front-End Web Development",
     "authorName": "Jon Duckett",
     "bookLink": "https://javascriptbook.com/"
   },
   {
-    "id" : "147",
+    "id" : "160",
     "bookName" : "Monk Who Sold His Ferrari",
     "authorName" : "Robin Sharma",
     "bookLink"   : "https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.apnamba.com/Ebooks-pdf/The%2520Monk%2520who%2520sold%2520his%2520ferrari%2520-%2520Robin%2520Sharma%2520(PDF)%2520%255BQwerty80%255D.pdf&ved=2ahUKEwj85tbwrMP6AhXRT2wGHQ5WB1AQFnoECEgQAQ&usg=AOvVaw0fs_LxLKaxMqPQkZOwQ8_w"
   },
   {
-    "id" : "148",
+    "id" : "161",
     "bookName" : "Pro Git",
     "authorName" : "Ben Straub and Scott Chacon",
     "bookLink"   : "https://github.com/progit/progit2/releases/download/2.1.357/progit.pdf"
   },
   {
-    "id" : "149",
+    "id" : "162",
     "bookName" : "Dart Apprentice (First Edition): Beginning Programming with Dart",
     "authorName" : "Jonathan Sande and Matt Galloway",
     "bookLink"   : "https://dokumen.pub/download/dart-apprentice-1nbsped-1950325326-9781950325320.html"
   },
   {
-    "id" : "150",
+    "id" : "163",
     "bookName" : "Developing 2D Games with Unity: Independent Game Programming with C# ",
     "authorName" : "Jared Halpern",
     "bookLink"   : "https://drive.google.com/file/d/1BmMNmps5yUoSvI_pm3fuzNO4fZEWRbB1/view?usp=sharing"
   },
   {
-    "id" : "151",
+    "id" : "164",
     "bookName" : "Internet Infrastructure: Networking, Web Services, and Cloud Computing ",
     "authorName" : " Richard Fox & Wei Hao",
     "bookLink"   : "https://www.pdfdrive.com/internet-infrastructure-networking-web-services-and-cloud-computing-e183943698.html"
   },
   {
-    "id" : "152",
+    "id" : "165",
     "bookName" : "Android Apprentice (Second Edition): Beginning Android Development with Kotlin",
     "authorName" : "Darryl Bayliss, Tom Blankenship, Fuad Kamal, Namrata Bandekar",
     "bookLink"   : "https://pt.br1lib.org/book/5269268/3fd6d5"
   },
  {
-    "id" : "153",
+    "id" : "166",
     "bookName" : "Full-Stack Web Development with GraphQL and React - Second Edition",
     "authorName" : "Sebastian Grebe, packt",
     "bookLink"   : "https://pt.b-ok.asia/book/19273530/f80a3c"
   },
   {
-    "id" : "154",
+    "id" : "167",
     "bookName" : "The Software Architecture Handbook",
     "authorName" : "Germán Cocca",
     "bookLink"   : "https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"
   },
   {
-    "id" : "155",
+    "id" : "168",
     "bookName" : "Discrete Mathematics",
     "authorName" : "Oscar Levin",
     "bookLink"   : "http://discrete.openmathbooks.org/dmoi3.html"
- },
- {
-    "id" : "156",
+  },
+  {
+    "id" : "169",
     "bookName" : "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
     "authorName" : "Marijn Haverbeke",
     "bookLink"   : "https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf"
- },
- {
-    "id" : "157",
+  },
+  {
+    "id" : "170",
     "bookName" : "Data Structures and Algorithms in Python",
     "authorName" : "Michael T. Goodrich",
     "bookLink"   : "https://www.pdfdrive.com/data-structures-and-algorithms-in-python-e25119593.html"
- },
-  {
-    "id" : "158",
+   },
+   {
+    "id" : "171",
     "bookName" : "The Art of Racing in the Rain",
     "authorName" : "Garth Stein",
     "bookLink"   : "https://www.scollingsworthenglish.com/uploads/3/8/4/2/38422447/garth_stein_-_the_art_of_racing_in_the_rain.pdf"
-  }
-{
-    "id" : "159",
+   }
+   {
+    "id" : "172",
     "bookName" : "The Python Book",
     "authorName" : "Guido van Rossum",
     "bookLink"   : "https://askbooks.net/pdf-the-python-book-the-ultimate-guide-to-coding-with-python-the-ultimate-guide-to-coding-with-python-over-20-incredible-projects/"
- },
-{
-    "id" : "161",
+   },
+   {
+    "id" : "173",
     "bookName" : "Database System Concepts",
     "authorName" : "Abraham Silberschatz, Henry F. Korth, S. Sudarshan",
     "bookLink"   : "https://www.amazon.in/Database-System-Concepts-Silberschatz/dp/9332901384"
- },
- {
-    "id" : "160",
+  },
+  {
+    "id" : "174",
     "bookName" : "The Magic of Thinking Big",
     "authorName" : "David J. Schwartz",
     "bookLink"   : "https://drive.google.com/file/d/1Gs_5N5cdbFkkL-G6vYcEqZah81QiZ75J/view?usp=sharing"
   },
- {
-    "id" : "161",
+  {
+    "id" : "175",
     "bookName" : "Introduction to Algorithms",
     "authorName" : "Thomas H. Cormen",
     "bookName" : "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
-  }
+   }
 
 ]
