@@ -1084,80 +1084,48 @@
     "bookName" : "Learn C on the Mac",
     "authorName" : "Dave Mark",
     "bookLink"   : "https://www.pdfdrive.com/learn-c-on-the-mac-for-os-x-and-ios-e163066317.html"
+  },
+  {
+    "id" : "182",
+    "bookName" : "Clojure - Functional Programming for the JVM",
+    "authorName" : "R. Mark Volkmann",
+    "bookLink"   : "https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm"
   }
   {
-"id" : "182",
-
-"bookName" : "Object-Oriented vs. Functional Programming",
-
-"authorName" : "Richard Warburton",
-
-"bookLink"   : " http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp"
-},
-
-{
-"id" : "183",
-
-"bookName" : "Modern Java EE Design Patterns",
-
-"authorName" : "Markus Eisele",
-
-"bookLink"   : "http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp"
-},
-
-{
-"id" : "184",
-
-"bookName" : "Java: The Legend",
-
-"authorName" : "Benjamin Evans",
-
-"bookLink"   : "http://www.oreilly.com/programming/free/java-the-legend.csp"
-},
-
-
-{
-"id" : "185",
-
-"bookName" : "C Internals",
-
-"authorName" : "Rajeev Kumar",
-
-"bookLink"   : "https://www.avabodh.com/cin/cin.html"
-},
-
-
-{
-"id" : "186",
-
-"bookName" : "Docker for Java Developers",
-
-"authorName" : "Arun Gupta",
-
-"bookLink"   : "http://www.oreilly.com/programming/free/docker-for-java-developers.csp"
-},
-
-
-{
-"id" : "187",
-
-"bookName" : "RESTful Web Services",
-
-"authorName" : "Leonard Richardson and Sam Ruby",
-
-"bookLink"   : "http://restfulwebapis.org/rws.html"
-},
-
-
-{
-"id" : "188",
-
-"bookName" : "Learning Java",
-
-"authorName" : "Patrick Niemeyer and Daniel Leuck",
-
-"bookLink"   : "http://chimera.labs.oreilly.com/books/1234000001805"
-},
-
+     "id" : "183",
+     "bookName" : "Object-Oriented vs. Functional Programming",
+     "authorName" : "Richard Warburton",
+     "bookLink"   : " http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp"
+   },
+   {
+     "id" : "184",
+     "bookName" : "Modern Java EE Design Patterns",
+     "authorName" : "Markus Eisele",
+     "bookLink"   : "http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp"
+    },
+    {
+      "id" : "185",
+      "bookName" : "Java: The Legend",
+      "authorName" : "Benjamin Evans",
+      "bookLink"   : "http://www.oreilly.com/programming/free/java-the-legend.csp"
+     },
+     {
+       "id" : "186",
+       "bookName" : "Docker for Java Developers",
+       "authorName" : "Arun Gupta",
+       "bookLink"   : "http://www.oreilly.com/programming/free/docker-for-java-developers.csp"
+      },
+      {
+       "id" : "187",
+       "bookName" : "RESTful Web Services",
+       "authorName" : "Leonard Richardson and Sam Ruby",
+       "bookLink"   : "http://restfulwebapis.org/rws.html"
+      },
+      {
+        "id" : "188",
+        "bookName" : "Learning Java",
+        "authorName" : "Patrick Niemeyer and Daniel Leuck",
+        "bookLink"   : "http://chimera.labs.oreilly.com/books/1234000001805"
+      }
 
 ]
