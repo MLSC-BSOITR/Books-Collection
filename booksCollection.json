@@ -1134,4 +1134,14 @@
         "bookLink"   : "https://books.trinket.io/pfe/index.html"
       }
 
+ {
+        "id" : "190",
+        "bookName" : "Linear and Nonlinear Programming",
+        "authorName" : "David G. Luenberger, Yinyu Ye",
+        "bookLink"   : "http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3"
+      }
+
+
+
+
 ]
