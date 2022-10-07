@@ -33,6 +33,13 @@
     "bookLink"   : "https://openlibrary.org/works/OL18020194W/It_Ends_With_Us"
     
 }
+{
+        "id": "192",
+        "bookName": "Plinth to Paramount",
+        "authorName": "Neetu Singh,
+        "bookLink": "file:///C:/Users/ssona/Downloads/Plinth%20to%20Paramount%20by%20Neetu%20Singh%20(z-lib.org).pdf"
+     }
+
 
 
 
