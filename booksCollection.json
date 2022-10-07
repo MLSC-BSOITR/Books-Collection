@@ -1132,6 +1132,12 @@
         "bookName" : "Python for Everbody: Exploring Data in Python3",
         "authorName" : "Dr. Charles R. Severance",
         "bookLink"   : "https://books.trinket.io/pfe/index.html"
-      }
+      },
+     {
+        "id": "190",
+        "bookName": "Data Communications and Networking",
+        "authorName": "McGraw Hill Education | Behrouz A. Forouzan",
+        "bookLink": "http://eti2506.elimu.net/Introduction/Books/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf"
+     }
 
 ]
