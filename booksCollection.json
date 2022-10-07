@@ -1126,6 +1126,12 @@
         "bookName" : "Learning Java",
         "authorName" : "Patrick Niemeyer and Daniel Leuck",
         "bookLink"   : "http://chimera.labs.oreilly.com/books/1234000001805"
+      },
+      {
+        "id" : "189",
+        "bookName" : "Python for Everbody: Exploring Data in Python3",
+        "authorName" : "Dr. Charles R. Severance",
+        "bookLink"   : "https://books.trinket.io/pfe/index.html"
       }
 
 ]
