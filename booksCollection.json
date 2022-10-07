@@ -1091,5 +1091,41 @@
     "authorName" : "Bill Nelson Amelia Phillips Chris Steuart",
     "bookLink"   : "https://www.pdfdrive.com/guide-to-computer-forensics-and-investigations-6th-edition-e187518801.html"
   }
+  {
+     "id" : "183",
+     "bookName" : "Object-Oriented vs. Functional Programming",
+     "authorName" : "Richard Warburton",
+     "bookLink"   : " http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp"
+   },
+   {
+     "id" : "184",
+     "bookName" : "Modern Java EE Design Patterns",
+     "authorName" : "Markus Eisele",
+     "bookLink"   : "http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp"
+    },
+    {
+      "id" : "185",
+      "bookName" : "Java: The Legend",
+      "authorName" : "Benjamin Evans",
+      "bookLink"   : "http://www.oreilly.com/programming/free/java-the-legend.csp"
+     },
+     {
+       "id" : "186",
+       "bookName" : "Docker for Java Developers",
+       "authorName" : "Arun Gupta",
+       "bookLink"   : "http://www.oreilly.com/programming/free/docker-for-java-developers.csp"
+      },
+      {
+       "id" : "187",
+       "bookName" : "RESTful Web Services",
+       "authorName" : "Leonard Richardson and Sam Ruby",
+       "bookLink"   : "http://restfulwebapis.org/rws.html"
+      },
+      {
+        "id" : "188",
+        "bookName" : "Learning Java",
+        "authorName" : "Patrick Niemeyer and Daniel Leuck",
+        "bookLink"   : "http://chimera.labs.oreilly.com/books/1234000001805"
+      }
 
 ]
