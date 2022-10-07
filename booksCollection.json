@@ -1084,6 +1084,12 @@
     "bookName" : "Learn C on the Mac",
     "authorName" : "Dave Mark",
     "bookLink"   : "https://www.pdfdrive.com/learn-c-on-the-mac-for-os-x-and-ios-e163066317.html"
+  },
+  {
+    "id" : "182",
+    "bookName" : "Guide to Computer Forensics and Investigations 6th Edition",
+    "authorName" : "Bill Nelson Amelia Phillips Chris Steuart",
+    "bookLink"   : "https://www.pdfdrive.com/guide-to-computer-forensics-and-investigations-6th-edition-e187518801.html"
   }
 
 ]
