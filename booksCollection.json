@@ -1212,5 +1212,16 @@
          "authorName" : "Duncan McGregor, Nat Pryce",
          "bookLink"   : "https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/"
       },
-
+      {
+         "id" : "196",
+         "bookName" : "Java to Kotlin",
+         "authorName" : "Duncan McGregor, Nat Pryce",
+         "bookLink"   : "https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/"
+      },
+      {
+         "id" : "197",
+         "bookName" : "Java to Kotlin",
+         "authorName" : "Core Java: An Integrated Approach",
+         "bookLink"   : "https://www.amazon.in/Core-Java-Integrated-Approach-Versions/dp/9351199258/ref=sr_1_2_sspa?"
+      },
 ]
