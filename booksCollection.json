@@ -1210,5 +1210,11 @@
     "bookName": "Java to Kotlin",
     "authorName": "Duncan McGregor, Nat Pryce",
     "bookLink": "https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/"
+  },
+  {
+    "id": "196",
+    "bookName": "Programming Computer Vision with Python",
+    "authorName": "Jan Erik Solem",
+    "bookLink": "http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf"
   }
 ]
