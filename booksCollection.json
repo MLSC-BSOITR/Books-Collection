@@ -1241,6 +1241,17 @@
       "bookName" : "Augmented Reality: Principles & Practice",
       "authorName" : "Schmalstieg and Hollerer",
       "bookLink"   : "https://www.amazon.in/Augmented-Reality-Principles-Schmalstieg-Hollerer/dp/9332578494/ref=asc_df_9332578494/?tag=googleshopdes-21&linkCode=df0&hvadid=397006573861&hvpos=&hvnetw=g&hvrand=943179399142643441&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20455&hvtargid=pla-418375059497&psc=1&ext_vrnc=hi"
-   },
-
+     },
+     {
+         "id": "199",
+         "bookName": "An Introduction to Machine Learning - Machine Learning Summer",
+         "authorName": "Alexander J. Smola",
+         "bookLink": "https://www.pdfdrive.com/an-introduction-to-machine-learning-machine-learning-summer-e10685818.html"
+      },
+      {
+         "id": "200",
+         "bookName": "Python for Everybody",
+         "authorName": "Dr. Charles Russell Severance",
+         "bookLink": "https://www.py4e.com/book"
+      },
 ]
