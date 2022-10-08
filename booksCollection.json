@@ -1252,5 +1252,11 @@
          "bookName": "Bill Gates Quotes",
          "authorName": "Book by Bill Gates",
          "bookLink": "https://www.goodreads.com/book/show/38533134-bill-gates-quotes"
-      }
+      },
+      {
+          "id" : "203",
+          "bookName" : "Data Structures and Algorithms Made Easy: Data Structure and Algorithmic Puzzles",
+          "authorName" : "Narasimha Karumanchi",
+          "bookLink"   : "https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structure-and-algorithmic-puzzles-e199783410.html"
+      }  
 ]
