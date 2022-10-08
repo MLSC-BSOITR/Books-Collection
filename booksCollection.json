@@ -1220,8 +1220,14 @@
       },
       {
          "id" : "197",
-         "bookName" : "Java to Kotlin",
-         "authorName" : "Core Java: An Integrated Approach",
+         "bookName" : "Core Java: An Integrated Approach",
+         "authorName" : "Dr. R. Nageswara Rao",
          "bookLink"   : "https://www.amazon.in/Core-Java-Integrated-Approach-Versions/dp/9351199258/ref=sr_1_2_sspa?"
+      },
+      {
+         "id" : "198",
+         "bookName" : "Paul J. Deitel,Dr. Harvey M. Deitel",
+         "authorName" : "Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud",
+         "bookLink"   : "https://www.amazon.in/Introduction-Python-Computer-Data-Sciences/dp/0135404673"
       },
 ]
