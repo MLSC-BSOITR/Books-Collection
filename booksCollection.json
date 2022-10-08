@@ -1242,4 +1242,10 @@
          "authorName": "Dr. Charles Russell Severance",
          "bookLink": "https://www.py4e.com/book"
       },
+    {
+         "id": "201",
+         "bookName": "Bill Gates Quotes",
+         "authorName": "Book by Bill Gates",
+         "bookLink": "https://www.goodreads.com/book/show/38533134-bill-gates-quotes"
+      },
 ]
