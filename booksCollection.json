@@ -1087,6 +1087,12 @@
   },
   {
     "id" : "182",
+    "bookName" : "Guide to Computer Forensics and Investigations 6th Edition",
+    "authorName" : "Bill Nelson Amelia Phillips Chris Steuart",
+    "bookLink"   : "https://www.pdfdrive.com/guide-to-computer-forensics-and-investigations-6th-edition-e187518801.html"
+  }
+{
+    "id" : "183"
     "bookName" : "Clojure - Functional Programming for the JVM",
     "authorName" : "R. Mark Volkmann",
     "bookLink"   : "https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm"
@@ -1181,6 +1187,14 @@
         "authorName" : "brian d foy",
         "bookLink"   : "https://www.amazon.in/Learning-Perl-6-Brian-Foy/dp/149197768X"
       },
+
+     {
+    "id" : "192",
+    "bookName" : "Let Us C",
+    "authorName" : "Yashavant Kanetkar",
+    "bookLink"   : "https://www.pdfdrive.com/let-us-c-yashwant-kanetkar-15th-edition-e200738567.html"
+    }
+
 
 
 ]
