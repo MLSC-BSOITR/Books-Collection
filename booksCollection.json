@@ -1174,7 +1174,13 @@
         "bookName" : "Linear and Nonlinear Programming",
         "authorName" : "David G. Luenberger, Yinyu Ye",
         "bookLink"   : "http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3"
-      }
+      },
+      {
+        "id" : "192",
+        "bookName" : "Learning Perl 6: Keeping the Easy, Hard, and Impossible Within Reach",
+        "authorName" : "brian d foy",
+        "bookLink"   : "https://www.amazon.in/Learning-Perl-6-Brian-Foy/dp/149197768X"
+      },
 
 
 ]
