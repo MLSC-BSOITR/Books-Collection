@@ -1181,13 +1181,20 @@
         "authorName" : "David G. Luenberger, Yinyu Ye",
         "bookLink"   : "http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3"
       },
-  {
+      {
+        "id" : "192",
+        "bookName" : "Learning Perl 6: Keeping the Easy, Hard, and Impossible Within Reach",
+        "authorName" : "brian d foy",
+        "bookLink"   : "https://www.amazon.in/Learning-Perl-6-Brian-Foy/dp/149197768X"
+      },
+
+     {
     "id" : "192",
     "bookName" : "Let Us C",
     "authorName" : "Yashavant Kanetkar",
     "bookLink"   : "https://www.pdfdrive.com/let-us-c-yashwant-kanetkar-15th-edition-e200738567.html"
-}
-  
+    }
+
 
 
 ]
