@@ -1018,20 +1018,20 @@
     "bookName" : "Data Structures and Algorithms in Python",
     "authorName" : "Michael T. Goodrich",
     "bookLink"   : "https://www.pdfdrive.com/data-structures-and-algorithms-in-python-e25119593.html"
-   },
-   {
+  },
+  {
     "id" : "171",
     "bookName" : "The Art of Racing in the Rain",
     "authorName" : "Garth Stein",
     "bookLink"   : "https://www.scollingsworthenglish.com/uploads/3/8/4/2/38422447/garth_stein_-_the_art_of_racing_in_the_rain.pdf"
-   },
-   {
+  },
+  {
     "id" : "172",
     "bookName" : "The Python Book",
     "authorName" : "Guido van Rossum",
     "bookLink"   : "https://askbooks.net/pdf-the-python-book-the-ultimate-guide-to-coding-with-python-the-ultimate-guide-to-coding-with-python-over-20-incredible-projects/"
-   },
-   {
+  },
+  {
     "id" : "173",
     "bookName" : "Database System Concepts",
     "authorName" : "Abraham Silberschatz, Henry F. Korth, S. Sudarshan",
@@ -1091,18 +1091,54 @@
     "authorName" : "Bill Nelson Amelia Phillips Chris Steuart",
     "bookLink"   : "https://www.pdfdrive.com/guide-to-computer-forensics-and-investigations-6th-edition-e187518801.html"
   }
+{
+    "id" : "183"
+    "bookName" : "Clojure - Functional Programming for the JVM",
+    "authorName" : "R. Mark Volkmann",
+    "bookLink"   : "https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm"
+  },
   {
      "id" : "183",
      "bookName" : "Object-Oriented vs. Functional Programming",
      "authorName" : "Richard Warburton",
      "bookLink"   : " http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp"
-   },
-   {
+  },
+  {
      "id" : "184",
      "bookName" : "Modern Java EE Design Patterns",
      "authorName" : "Markus Eisele",
      "bookLink"   : "http://www.oreilly.com/programming/free/modern-java-ee-design-patterns.csp"
-    },
+  },
+  {
+     "id" : "185",
+     "bookName" : "Java: The Legend",
+     "authorName" : "Benjamin Evans",
+     "bookLink"   : "http://www.oreilly.com/programming/free/java-the-legend.csp"
+  },
+  {
+     "id" : "186",
+     "bookName" : "Docker for Java Developers",
+     "authorName" : "Arun Gupta",
+     "bookLink"   : "http://www.oreilly.com/programming/free/docker-for-java-developers.csp"
+  },
+  {
+     "id" : "187",
+     "bookName" : "RESTful Web Services",
+     "authorName" : "Leonard Richardson and Sam Ruby",
+     "bookLink"   : "http://restfulwebapis.org/rws.html"
+  },
+  {
+     "id" : "188",
+     "bookName" : "Learning Java",
+     "authorName" : "Patrick Niemeyer and Daniel Leuck",
+     "bookLink"   : "http://chimera.labs.oreilly.com/books/1234000001805"
+  },
+  {
+     "id" : "189",
+     "bookName" : "Fullstack React: The Complete Guide to ReactJS and Friends",
+     "authorName" : "Anthony Accomazzo, Nate Murray, Ari Lerner",
+     "bookLink"   : "https://dokumen.pub/download/fullstack-react-the-complete-guide-to-reactjs-and-friends.html"
+  },
     {
       "id" : "185",
       "bookName" : "Java: The Legend",
@@ -1126,6 +1162,25 @@
         "bookName" : "Learning Java",
         "authorName" : "Patrick Niemeyer and Daniel Leuck",
         "bookLink"   : "http://chimera.labs.oreilly.com/books/1234000001805"
+      },
+      {
+        "id" : "189",
+        "bookName" : "Python for Everbody: Exploring Data in Python3",
+        "authorName" : "Dr. Charles R. Severance",
+        "bookLink"   : "https://books.trinket.io/pfe/index.html"
+      },
+     {
+        "id": "190",
+        "bookName": "Data Communications and Networking",
+        "authorName": "McGraw Hill Education | Behrouz A. Forouzan",
+        "bookLink": "http://eti2506.elimu.net/Introduction/Books/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf"
+     },
+     {
+        "id" : "191",
+        "bookName" : "Linear and Nonlinear Programming",
+        "authorName" : "David G. Luenberger, Yinyu Ye",
+        "bookLink"   : "http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3"
       }
+
 
 ]
