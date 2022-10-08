@@ -1206,6 +1206,11 @@
          "authorName" : "Ben Evans, David Flanagan",
          "bookLink"   : "https://www.oreilly.com/library/view/java-in-a/9781492037248/"
       },
-      
+      {
+         "id" : "195",
+         "bookName" : "Java to Kotlin",
+         "authorName" : "Duncan McGregor, Nat Pryce",
+         "bookLink"   : "https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/"
+      },
 
 ]
