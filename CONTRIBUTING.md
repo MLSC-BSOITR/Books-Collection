@@ -22,17 +22,6 @@
     
 }
 
-{
- 
-    "id" : "1",
-    
-    "bookName" : "It Ends With Us",
-    
-    "authorName" : "Colleen Hoover",
-    
-    "bookLink"   : "https://openlibrary.org/works/OL18020194W/It_Ends_With_Us"
-    
-}
 
 
 
