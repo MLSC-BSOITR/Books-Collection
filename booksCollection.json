@@ -1231,18 +1231,6 @@
          "bookLink"   : "https://www.amazon.in/Introduction-Python-Computer-Data-Sciences/dp/0135404673"
       },
       {
-        "id" : "199",
-        "bookName" : "Inferno",
-        "authorName" : "Dan Brown",
-        "bookLink"   : "https://www.amazon.in/Inferno-Dan-Brown/dp/0593072499"
-     },
-     {
-      "id" : "200",
-      "bookName" : "Augmented Reality: Principles & Practice",
-      "authorName" : "Schmalstieg and Hollerer",
-      "bookLink"   : "https://www.amazon.in/Augmented-Reality-Principles-Schmalstieg-Hollerer/dp/9332578494/ref=asc_df_9332578494/?tag=googleshopdes-21&linkCode=df0&hvadid=397006573861&hvpos=&hvnetw=g&hvrand=943179399142643441&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20455&hvtargid=pla-418375059497&psc=1&ext_vrnc=hi"
-     },
-     {
          "id": "199",
          "bookName": "An Introduction to Machine Learning - Machine Learning Summer",
          "authorName": "Alexander J. Smola",
@@ -1254,4 +1242,11 @@
          "authorName": "Dr. Charles Russell Severance",
          "bookLink": "https://www.py4e.com/book"
       },
+     {
+         "id": "202",
+         "bookName": "Steve Jobs",
+         "authorName": "Book by Walter Isaacson",
+         "bookLink": "https://www.amazon.in/Steve-Jobs-Walter-Isaacson/dp/034914043X"
+      },
+
 ]
