@@ -1200,6 +1200,12 @@
          "authorName" : "Juan Nunez-Iglesias, Stéfan van der Walt, Harriet Dashnow",
          "bookLink"   : "https://www.oreilly.com/library/view/elegant-scipy/9781491922927/"
       },
-
+      {
+         "id" : "194",
+         "bookName" : "Java in a Nutshell",
+         "authorName" : "Ben Evans, David Flanagan",
+         "bookLink"   : "https://www.oreilly.com/library/view/java-in-a/9781492037248/"
+      },
+      
 
 ]
