@@ -1194,7 +1194,12 @@
     "authorName" : "Yashavant Kanetkar",
     "bookLink"   : "https://www.pdfdrive.com/let-us-c-yashwant-kanetkar-15th-edition-e200738567.html"
     }
-
+      {
+         "id" : "193",
+         "bookName" : "Elegant SciPy",
+         "authorName" : "Juan Nunez-Iglesias, Stéfan van der Walt, Harriet Dashnow",
+         "bookLink"   : "https://www.oreilly.com/library/view/elegant-scipy/9781491922927/"
+      },
 
 
 ]
