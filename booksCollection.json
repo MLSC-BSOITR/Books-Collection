@@ -1047,7 +1047,7 @@
     "id" : "175",
     "bookName" : "Introduction to Algorithms",
     "authorName" : "Thomas H. Cormen",
-    "bookName" : "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
+    "bookLink" : "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
   },
   {
      "id" : "176",
@@ -1090,9 +1090,9 @@
     "bookName" : "Guide to Computer Forensics and Investigations 6th Edition",
     "authorName" : "Bill Nelson Amelia Phillips Chris Steuart",
     "bookLink"   : "https://www.pdfdrive.com/guide-to-computer-forensics-and-investigations-6th-edition-e187518801.html"
-  }
+  },
   {
-    "id" : "183"
+    "id" : "183",
     "bookName" : "Clojure - Functional Programming for the JVM",
     "authorName" : "R. Mark Volkmann",
     "bookLink"   : "https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm"
@@ -1252,5 +1252,11 @@
          "bookName": "Bill Gates Quotes",
          "authorName": "Book by Bill Gates",
          "bookLink": "https://www.goodreads.com/book/show/38533134-bill-gates-quotes"
-      }
+      },
+      {
+        "id": "203",
+        "bookName": "Fundamentals of Python: From First Programs through Data Structures",
+        "authorName": "Kenneth A. Lambert",
+        "bookLink": "http://62.182.86.140/main/754000/81c29020262fada67b605c8a70c14fab/Kenneth%20A.%20Lambert%20-%20Fundamentals%20of%20Python_%20From%20First%20Programs%20through%20Data%20Structures%20%20-Course%20Technology%20%282009%29.pdf"
+     }
 ]
