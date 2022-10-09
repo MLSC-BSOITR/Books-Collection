@@ -1294,5 +1294,11 @@
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
-      }
+      },
+      {
+        "id": "210",
+        "bookName": "MySQL® Notes for Professionals book",
+        "authorName": "The book is compiled from Stack Overflow Documentation",
+        "bookLink": "https://goalkicker.com/MySQLBook/"
+     }
 ]
