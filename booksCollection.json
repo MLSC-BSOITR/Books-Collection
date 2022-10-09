@@ -1294,5 +1294,11 @@
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
+      },
+      {
+         "id" : "210",
+         "bookName": "Ikigai: The Japanese Secret to a Long and Happy Life",
+         "authorName": "Hector Garcia & Francesc Miralles",
+         "bookLink": "https://instapdf.in/ikigai-book/"
       }
 ]
