@@ -1294,5 +1294,11 @@
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
+      },
+      {
+    "id" : "210",
+    "bookName" : "Head First Java",
+    "authorName" : "Bert Bates and Kathy Sierra",
+    "bookLink"   : "https://www.pdfdrive.com/download.pdf?id=19984272&h=a6fed263344ca4c35328f19bfeaf2fa1&u=cache&ext=pdf"
       }
 ]
