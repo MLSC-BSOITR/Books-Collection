@@ -1288,6 +1288,11 @@
          "bookName": "CRACKING THE CODING INTERVIEW",
          "authorName": "Book by Gayle Laakmann McDowell",
          "bookLink": "https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html"
-     }    
-
+     },    
+     {
+         "id": "209",
+         "bookName": "How to think like a computer scientist, learning with python",
+         "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
+         "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
+      }
 ]
