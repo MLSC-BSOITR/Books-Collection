@@ -1252,5 +1252,11 @@
          "bookName": "Bill Gates Quotes",
          "authorName": "Book by Bill Gates",
          "bookLink": "https://www.goodreads.com/book/show/38533134-bill-gates-quotes"
+      },
+      {
+         "id": "203",
+         "bookName": "How to think like a computer scientist, learning with python",
+         "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
+         "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
       }
 ]
