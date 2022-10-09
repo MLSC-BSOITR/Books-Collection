@@ -1252,5 +1252,11 @@
          "bookName": "Bill Gates Quotes",
          "authorName": "Book by Bill Gates",
          "bookLink": "https://www.goodreads.com/book/show/38533134-bill-gates-quotes"
+      },
+      {
+         "id": "203",
+         "bookName": "The Candy House",
+         "authorName": "Jennifer Egan",
+         "bookLink": "https://amazon.in/dp/B098J281J5?ref=KC_GS_GB_IN"
       }
 ]
