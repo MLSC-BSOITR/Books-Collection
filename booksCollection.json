@@ -1294,5 +1294,11 @@
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
-      }
+      },
+      {
+         "id": "537",
+         "bookName": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+         "authorName": "Eric Jorgenson",
+         "bookLink": "https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf"
+      },
 ]
