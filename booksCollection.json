@@ -1282,6 +1282,12 @@
          "bookName": "The Candy House",
          "authorName": "Jennifer Egan",
          "bookLink": "https://amazon.in/dp/B098J281J5?ref=KC_GS_GB_IN"
-      }
+      },
+      {
+         "id": "208",
+         "bookName": "CRACKING THE CODING INTERVIEW",
+         "authorName": "Book by Gayle Laakmann McDowell",
+         "bookLink": "https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html"
+     }    
 
 ]
