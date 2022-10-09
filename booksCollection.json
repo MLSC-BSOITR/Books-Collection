@@ -1294,5 +1294,11 @@
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
-      }
+      },
+      {
+    "id" : "210",
+    "bookName" : "Javascript For Beginners",
+    "authorName" : "Balaguruswamy",
+    "bookLink"   : "https://www.pdfdrive.com/javascript-for-beginners-ebooks-pdf-format-ansi-c-balaguruswamy-e36586145.html"
+     }
 ]
