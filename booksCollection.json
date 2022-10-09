@@ -1295,4 +1295,11 @@
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
       }
+      {
+
+         "id": "210",
+         "bookName": "The Self-taught Programmer: The Definitive Guide to Programming Professionally",
+         "authorName": "Cory Althoff",
+         "bookLink": "https://www.theselftaughtprogrammer.io/"
+      }
 ]
