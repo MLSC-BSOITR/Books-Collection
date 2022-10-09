@@ -1252,5 +1252,11 @@
          "bookName": "Bill Gates Quotes",
          "authorName": "Book by Bill Gates",
          "bookLink": "https://www.goodreads.com/book/show/38533134-bill-gates-quotes"
+      },
+      {
+         "id": "203",
+         "bookName": "CRACKING the · CODING INTERVIEW",
+         "authorName": "Book by Gayle Laakmann McDowell",
+         "bookLink": "https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html"
       }
 ]
