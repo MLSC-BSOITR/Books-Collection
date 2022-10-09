@@ -1258,5 +1258,24 @@
         "bookName": "Fundamentals of Python: From First Programs through Data Structures",
         "authorName": "Kenneth A. Lambert",
         "bookLink": "http://62.182.86.140/main/754000/81c29020262fada67b605c8a70c14fab/Kenneth%20A.%20Lambert%20-%20Fundamentals%20of%20Python_%20From%20First%20Programs%20through%20Data%20Structures%20%20-Course%20Technology%20%282009%29.pdf"
-     }
+     },
+     {
+        "id" : "204",
+        "bookName": "Kali Linux Revealed: Mastering the Penetration Testing Distribution",
+        "authorName": "Book by Raphael Hertzog",
+        "bookLink": "https://www.amazon.com/gp/product/0997615605/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=linuxhint-20&creative=9325&linkCode=as2&creativeASIN=0997615605&linkId=e50996005435b72cb7a1cc781a0ae163"
+     },
+     {
+         "id": "205",
+         "bookName": "The C Programming Language",
+         "authorName": "Brian W. Kernighan and Dennis M. Ritchie",
+         "bookLink": "https://kremlin.cc/k&r.pdf"
+      },
+      {
+         "id" : "206",
+         "bookName": "The Candy House",
+         "authorName": "Jennifer Egan",
+         "bookLink": "https://amazon.in/dp/B098J281J5?ref=KC_GS_GB_IN"
+      }
+
 ]
