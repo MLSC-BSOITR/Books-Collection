@@ -1047,7 +1047,7 @@
     "id" : "175",
     "bookName" : "Introduction to Algorithms",
     "authorName" : "Thomas H. Cormen",
-    "bookName" : "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
+    "bookLink" : "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
   },
   {
      "id" : "176",
@@ -1090,9 +1090,9 @@
     "bookName" : "Guide to Computer Forensics and Investigations 6th Edition",
     "authorName" : "Bill Nelson Amelia Phillips Chris Steuart",
     "bookLink"   : "https://www.pdfdrive.com/guide-to-computer-forensics-and-investigations-6th-edition-e187518801.html"
-  }
+  },
   {
-    "id" : "183"
+    "id" : "183",
     "bookName" : "Clojure - Functional Programming for the JVM",
     "authorName" : "R. Mark Volkmann",
     "bookLink"   : "https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm"
@@ -1254,7 +1254,43 @@
          "bookLink": "https://www.goodreads.com/book/show/38533134-bill-gates-quotes"
       },
       {
-         "id": "203",
+          "id" : "203",
+          "bookName" : "Data Structures and Algorithms Made Easy: Data Structure and Algorithmic Puzzles",
+          "authorName" : "Narasimha Karumanchi",
+          "bookLink"   : "https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structure-and-algorithmic-puzzles-e199783410.html"
+      },  
+      {
+        "id": "204",
+        "bookName": "Fundamentals of Python: From First Programs through Data Structures",
+        "authorName": "Kenneth A. Lambert",
+        "bookLink": "http://62.182.86.140/main/754000/81c29020262fada67b605c8a70c14fab/Kenneth%20A.%20Lambert%20-%20Fundamentals%20of%20Python_%20From%20First%20Programs%20through%20Data%20Structures%20%20-Course%20Technology%20%282009%29.pdf"
+     },
+     {
+        "id" : "205",
+        "bookName": "Kali Linux Revealed: Mastering the Penetration Testing Distribution",
+        "authorName": "Book by Raphael Hertzog",
+        "bookLink": "https://www.amazon.com/gp/product/0997615605/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=linuxhint-20&creative=9325&linkCode=as2&creativeASIN=0997615605&linkId=e50996005435b72cb7a1cc781a0ae163"
+     },
+     {
+         "id": "206",
+         "bookName": "The C Programming Language",
+         "authorName": "Brian W. Kernighan and Dennis M. Ritchie",
+         "bookLink": "https://kremlin.cc/k&r.pdf"
+      },
+      {
+         "id" : "207",
+         "bookName": "The Candy House",
+         "authorName": "Jennifer Egan",
+         "bookLink": "https://amazon.in/dp/B098J281J5?ref=KC_GS_GB_IN"
+      },
+      {
+         "id": "208",
+         "bookName": "CRACKING THE CODING INTERVIEW",
+         "authorName": "Book by Gayle Laakmann McDowell",
+         "bookLink": "https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html"
+     },    
+     {
+         "id": "209",
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
