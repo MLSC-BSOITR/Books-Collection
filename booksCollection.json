@@ -1294,5 +1294,11 @@
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
+      },
+      {
+         "id": "210",
+         "bookName": "Python for Informatics Exploring Information Version 2.7.3",
+         "authorName": "Charles Severance",
+         "bookLink": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf"
       }
 ]
