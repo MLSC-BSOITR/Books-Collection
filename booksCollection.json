@@ -1294,5 +1294,11 @@
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
+      },
+  {
+         "id": "210",
+         "bookName": "Database Management Systems",
+         "authorName": "Raghu Ramakrishnan and Johannes Gehrke",
+         "bookLink": "https://learnengineering.in/database-management-systems-by-raghu-ramakrishnan-free-download-nw/"
       }
 ]
