@@ -1462,6 +1462,12 @@
         "bookName" : "Tango With Django: A beginner’s Guide to Web Development With Python",
         "authorName" : "Leif Azzopardi & David Maxwell",
         "bookLink"   : "https://www.pdfdrive.com/tango-with-django-a-beginners-guide-to-web-development-with-python-django-19-e158071432.html"
+     },
+     {
+        "id" : "245",
+        "bookName" : "The Rust Programming Language",
+        "authorName" : "Carol Nichols and Steve Klabnik",
+        "bookLink"   : "https://www.pdfdrive.com/the-rust-programming-language-d189824055.html"
      }
 
 
