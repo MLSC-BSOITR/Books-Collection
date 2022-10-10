@@ -1396,6 +1396,12 @@
          "bookName": "Complete DSA Revision Guide",
          "authorName": "Aryan Singh",
          "bookLink": "https://blocktrain.gumroad.com/l/dsarevision"
+      },
+      {
+         "id": "227",
+         "bookName": "Think Bayes 2e",
+         "authorName": "Allen B. Downey",
+         "bookLink": "http://greenteapress.com/wp/think-bayes/"
       }
  
 ]
