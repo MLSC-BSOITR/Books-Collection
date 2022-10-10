@@ -1378,7 +1378,7 @@
          "bookName": "The Self-taught Programmer: The Definitive Guide to Programming Professionally",
          "authorName": "Cory Althoff",
          "bookLink": "https://www.theselftaughtprogrammer.io/"
-      }
+      },
       {
          "id": "224",
          "bookName": "The Art of Computer Programming - All volumes",
@@ -1438,12 +1438,49 @@
           "bookName" : "Learning Algorithms Through Programming and Puzzle Solving",
           "authorName" : "Alexander S. Kulikov & Pavel Pevzner",
           "bookLink"   : "https://www.pdfdrive.com/learning-algorithms-through-programming-and-puzzle-solving-e185756516.html"
-      }
+      },
       {
          "id" : "234",
          "bookName" : "Black Hat Python",
          "authorName" : "Justin Seitz",
          "bookLink"   : "https://www.pdfdrive.com/black-hat-python-e34450458.html"
+      },
+      {
+        "id" : "235",
+        "bookName" : "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "authorName" : "Erich Gamma, John Vlissides, Ralph Johnson, Richard Helmr",
+        "bookLink"   : "https://www.pdfdrive.com/design-patterns-elements-of-reusable-object-oriented-software-e161314266.html"
+      },
+      {
+         "id" : "236",
+         "bookName" : "JavaScript: JavaScript For Beginners",
+         "authorName" : "Stephen Blumenthal",
+         "bookLink"   : "https://www.pdfdrive.com/javascript-javascript-for-beginners-learn-javascript-programming-with-ease-in-half-the-time-everything-about-the-language-coding-programming-and-web-pages-you-need-to-know-e158299863.html"
+      },
+      {
+        "id" : "237",
+        "bookName" : "Learning React: A Hands-On Guide to Building Web Applications Using React and Redux",
+        "authorName" : "Kirupa Chinnathambi",
+        "bookLink"   : "https://www.pdfdrive.com/learning-react-a-hands-on-guide-to-building-web-applications-using-react-and-redux-e185752183.html"
+      },
+      {
+         "id" : "238",
+         "bookName" : "C Programming :: The Ultimate Way to Learn The Fundamentals of The C Language.",
+         "authorName" : "Harry. H. Chaudhary.",
+         "bookLink"   : "https://www.pdfdrive.com/c-programming-the-ultimate-way-to-learn-the-fundamentals-of-the-c-language-e187584209.html"
+      },
+      {
+        "id" : "239",
+        "bookName" : "Natural Language Processing Recipes: Unlocking Text Data with Machine Learning and Deep Learning using Python",
+        "authorName" : "Akshay Kulkarni & Adarsha Shivananda",
+        "bookLink"   : "https://www.pdfdrive.com/natural-language-processing-recipes-unlocking-text-data-with-machine-learning-and-deep-learning-using-python-e158551198.html"
+      },
+      {
+         "id" : "240",
+         "bookName" : "Kali Linux Wireless Penetration Testing: Master wireless testing techniques to survey and attack wireless networks with Kali Linux",
+         "authorName" : "Vivek Ramachandran & Cameron Buchanan",
+         "bookLink"   : "https://www.pdfdrive.com/kali-linux-wireless-penetration-testing-master-wireless-testing-techniques-to-survey-and-attack-wireless-networks-with-kali-linux-e167308541.html"
       }
+
 
 ]
