@@ -1403,5 +1403,12 @@
          "authorName": "Allen B. Downey",
          "bookLink": "http://greenteapress.com/wp/think-bayes/"
       }
+      {
+         "id": "228",
+         "bookName": "Refactoring: Improving the Design of Existing Code",
+         "authorName": "Kent Beck and Martin Fowler",
+         "bookLink": "http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf"
+      }
+
  
 ]
