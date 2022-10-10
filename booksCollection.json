@@ -1300,27 +1300,33 @@
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
-      },    
-     {
+      },
+      {
          "id": "211",
+         "bookName": "Database Management Systems",
+         "authorName": "Raghu Ramakrishnan and Johannes Gehrke",
+         "bookLink": "https://learnengineering.in/database-management-systems-by-raghu-ramakrishnan-free-download-nw/"
+      },    
+      {
+         "id": "212",
          "bookName": "The One Thing",
          "authorName": "Gary W. Keller and Jay Papasan",
          "bookLink": "https://www.dropbox.com/s/mgo3zq270q0ikwq/the-one-thing-the-surprisingly-simple-truth%20lifefeeling.pdf?dl=1
-     },
+      },
       {
-         "id" : "212",
+         "id" : "213",
          "bookName" : "Head First Java",
          "authorName" : "Bert Bates and Kathy Sierra",
          "bookLink"   : "https://www.pdfdrive.com/download.pdf?id=19984272&h=a6fed263344ca4c35328f19bfeaf2fa1&u=cache&ext=pdf
       },
       {
-         "id": "213",
+         "id": "214",
          "bookName": "Python for Informatics Exploring Information Version 2.7.3",
          "authorName": "Charles Severance",
          "bookLink": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf"
       },
       {
-         "id":"214",
+         "id":"215",
          "bookName": "Real-World Bug Hunting: A Field Guide to Web Hacking Real-World Bug Hunting: A Field Guide to Web",
          "authorName": "Peter Yaworski",
          "bookLink": "https://www.pdfdrive.com/real-world-bug-hunting-a-field-guide-to-web-hacking-real-world-bug-hunting-a-field-guide-to-web-hacking-e200799600.html"
