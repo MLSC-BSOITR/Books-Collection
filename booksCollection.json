@@ -1302,13 +1302,19 @@
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
       },
       {
-         "id": "211",
+         "id" : "211",
+         "bookName" : "Head First Java",
+         "authorName" : "Bert Bates and Kathy Sierra",
+         "bookLink"   : "https://www.pdfdrive.com/download.pdf?id=19984272&h=a6fed263344ca4c35328f19bfeaf2fa1&u=cache&ext=pdf
+      },
+      {
+         "id": "212",
          "bookName": "Python for Informatics Exploring Information Version 2.7.3",
          "authorName": "Charles Severance",
          "bookLink": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf"
       },
       {
-         "id":"212",
+         "id":"213",
          "bookName": "Real-World Bug Hunting: A Field Guide to Web Hacking Real-World Bug Hunting: A Field Guide to Web",
          "authorName": "Peter Yaworski",
          "bookLink": "https://www.pdfdrive.com/real-world-bug-hunting-a-field-guide-to-web-hacking-real-world-bug-hunting-a-field-guide-to-web-hacking-e200799600.html"
