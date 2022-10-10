@@ -1277,28 +1277,113 @@
          "authorName": "Brian W. Kernighan and Dennis M. Ritchie",
          "bookLink": "https://kremlin.cc/k&r.pdf"
       },
+     {
+        "id" : "207",
+        "bookName" : "Learn to Program with C: Learn to Program using the Popular C Programming Language",
+        "authorName" : "Noel Kalicharan",
+        "bookLink"   : "https://www.pdfdrive.com/learn-to-program-with-c-learn-to-program-using-the-popular-c-programming-language-d166650744.html"
+      },
       {
-         "id" : "207",
+         "id" : "208",
          "bookName": "The Candy House",
          "authorName": "Jennifer Egan",
          "bookLink": "https://amazon.in/dp/B098J281J5?ref=KC_GS_GB_IN"
       },
       {
-         "id": "208",
+         "id": "209",
          "bookName": "CRACKING THE CODING INTERVIEW",
          "authorName": "Book by Gayle Laakmann McDowell",
          "bookLink": "https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html"
-     },    
-     {
-         "id": "209",
+      },   
+      {
+         "id": "210",
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
+      },
+      {
+         "id" : "211",
+         "bookName" : "Javascript For Beginners",
+         "authorName" : "Balaguruswamy",
+         "bookLink"   : "https://www.pdfdrive.com/javascript-for-beginners-ebooks-pdf-format-ansi-c-balaguruswamy-e36586145.html"
+      },
+      {
+        "id": "212",
+        "bookName": "MySQL® Notes for Professionals book",
+        "authorName": "The book is compiled from Stack Overflow Documentation",
+        "bookLink": "https://goalkicker.com/MySQLBook/"
      },
      {
-         "id": "210",
+        "id": "213",
+        "BookName": "Understanding Kubernetes",
+        "authorName": "Linode",
+        "bookLink": "https://brand.us-east-1.linodeobjects.com/docs/Linode_eBook_KubernetesSimplified_Ver2022.pdf"
+      },
+      {
+        "id": "214",
+        "bookName":"The Purpose-Driven Life: What on Earth Am I Here For?",
+        "authorName":"Rick Warren",
+        "bookLink":"https://www.pdfdrive.com/the-purpose-driven-life-what-on-earth-am-i-here-for-e185720921.html"
+      },
+      {
+         "id": "215",
+         "bookName": "Node.js in Action",
+         "authorName": " Mike Cantelon, Marc Harter, Nathan Rajlich, T.J. Holowaychuk",
+         "bookLink": "https://dokumen.pub/nodejs-in-action-2nbsped-1617292575-9781617292576.html"
+       },
+       { 
+         "id": "216",
+         "bookName": "Database Management Systems",
+         "authorName": "Raghu Ramakrishnan and Johannes Gehrke",
+         "bookLink": "https://learnengineering.in/database-management-systems-by-raghu-ramakrishnan-free-download-nw/"
+       },    
+       {
+         "id": "217",
+         "bookName": "The One Thing",
+         "authorName": "Gary W. Keller and Jay Papasan",
+         "bookLink": "https://www.dropbox.com/s/mgo3zq270q0ikwq/the-one-thing-the-surprisingly-simple-truth%20lifefeeling.pdf?dl=1"
+      },
+      {
+         "id" : "218",
+         "bookName" : "Head First Java",
+         "authorName" : "Bert Bates and Kathy Sierra",
+         "bookLink"   : "https://www.pdfdrive.com/download.pdf?id=19984272&h=a6fed263344ca4c35328f19bfeaf2fa1&u=cache&ext=pdf"
+      },
+      {
+         "id": "219",
+         "bookName": "Python for Informatics Exploring Information Version 2.7.3",
+         "authorName": "Charles Severance",
+         "bookLink": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf"
+      },
+      {
+         "id":"220",
+         "bookName": "Real-World Bug Hunting: A Field Guide to Web Hacking Real-World Bug Hunting: A Field Guide to Web",
+         "authorName": "Peter Yaworski",
+         "bookLink": "https://www.pdfdrive.com/real-world-bug-hunting-a-field-guide-to-web-hacking-real-world-bug-hunting-a-field-guide-to-web-hacking-e200799600.html"
+      },
+      {
+         "id": "221",
+         "bookName": "The Self-taught Programmer: The Definitive Guide to Programming Professionally",
+         "authorName": "Cory Althoff",
+         "bookLink": "https://www.theselftaughtprogrammer.io/"
+      }
+      {
+         "id": "222",
+         "bookName": "The Art of Computer Programming - All volumes",
+         "authorName": "Donald Knuth",
+         "bookLink": "https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books"
+      },
+      {
+         "id": "223",
+         "bookName": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+         "authorName": "Eric Jorgenson",
+         "bookLink": "https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf"
+      },
+      {
+         "id": "224",
          "bookName": "Complete DSA Revision Guide",
          "authorName": "Aryan Singh",
          "bookLink": "https://blocktrain.gumroad.com/l/dsarevision"
-     }
+      }
+ 
 ]
