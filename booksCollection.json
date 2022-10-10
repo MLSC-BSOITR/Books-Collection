@@ -1397,5 +1397,12 @@
          "authorName" : "Justin Seitz",
          "bookLink"   : "https://www.pdfdrive.com/black-hat-python-e34450458.html"
       }
+  ,
+      {
+         "id" : "235",
+         "bookName" : "The Gifts of Imperfection: Embrace Who You Are",
+         "authorName" : "Brene Brown",
+         "bookLink"   : "https://www.pdfdrive.com/the-gifts-of-imperfection-embrace-who-you-are-e60365102.html"
+      }
 
 ]
