@@ -1295,4 +1295,10 @@
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
       }
+     {
+         "id": "210",
+         "bookName": "Think Bayes 2e",
+         "authorName": "Allen B. Downey",
+         "bookLink": "http://greenteapress.com/wp/think-bayes/"
+      }
 ]
