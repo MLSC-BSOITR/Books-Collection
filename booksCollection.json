@@ -1379,5 +1379,11 @@
          "authorName": "Eric Jorgenson",
          "bookLink": "https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf"
       },
+      {
+         "id": "224",
+         "bookName": "Complete DSA Revision Guide",
+         "authorName": "Aryan Singh",
+         "bookLink": "https://blocktrain.gumroad.com/l/dsarevision"
+      }
  
 ]
