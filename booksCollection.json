@@ -1428,7 +1428,13 @@
          "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
       },
       {
-          "id" : "232",
+        "id" : "232",
+        "bookName" : "Kali Linux Revealed: Mastering the Penetration Testing Distribution",
+        "authorName" : "Jim O'Gorman, Mati Aharoni, and Raphael Hertzog",
+        "bookLink"   : "https://www.pdfdrive.com/download.pdf?id=45609309&h=40cd00c451f9037a32352031cbed84e5&u=cache&ext=pdf"
+      },
+      {
+          "id" : "233",
           "bookName" : "Learning Algorithms Through Programming and Puzzle Solving",
           "authorName" : "Alexander S. Kulikov & Pavel Pevzner",
           "bookLink"   : "https://www.pdfdrive.com/learning-algorithms-through-programming-and-puzzle-solving-e185756516.html"
@@ -1439,4 +1445,10 @@
           "authorName" : "Candace Bushnell",
           "bookLink"   : "https://sexandthecity.fandom.com/wiki/Sex_and_the_City_(novel)"
       },
+
+         "id": "234",
+         "bookName": "HTML & CSS crash course ",
+         "authorName": "David McMahon",
+         "bookLink": "https://www.pdfdrive.com/html-css-crash-course-learn-html-and-css-with-easy-to-follow-step-by-step-tutorials-e158240321.html "
+      }
 ]
