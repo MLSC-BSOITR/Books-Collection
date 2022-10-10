@@ -1445,10 +1445,10 @@
           "authorName" : "Candace Bushnell",
           "bookLink"   : "https://sexandthecity.fandom.com/wiki/Sex_and_the_City_(novel)"
       },
-
+      {
          "id": "234",
          "bookName": "HTML & CSS crash course ",
          "authorName": "David McMahon",
          "bookLink": "https://www.pdfdrive.com/html-css-crash-course-learn-html-and-css-with-easy-to-follow-step-by-step-tutorials-e158240321.html "
-      }
+      },
 ]
