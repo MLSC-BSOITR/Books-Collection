@@ -1426,6 +1426,12 @@
          "bookName" : "ComputerScienceI",
          "authorName" : "Dr.ChrisBourke",
          "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
+      },
+      {
+          "id" : "232",
+         "bookName" : "Data Structures And Algorithms Made Easy: Data Structures And Algorithmic Puzzles",
+         "authorName" : "Narasimha Karumanchi",
+         "bookLink"   : "https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X"
       }
  
 ]
