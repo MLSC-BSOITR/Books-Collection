@@ -1396,6 +1396,12 @@
          "bookName" : "Black Hat Python",
          "authorName" : "Justin Seitz",
          "bookLink"   : "https://www.pdfdrive.com/black-hat-python-e34450458.html"
+      },
+     {
+         "id" : "235",
+         "bookName" : "Data Mining",
+         "authorName" : "Vipin Kumar",
+         "bookLink"   : "https://www-users.cse.umn.edu/~kumar001/dmbook/sol.pdf"
       }
 
 ]
