@@ -1378,7 +1378,7 @@
          "bookName": "The Self-taught Programmer: The Definitive Guide to Programming Professionally",
          "authorName": "Cory Althoff",
          "bookLink": "https://www.theselftaughtprogrammer.io/"
-      }
+      },
       {
          "id": "224",
          "bookName": "The Art of Computer Programming - All volumes",
@@ -1432,6 +1432,36 @@
          "bookName" : "Data Structures using C",
          "authorName" : "Reema Thareja",
          "bookLink"   : "https://aa.bbs.tr/lab/cen215-data-structures/Data-Structures-Using-C-2nd-edition.pdf"
+      },
+      {
+        "id": "232",
+        "bookName": "Scaling Kubernetes: Best Practices",
+        "authorName": "Platform 9",
+        "bookLink": "https://platform9.com/wp-content/uploads/2020/09/Scaling-Kubernetes.pdf"
+      },
+      {
+         "id" : "232",
+         "bookName" : "Hacking: The Art of Exploitation, 2nd Edition",
+         "authorName" : "Jon Erickson",
+         "bookLink"   : "https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf"
+      },
+      {
+        "id" : "232",
+        "bookName" : "Kali Linux Revealed: Mastering the Penetration Testing Distribution",
+        "authorName" : "Jim O'Gorman, Mati Aharoni, and Raphael Hertzog",
+        "bookLink"   : "https://www.pdfdrive.com/download.pdf?id=45609309&h=40cd00c451f9037a32352031cbed84e5&u=cache&ext=pdf"
+      },
+      {
+          "id" : "233",
+          "bookName" : "Learning Algorithms Through Programming and Puzzle Solving",
+          "authorName" : "Alexander S. Kulikov & Pavel Pevzner",
+          "bookLink"   : "https://www.pdfdrive.com/learning-algorithms-through-programming-and-puzzle-solving-e185756516.html"
+      },
+      {
+         "id" : "234",
+         "bookName" : "Black Hat Python",
+         "authorName" : "Justin Seitz",
+         "bookLink"   : "https://www.pdfdrive.com/black-hat-python-e34450458.html"
       }
- 
+
 ]
