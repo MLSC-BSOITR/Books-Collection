@@ -1426,6 +1426,12 @@
          "bookName" : "ComputerScienceI",
          "authorName" : "Dr.ChrisBourke",
          "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
+      },
+       {
+         "id" : "232",
+         "bookName" : "ROBOTICS AND CONTROL",
+         "authorName" : " R Mittle",
+         "bookLink"   : "http://www.freepdfbook.com/robotics-and-control-by-rk-mittal/"
       }
  
 ]
