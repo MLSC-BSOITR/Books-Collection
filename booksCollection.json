@@ -1300,5 +1300,12 @@
          "bookName": "Python for Informatics Exploring Information Version 2.7.3",
          "authorName": "Charles Severance",
          "bookLink": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf"
+      },
+      {
+         "id":"211",
+         "bookName": "Real-World Bug Hunting: A Field Guide to Web Hacking Real-World Bug Hunting: A Field Guide to Web",
+         "authorName": "Peter Yaworski",
+         "bookLink": "https://www.pdfdrive.com/real-world-bug-hunting-a-field-guide-to-web-hacking-real-world-bug-hunting-a-field-guide-to-web-hacking-e200799600.html"
       }
+
 ]
