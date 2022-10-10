@@ -1368,10 +1368,16 @@
          "bookLink": "https://www.theselftaughtprogrammer.io/"
       }
       {
-         "id": "210",
+         "id": "222",
          "bookName": "The Art of Computer Programming - All volumes",
          "authorName": "Donald Knuth",
          "bookLink": "https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books"
-      }
-  
+      },
+      {
+         "id": "223",
+         "bookName": "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness",
+         "authorName": "Eric Jorgenson",
+         "bookLink": "https://navalmanack.s3.amazonaws.com/Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_Final.pdf"
+      },
+ 
 ]
