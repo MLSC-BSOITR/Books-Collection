@@ -1378,7 +1378,7 @@
          "bookName": "The Self-taught Programmer: The Definitive Guide to Programming Professionally",
          "authorName": "Cory Althoff",
          "bookLink": "https://www.theselftaughtprogrammer.io/"
-      }
+      },
       {
          "id": "224",
          "bookName": "The Art of Computer Programming - All volumes",
@@ -1426,6 +1426,12 @@
          "bookName" : "ComputerScienceI",
          "authorName" : "Dr.ChrisBourke",
          "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
+      },
+      {
+        "id": "232",
+        "bookName": "Scaling Kubernetes: Best Practices",
+        "authorName": "Platform 9",
+        "bookLink": "https://platform9.com/wp-content/uploads/2020/09/Scaling-Kubernetes.pdf"
       }
  
 ]
