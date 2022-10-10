@@ -1428,6 +1428,12 @@
          "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
       },
       {
+         "id" : "232",
+         "bookName" : "Data Structures using C",
+         "authorName" : "Reema Thareja",
+         "bookLink"   : "https://aa.bbs.tr/lab/cen215-data-structures/Data-Structures-Using-C-2nd-edition.pdf"
+      },
+      {
         "id": "232",
         "bookName": "Scaling Kubernetes: Best Practices",
         "authorName": "Platform 9",
