@@ -1434,22 +1434,28 @@
          "bookLink"   : "https://www.pdfdrive.com/kali-linux-wireless-penetration-testing-master-wireless-testing-techniques-to-survey-and-attack-wireless-networks-with-kali-linux-e167308541.html"
       },
       {
-         "id": "235",
+         "id": "241",
          "bookName": " Harry Potter and the Chamber of Secrets",
          "authorName": "Jean K. Rowling ",
          "bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638295,00.html "
       }, 
       {
-         "id" : "239",
+         "id" : "242",
          "bookName" : "The Full Stack Developer",
          "authorName" : "Chris Northwood",
          "bookLink"   : "http://www.pdfdrive.com/the-full-stack-developer-your-essential-guide-to-the-everyday-skills-expected-of-a-modern-full-stack-web-developer-e187214497.html"
       },
       {
-         "id" : "235",
+         "id" : "243",
          "bookName" : "The Gifts of Imperfection: Embrace Who You Are",
          "authorName" : "Brene Brown",
          "bookLink"   : "https://www.pdfdrive.com/the-gifts-of-imperfection-embrace-who-you-are-e60365102.html"
-      }
+      },
+      {
+        "id" : "244",
+        "bookName" : "Tango With Django: A beginner’s Guide to Web Development With Python",
+        "authorName" : "Leif Azzopardi & David Maxwell",
+        "bookLink"   : "https://www.pdfdrive.com/tango-with-django-a-beginners-guide-to-web-development-with-python-django-19-e158071432.html"
+     }
 
 ]
