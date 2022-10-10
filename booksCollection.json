@@ -48,18 +48,6 @@
     "bookLink": "https://thegreatestbooks.org/items/225"
   },
   {
-    "id": "9",
-    "bookName": " ABSALOM ",
-    "authorName": " ABSALOM! ",
-    "bookLink": "https://www.avabodh.com/cin/cin.html"
-  },
-  {
-    "id": "10",
-    "bookName": " ABSALOM ",
-    "authorName": " ABSALOM! ",
-    "bookLink": "https://www.avabodh.com/cin/cin.html"
-  },
-  {
     "id": "11",
     "bookName": " Rich Dad Poor Dad ",
     "authorName": " Robert Kiyosaki's ",
@@ -94,55 +82,7 @@
     "bookName": "Data Structures & Algorithms in Java",
     "authorName": "Robert Lafore",
     "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
-  },
-  {
-    "id": "17",
-    "bookName": "DSA ",
-    "authorName": " ",
-    "bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
-  },
-  {
-    "id": "18",
-    "bookName": "UNIX Systems Programming ",
-    "authorName": "David A Curry",
-    "bookLink": " https://drive.google.com/file/d/0B-a74MN7FO28VF90c3BFQVFLWUU/view?resourcekey=0-PqKJsL97ydnh32Zm-S-mug"
-  },
-  {
-    "id": "19",
-    "bookName": "The Big Online Book of Linux Ada Programming",
-    "authorName": "Ken O. Burtch",
-    "bookLink": "http://www.pegasoft.ca/resources/boblap/book.html"
-  },
-  {
-    "id": "20",
-    "bookName": "Object Oriented Programming using 'C++'",
-    "authorName": "Pooja Chawla",
-    "bookLink": "http://www.freebookcentre.net/programming-books-download/Object-Oriented-Programming-using-'C++'.html/"
-  },
-  {
-    "id": "21",
-    "bookName": "Modern cmake",
-    "authorName": "Henry Schreiner",
-    "bookLink": "https://cliutils.gitlab.io/modern-cmake/ "
-  },
-  {
-    "id": "22",
-    "bookName": "Data Structures & Algorithms in Java",
-    "authorName": "Robert Lafore",
-    "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
-  },
-  {
-    "id": "23",
-    "bookName": "DSA ",
-    "authorName": " ",
-    "bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
-  },
-  {
-    "id": "24",
-    "bookName": "Arrays ",
-    "authorName": " ",
-    "bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
-  },
+  }, 
   {
     "id": "25",
     "bookName": "balaguruswamy ",
@@ -202,12 +142,6 @@
     "bookName": "Think and grow rich ",
     "authorName": "Napoleon Hill ",
     "bookLink": "https://www.amazon.in/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331 "
-  },
-  {
-    "id": "35",
-    "bookName": "Arrays ",
-    "authorName": " ",
-    "bookLink": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
   },
   {
     "id": "36",
