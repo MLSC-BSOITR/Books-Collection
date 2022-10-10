@@ -1396,6 +1396,11 @@
          "bookName" : "Black Hat Python",
          "authorName" : "Justin Seitz",
          "bookLink"   : "https://www.pdfdrive.com/black-hat-python-e34450458.html"
-      }
-
+      },
+      {
+        "id" : "235",
+        "bookName" : "Tango With Django: A beginner’s Guide to Web Development With Python",
+        "authorName" : "Leif Azzopardi & David Maxwell",
+        "bookLink"   : "https://www.pdfdrive.com/tango-with-django-a-beginners-guide-to-web-development-with-python-django-19-e158071432.html"
+     }
 ]
