@@ -1426,6 +1426,12 @@
          "bookName" : "ComputerScienceI",
          "authorName" : "Dr.ChrisBourke",
          "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
+      },
+      {
+         "id" : "232",
+         "bookName" : "Hacking: The Art of Exploitation, 2nd Edition",
+         "authorName" : "Jon Erickson",
+         "bookLink"   : "https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf"
       }
  
 ]
