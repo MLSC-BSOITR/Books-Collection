@@ -1402,6 +1402,17 @@
          "bookName": "Think Bayes 2e",
          "authorName": "Allen B. Downey",
          "bookLink": "http://greenteapress.com/wp/think-bayes/"
+      },
+      {
+
+         "id" : "228",
+
+         "bookName" : "Linux Bible",
+
+         "authorName" : "Christopher Negus",
+
+         "bookLink"   : "https://www.pdfdrive.com/linux-bible-e27116560.html"
+
       }
  
 ]
