@@ -1294,5 +1294,12 @@
          "bookName": "How to think like a computer scientist, learning with python",
          "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
          "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
+      },
+      {
+         "id": "210",
+         "bookName": "Real-World Bug Hunting: A Field Guide to Web Hacking Real-World Bug Hunting: A Field Guide to Web",
+         "authorName": "Peter Yaworski",
+         "bookLink": "https://www.pdfdrive.com/real-world-bug-hunting-a-field-guide-to-web-hacking-real-world-bug-hunting-a-field-guide-to-web-hacking-e200799600.html"
       }
+
 ]
