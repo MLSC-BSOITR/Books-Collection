@@ -1047,7 +1047,7 @@
     "id" : "175",
     "bookName" : "Introduction to Algorithms",
     "authorName" : "Thomas H. Cormen",
-    "bookName" : "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
+    "bookLink" : "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
   },
   {
      "id" : "176",
@@ -1087,6 +1087,12 @@
   },
   {
     "id" : "182",
+    "bookName" : "Guide to Computer Forensics and Investigations 6th Edition",
+    "authorName" : "Bill Nelson Amelia Phillips Chris Steuart",
+    "bookLink"   : "https://www.pdfdrive.com/guide-to-computer-forensics-and-investigations-6th-edition-e187518801.html"
+  },
+  {
+    "id" : "183",
     "bookName" : "Clojure - Functional Programming for the JVM",
     "authorName" : "R. Mark Volkmann",
     "bookLink"   : "https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm"
@@ -1133,61 +1139,179 @@
      "authorName" : "Anthony Accomazzo, Nate Murray, Ari Lerner",
      "bookLink"   : "https://dokumen.pub/download/fullstack-react-the-complete-guide-to-reactjs-and-friends.html"
   },
-    {
-      "id" : "185",
-      "bookName" : "Java: The Legend",
-      "authorName" : "Benjamin Evans",
-      "bookLink"   : "http://www.oreilly.com/programming/free/java-the-legend.csp"
-     },
-     {
-       "id" : "186",
-       "bookName" : "Docker for Java Developers",
-       "authorName" : "Arun Gupta",
-       "bookLink"   : "http://www.oreilly.com/programming/free/docker-for-java-developers.csp"
-      },
-      {
-       "id" : "187",
-       "bookName" : "RESTful Web Services",
-       "authorName" : "Leonard Richardson and Sam Ruby",
-       "bookLink"   : "http://restfulwebapis.org/rws.html"
-      },
-      {
-        "id" : "188",
-        "bookName" : "Learning Java",
-        "authorName" : "Patrick Niemeyer and Daniel Leuck",
-        "bookLink"   : "http://chimera.labs.oreilly.com/books/1234000001805"
-      },
-      {
-        "id" : "189",
-        "bookName" : "Python for Everbody: Exploring Data in Python3",
-        "authorName" : "Dr. Charles R. Severance",
-        "bookLink"   : "https://books.trinket.io/pfe/index.html"
-      },
-     {
-        "id": "190",
-        "bookName": "Data Communications and Networking",
-        "authorName": "McGraw Hill Education | Behrouz A. Forouzan",
-        "bookLink": "http://eti2506.elimu.net/Introduction/Books/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf"
-     },
-     {
-        "id" : "191",
-        "bookName" : "Linear and Nonlinear Programming",
-        "authorName" : "David G. Luenberger, Yinyu Ye",
-        "bookLink"   : "http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3"
-      },
   {
-    "id" : "192",
-    "bookName" : "Let Us C",
-    "authorName" : "Yashavant Kanetkar",
-    "bookLink"   : "https://www.pdfdrive.com/let-us-c-yashwant-kanetkar-15th-edition-e200738567.html"
+     "id" : "185",
+     "bookName" : "Java: The Legend",
+     "authorName" : "Benjamin Evans",
+     "bookLink"   : "http://www.oreilly.com/programming/free/java-the-legend.csp"
+  },
+  {
+     "id" : "186",
+     "bookName" : "Docker for Java Developers",
+     "authorName" : "Arun Gupta",
+     "bookLink"   : "http://www.oreilly.com/programming/free/docker-for-java-developers.csp"
+  },
+  {
+     "id" : "187",
+     "bookName" : "RESTful Web Services",
+     "authorName" : "Leonard Richardson and Sam Ruby",
+     "bookLink"   : "http://restfulwebapis.org/rws.html"
+  },
+  {
+     "id" : "188",
+     "bookName" : "Learning Java",
+     "authorName" : "Patrick Niemeyer and Daniel Leuck",
+     "bookLink"   : "http://chimera.labs.oreilly.com/books/1234000001805"
+  },
+  {
+     "id" : "189",
+     "bookName" : "Python for Everbody: Exploring Data in Python3",
+     "authorName" : "Dr. Charles R. Severance",
+     "bookLink"   : "https://books.trinket.io/pfe/index.html"
+  },
+  {
+     "id": "190",
+     "bookName": "Data Communications and Networking",
+     "authorName": "McGraw Hill Education | Behrouz A. Forouzan",
+     "bookLink": "http://eti2506.elimu.net/Introduction/Books/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf"
+  },
+  {
+      "id" : "191",
+      "bookName" : "Linear and Nonlinear Programming",
+      "authorName" : "David G. Luenberger, Yinyu Ye",
+      "bookLink"   : "http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3"
+  },
+  {
+      "id" : "192",
+      "bookName" : "Learning Perl 6: Keeping the Easy, Hard, and Impossible Within Reach",
+      "authorName" : "brian d foy",
+      "bookLink"   : "https://www.amazon.in/Learning-Perl-6-Brian-Foy/dp/149197768X"
+  },
+  {
+      "id" : "192",
+      "bookName" : "Let Us C",
+      "authorName" : "Yashavant Kanetkar",
+      "bookLink"   : "https://www.pdfdrive.com/let-us-c-yashwant-kanetkar-15th-edition-e200738567.html"
+  },
+  {
+      "id" : "193",
+      "bookName" : "Elegant SciPy",
+      "authorName" : "Juan Nunez-Iglesias, Stéfan van der Walt, Harriet Dashnow",
+      "bookLink"   : "https://www.oreilly.com/library/view/elegant-scipy/9781491922927/"
+  },
+  {
+      "id" : "194",
+      "bookName" : "Java in a Nutshell",
+      "authorName" : "Ben Evans, David Flanagan",
+      "bookLink"   : "https://www.oreilly.com/library/view/java-in-a/9781492037248/"
+   },
+   {
+       "id" : "195",
+       "bookName" : "Java to Kotlin",
+       "authorName" : "Duncan McGregor, Nat Pryce",
+       "bookLink"   : "https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/"
+   },
+   {
+       "id" : "196",
+       "bookName" : "Java to Kotlin",
+       "authorName" : "Duncan McGregor, Nat Pryce",
+       "bookLink"   : "https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/"
+   },
+   {
+       "id" : "197",
+       "bookName" : "Core Java: An Integrated Approach",
+       "authorName" : "Dr. R. Nageswara Rao",
+       "bookLink"   : "https://www.amazon.in/Core-Java-Integrated-Approach-Versions/dp/9351199258/ref=sr_1_2_sspa?"
     },
+    {
+        "id" : "198",
+        "bookName" : "Paul J. Deitel,Dr. Harvey M. Deitel",
+        "authorName" : "Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud",
+        "bookLink"   : "https://www.amazon.in/Introduction-Python-Computer-Data-Sciences/dp/0135404673"
+    },
+    {
+         "id" : "199",
+         "bookName" : "Augmented Reality: Principles & Practice",
+         "authorName" : "Schmalstieg and Hollerer",
+         "bookLink"   : "https://www.amazon.in/Augmented-Reality-Principles-Schmalstieg-Hollerer/dp/9332578494/ref=asc_df_9332578494/?tag=googleshopdes-21&linkCode=df0&hvadid=397006573861&hvpos=&hvnetw=g&hvrand=943179399142643441&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20455&hvtargid=pla-418375059497&psc=1&ext_vrnc=hi"
+     },
      {
-        "id" : "197",
-        "bookName" : "Learn to Program with C: Learn to Program using the Popular C Programming LanguageLearn to Program with C: Learn to Program using the Popular C Programming Language",
+         "id": "200",
+         "bookName": "An Introduction to Machine Learning - Machine Learning Summer",
+         "authorName": "Alexander J. Smola",
+         "bookLink": "https://www.pdfdrive.com/an-introduction-to-machine-learning-machine-learning-summer-e10685818.html"
+      },
+      {
+         "id": "201",
+         "bookName": "Python for Everybody",
+         "authorName": "Dr. Charles Russell Severance",
+         "bookLink": "https://www.py4e.com/book"
+      },
+      {
+         "id": "202",
+         "bookName": "Bill Gates Quotes",
+         "authorName": "Book by Bill Gates",
+         "bookLink": "https://www.goodreads.com/book/show/38533134-bill-gates-quotes"
+      },
+      {
+          "id" : "203",
+          "bookName" : "Data Structures and Algorithms Made Easy: Data Structure and Algorithmic Puzzles",
+          "authorName" : "Narasimha Karumanchi",
+          "bookLink"   : "https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structure-and-algorithmic-puzzles-e199783410.html"
+      },  
+      {
+        "id": "204",
+        "bookName": "Fundamentals of Python: From First Programs through Data Structures",
+        "authorName": "Kenneth A. Lambert",
+        "bookLink": "http://62.182.86.140/main/754000/81c29020262fada67b605c8a70c14fab/Kenneth%20A.%20Lambert%20-%20Fundamentals%20of%20Python_%20From%20First%20Programs%20through%20Data%20Structures%20%20-Course%20Technology%20%282009%29.pdf"
+     },
+     {
+        "id" : "205",
+        "bookName": "Kali Linux Revealed: Mastering the Penetration Testing Distribution",
+        "authorName": "Book by Raphael Hertzog",
+        "bookLink": "https://www.amazon.com/gp/product/0997615605/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=linuxhint-20&creative=9325&linkCode=as2&creativeASIN=0997615605&linkId=e50996005435b72cb7a1cc781a0ae163"
+     },
+     {
+         "id": "206",
+         "bookName": "The C Programming Language",
+         "authorName": "Brian W. Kernighan and Dennis M. Ritchie",
+         "bookLink": "https://kremlin.cc/k&r.pdf"
+      },
+     {
+        "id" : "207",
+        "bookName" : "Learn to Program with C: Learn to Program using the Popular C Programming Language",
         "authorName" : "Noel Kalicharan",
         "bookLink"   : "https://www.pdfdrive.com/learn-to-program-with-c-learn-to-program-using-the-popular-c-programming-language-d166650744.html"
       },
-      
-
+      {
+         "id" : "208",
+         "bookName": "The Candy House",
+         "authorName": "Jennifer Egan",
+         "bookLink": "https://amazon.in/dp/B098J281J5?ref=KC_GS_GB_IN"
+      },
+      {
+         "id": "209",
+         "bookName": "CRACKING THE CODING INTERVIEW",
+         "authorName": "Book by Gayle Laakmann McDowell",
+         "bookLink": "https://www.pdfdrive.com/cracking-the-coding-interview-e52072841.html"
+     },    
+     {
+         "id": "210",
+         "bookName": "How to think like a computer scientist, learning with python",
+         "authorName": "Allen Downey, Jeff Elkner, and Chris Meyers",
+         "bookLink": "https://greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf"
+      },
+      {
+         "id": "211",
+         "bookName": "Python for Informatics Exploring Information Version 2.7.3",
+         "authorName": "Charles Severance",
+         "bookLink": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf"
+      },
+      {
+         "id":"212",
+         "bookName": "Real-World Bug Hunting: A Field Guide to Web Hacking Real-World Bug Hunting: A Field Guide to Web",
+         "authorName": "Peter Yaworski",
+         "bookLink": "https://www.pdfdrive.com/real-world-bug-hunting-a-field-guide-to-web-hacking-real-world-bug-hunting-a-field-guide-to-web-hacking-e200799600.html"
+      }
 
 ]
