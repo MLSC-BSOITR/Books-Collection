@@ -1403,5 +1403,11 @@
          "authorName": "Allen B. Downey",
          "bookLink": "http://greenteapress.com/wp/think-bayes/"
       }
+      {
+         "id" : "228",
+         "bookName" : "ComputerScienceI",
+         "authorName" : "Dr.ChrisBourke",
+         "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
+      },
  
 ]
