@@ -1427,5 +1427,11 @@
          "authorName" : "Dr.ChrisBourke",
          "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
       }
+      {
+        "id": "22",
+        "bookName": "Data Structures & Algorithms in Java",
+        "authorName": "Robert Lafore",
+        "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
+      },
  
 ]
