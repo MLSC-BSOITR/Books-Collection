@@ -1426,6 +1426,17 @@
          "bookName" : "ComputerScienceI",
          "authorName" : "Dr.ChrisBourke",
          "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
+      },
+      {
+
+         "id" : "232",
+
+         "bookName" : "Kali Linux Revealed: Mastering the Penetration Testing Distribution",
+
+         "authorName" : "Jim O'Gorman, Mati Aharoni, and Raphael Hertzog",
+
+         "bookLink"   : "https://www.pdfdrive.com/download.pdf?id=45609309&h=40cd00c451f9037a32352031cbed84e5&u=cache&ext=pdf"
+
       }
  
 ]
