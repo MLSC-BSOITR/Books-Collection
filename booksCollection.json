@@ -1433,4 +1433,10 @@
           "authorName" : "Alexander S. Kulikov & Pavel Pevzner",
           "bookLink"   : "https://www.pdfdrive.com/learning-algorithms-through-programming-and-puzzle-solving-e185756516.html"
       }
+      {
+          "id" : "233",
+          "bookName" : "Sex and the City",
+          "authorName" : "Candace Bushnell",
+          "bookLink"   : "https://sexandthecity.fandom.com/wiki/Sex_and_the_City_(novel)"
+      },
 ]
