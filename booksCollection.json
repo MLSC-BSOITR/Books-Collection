@@ -1403,16 +1403,29 @@
          "authorName": "Allen B. Downey",
          "bookLink": "http://greenteapress.com/wp/think-bayes/"
       },
-      {
-
+      { 
          "id" : "228",
-
          "bookName" : "Linux Bible",
-
          "authorName" : "Christopher Negus",
-
          "bookLink"   : "https://www.pdfdrive.com/linux-bible-e27116560.html"
-
+      },
+      {
+         "id": "229",
+         "bookName": "The Rust Programming Language",
+         "authorName": " Steve Klabnik, Carol Nichols",
+         "bookLink": "https://doc.rust-lang.org/book/"
+      },
+      {
+         "id": "230",
+         "bookName": "Refactoring: Improving the Design of Existing Code",
+         "authorName": "Kent Beck and Martin Fowler",
+         "bookLink": "http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf"
+      },
+      {
+         "id" : "231",
+         "bookName" : "ComputerScienceI",
+         "authorName" : "Dr.ChrisBourke",
+         "bookLink"   : "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf"
       }
  
 ]
