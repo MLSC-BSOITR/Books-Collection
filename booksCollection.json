@@ -1362,45 +1362,100 @@
          "bookLink"   : "http://www.freepdfbook.com/robotics-and-control-by-rk-mittal/"
        },
       {
-         "id" : "232",
+         "id" : "233",
          "bookName" : "Data Structures using C",
          "authorName" : "Reema Thareja",
          "bookLink"   : "https://aa.bbs.tr/lab/cen215-data-structures/Data-Structures-Using-C-2nd-edition.pdf"
       },
       {
-        "id": "232",
+        "id": "234",
         "bookName": "Scaling Kubernetes: Best Practices",
         "authorName": "Platform 9",
         "bookLink": "https://platform9.com/wp-content/uploads/2020/09/Scaling-Kubernetes.pdf"
       },
       {
-         "id" : "232",
+         "id" : "235",
          "bookName" : "Hacking: The Art of Exploitation, 2nd Edition",
          "authorName" : "Jon Erickson",
          "bookLink"   : "https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf"
       },
       {
-        "id" : "232",
+        "id" : "236",
         "bookName" : "Kali Linux Revealed: Mastering the Penetration Testing Distribution",
         "authorName" : "Jim O'Gorman, Mati Aharoni, and Raphael Hertzog",
         "bookLink"   : "https://www.pdfdrive.com/download.pdf?id=45609309&h=40cd00c451f9037a32352031cbed84e5&u=cache&ext=pdf"
       },
       {
-          "id" : "233",
+          "id" : "237",
           "bookName" : "Learning Algorithms Through Programming and Puzzle Solving",
           "authorName" : "Alexander S. Kulikov & Pavel Pevzner",
           "bookLink"   : "https://www.pdfdrive.com/learning-algorithms-through-programming-and-puzzle-solving-e185756516.html"
       },
       {
-         "id" : "234",
+         "id" : "238",
          "bookName" : "Black Hat Python",
          "authorName" : "Justin Seitz",
          "bookLink"   : "https://www.pdfdrive.com/black-hat-python-e34450458.html"
       },
       {
         "id" : "235",
+        "bookName" : "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "authorName" : "Erich Gamma, John Vlissides, Ralph Johnson, Richard Helmr",
+        "bookLink"   : "https://www.pdfdrive.com/design-patterns-elements-of-reusable-object-oriented-software-e161314266.html"
+      },
+      {
+         "id" : "236",
+         "bookName" : "JavaScript: JavaScript For Beginners",
+         "authorName" : "Stephen Blumenthal",
+         "bookLink"   : "https://www.pdfdrive.com/javascript-javascript-for-beginners-learn-javascript-programming-with-ease-in-half-the-time-everything-about-the-language-coding-programming-and-web-pages-you-need-to-know-e158299863.html"
+      },
+      {
+        "id" : "237",
+        "bookName" : "Learning React: A Hands-On Guide to Building Web Applications Using React and Redux",
+        "authorName" : "Kirupa Chinnathambi",
+        "bookLink"   : "https://www.pdfdrive.com/learning-react-a-hands-on-guide-to-building-web-applications-using-react-and-redux-e185752183.html"
+      },
+      {
+         "id" : "238",
+         "bookName" : "C Programming :: The Ultimate Way to Learn The Fundamentals of The C Language.",
+         "authorName" : "Harry. H. Chaudhary.",
+         "bookLink"   : "https://www.pdfdrive.com/c-programming-the-ultimate-way-to-learn-the-fundamentals-of-the-c-language-e187584209.html"
+      },
+      {
+        "id" : "239",
+        "bookName" : "Natural Language Processing Recipes: Unlocking Text Data with Machine Learning and Deep Learning using Python",
+        "authorName" : "Akshay Kulkarni & Adarsha Shivananda",
+        "bookLink"   : "https://www.pdfdrive.com/natural-language-processing-recipes-unlocking-text-data-with-machine-learning-and-deep-learning-using-python-e158551198.html"
+      },
+      {
+         "id" : "240",
+         "bookName" : "Kali Linux Wireless Penetration Testing: Master wireless testing techniques to survey and attack wireless networks with Kali Linux",
+         "authorName" : "Vivek Ramachandran & Cameron Buchanan",
+         "bookLink"   : "https://www.pdfdrive.com/kali-linux-wireless-penetration-testing-master-wireless-testing-techniques-to-survey-and-attack-wireless-networks-with-kali-linux-e167308541.html"
+      },
+      {
+         "id": "241",
+         "bookName": " Harry Potter and the Chamber of Secrets",
+         "authorName": "Jean K. Rowling ",
+         "bookLink": "http://content.time.com/time/specials/packages/article/0,28804,1637886_1638263_1638295,00.html "
+      }, 
+      {
+         "id" : "242",
+         "bookName" : "The Full Stack Developer",
+         "authorName" : "Chris Northwood",
+         "bookLink"   : "http://www.pdfdrive.com/the-full-stack-developer-your-essential-guide-to-the-everyday-skills-expected-of-a-modern-full-stack-web-developer-e187214497.html"
+      },
+      {
+         "id" : "243",
+         "bookName" : "The Gifts of Imperfection: Embrace Who You Are",
+         "authorName" : "Brene Brown",
+         "bookLink"   : "https://www.pdfdrive.com/the-gifts-of-imperfection-embrace-who-you-are-e60365102.html"
+      },
+      {
+        "id" : "244",
         "bookName" : "Tango With Django: A beginner’s Guide to Web Development With Python",
         "authorName" : "Leif Azzopardi & David Maxwell",
         "bookLink"   : "https://www.pdfdrive.com/tango-with-django-a-beginners-guide-to-web-development-with-python-django-19-e158071432.html"
      }
+
 ]
