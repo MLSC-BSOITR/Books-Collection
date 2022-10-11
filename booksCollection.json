@@ -1072,5 +1072,11 @@
     "bookName" : "Think Data Structures: Algorithms and Information Retrieval in Java",
     "authorName" : "Allen B. Downey",
     "bookLink"   : "https://www.pdfdrive.com/think-data-structures-algorithms-and-information-retrieval-in-java-e176203581.html"
+   },
+{
+    "id" : "179",
+    "bookName" : "Data Structures and Algorithms (DSA)",
+    "authorName" : "Nada M. Al Hakkak",
+    "bookLink"   : "https://www.researchgate.net/publication/334784415_Data_Structures_and_Algorithms_DSA"
    }
 ]
