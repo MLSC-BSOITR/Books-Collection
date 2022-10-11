@@ -1480,6 +1480,12 @@
         "bookName" : "I am Malala: The Story of the Girl Who Stood Up for Education",
         "authorName" : "Malala Yousafzai",
         "bookLink"   : "https://www.pdfdrive.com/i-am-malala-the-story-of-the-girl-who-stood-up-for-education-e14796117.html"
+     },
+     {
+        "id": "247",
+        "bookName": "The Cargo Book",
+        "authorName": "Alex Crichton, Steve Klabnik and Carol Nichols, with Contributions from the Rust Community",
+        "bookLink": "https://doc.rust-lang.org/cargo/"
      }
 
 
