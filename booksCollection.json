@@ -1492,6 +1492,12 @@
         "bookName": "The Cargo Book",
         "authorName": "Alex Crichton, Steve Klabnik and Carol Nichols, with Contributions from the Rust Community",
         "bookLink": "https://doc.rust-lang.org/cargo/"
+     },
+     {
+        "id": "248",
+        "bookName": "Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles",
+        "authorName": "by Narasimha Karumanchi",
+        "bookLink": "https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html"
      }
 
 
