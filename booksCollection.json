@@ -1493,6 +1493,12 @@
         "authorName": "Alex Crichton, Steve Klabnik and Carol Nichols, with Contributions from the Rust Community",
         "bookLink": "https://doc.rust-lang.org/cargo/"
      }
+     {
+       "id": "248",
+       "bookName": "Industrial and Technology Management",
+       "authorName": "Kundan. k. Gutam",
+       "bookLink": "https://everythingmanagement.com/books/schoolboek-industrial_and_technology_Management.pdf"
+     },
 
 
 
