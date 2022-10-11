@@ -1493,7 +1493,12 @@
         "authorName": "Alex Crichton, Steve Klabnik and Carol Nichols, with Contributions from the Rust Community",
         "bookLink": "https://doc.rust-lang.org/cargo/"
      }
-
+     {
+      "id": "248",
+      "bookName": "Dune",
+      "authorName": "Frank Herbert",
+      "bookLink": "https://anybookpdf.com/dune-pdf-download/"
+   }
 
 
 
