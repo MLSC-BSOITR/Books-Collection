@@ -84,6 +84,12 @@
     "bookLink": "https://www.pdfdrive.com/c-by-balaguruswamy-books.html"
   },
   {
+    "id": "1011",
+    "bookName": "Introduction to Programming in Java: An Interdisciplinary Approach",
+    "authorName": "Kevin Wayne, Robert Sedgewick",
+    "bookLink": "https://introcs.cs.princeton.edu/java/home/"
+  },
+  {
     "id": "26",
     "bookName": "Dorothy Hood",
     "authorName": "Colin Scales",
