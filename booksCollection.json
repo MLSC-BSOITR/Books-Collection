@@ -1296,6 +1296,12 @@
          "bookLink": "http://do1.dr-chuck.net/py4inf/EN-us/book.pdf"
       },
       {
+        "id" : "221",
+        "bookName" : "सम्पूर्ण चाणक्य नीति | Chanakya Niti Book. सम्पूर्ण चाणक्य नीति | Chanakya Niti Book PDF Hindi",
+        "authorName" : "B.K. Chaturvedi",
+        "bookLink"   : "https://instapdf.in/chanakya-niti/"
+      },
+      {
          "id":"222",
          "bookName": "Real-World Bug Hunting: A Field Guide to Web Hacking Real-World Bug Hunting: A Field Guide to Web",
          "authorName": "Peter Yaworski",
