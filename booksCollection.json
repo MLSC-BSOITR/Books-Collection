@@ -1498,7 +1498,7 @@
         "bookName": "The Pragmatic Programmer",
         "authorName": "Andy Hunt and Dave Thomas",
         "bookLink": "https://www.pdfdrive.com/the-pragmatic-programmer-from-journeyman-to-master-d157846585.html"
-     }
+     },
      {
        "id": "249",
        "bookName": "Industrial and Technology Management",
@@ -1513,9 +1513,15 @@
     },
     {
       "id": "251",
-      "bookName": "AN introduction to formal language and automata",
+      "bookName": "An introduction to formal language and automata",
       "authorName": "Peter Lynz ",
       "bookLink": "https://fall14cs.files.wordpress.com/2017/04/an-introduction-to-formal-languages-and-automata-5th-edition-2011.pdf "
+    },
+    {
+      "id": "252",
+      "bookName": "The Art of Computer Programming",
+      "authorName": "Donald E. Knuth",
+      "bookLink": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
     }
 
 

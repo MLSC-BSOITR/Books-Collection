@@ -7,7 +7,9 @@ fetch("booksCollection.json")
         out+="<tr>";
         out+="<td>"+book.bookName+"</td>";
         out+="<td>"+book.authorName+"</td>";
-        out+="<td>"+"<a href='>"+book.bookLink+"'>"+book.bookLink+"</a>"+"</td>";
+        out+="<td>"+"<a href='"+book.bookLink+"'>"+book.bookLink+"</a>"+"</td>";
     })
     placeholder.innerHTML=out;
+}).catch((err) => {
+    console.log(err);
 })
