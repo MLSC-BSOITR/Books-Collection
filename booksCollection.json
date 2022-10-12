@@ -1516,7 +1516,13 @@
       "bookName": "AN introduction to formal language and automata",
       "authorName": "Peter Lynz ",
       "bookLink": "https://fall14cs.files.wordpress.com/2017/04/an-introduction-to-formal-languages-and-automata-5th-edition-2011.pdf "
-    }
+    },
+    {
+      "id": "252",
+      "bookName": "Data Structure and Algorithmic Thinking with Python Data Structure and Algorithmic Puzzles",
+      "authorName": "Narasimha Karumanchi",
+      "bookLink": "https://www.pdfdrive.com/data-structure-and-algorithmic-thinking-with-python-data-structure-and-algorithmic-puzzles-d158071362.html"
+      }
 
 
 
