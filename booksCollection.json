@@ -1494,11 +1494,17 @@
         "bookLink": "https://doc.rust-lang.org/cargo/"
      },
      {
+        "id": "248"
+        "bookName": "Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project",
+        "authorName": "Jamie Chan ",
+        "bookLink": "https://www.pdfdrive.com/learn-python-in-one-day-and-learn-it-well-python-for-beginners-with-hands-on-project-the-only-book-you-need-to-start-coding-in-python-immediately-e183833259.html"
+     },
+     {
         "id": "248",
         "bookName": "The Pragmatic Programmer",
         "authorName": "Andy Hunt and Dave Thomas",
         "bookLink": "https://www.pdfdrive.com/the-pragmatic-programmer-from-journeyman-to-master-d157846585.html"
-     }
+     },
      {
        "id": "249",
        "bookName": "Industrial and Technology Management",
@@ -1522,19 +1528,13 @@
       "bookName": "Technology in Schools",
       "authorName": "Dr. Gary L. Ackerman",
       "bookLink": "https://hackscience.education/wp-content/uploads/2022/05/Technology-in-Schools-1.pdf"
-    }
-
+    },
     {
-      "id": "252",
+      "id": "253",
       "bookName": "Automation and Robotics",
       "authorName": "Miltiadis A. Boboulos",
       "bookLink": "http://engineering108.com/pages/Robotics/automation-and-robotics.html "
     }
-
-
-
-
-
 
 
 ]
