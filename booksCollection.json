@@ -1494,6 +1494,12 @@
         "bookLink": "https://doc.rust-lang.org/cargo/"
      },
      {
+      "id": "248",
+      "bookName": "Building Microservices",
+      "authorName": "Sam Newman is one of the early pioneers of Microservice Architecture and Microservices Guru",
+      "bookLink": "https://samnewman.io/books/building_microservices/"
+   },
+   {
       "id": "249",
       "bookName": "AN introduction to formal language and automata",
       "authorName": "Peter Lynz ",
@@ -1505,6 +1511,7 @@
     "authorName": "James clear",
     "bookLink": "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
     }
+
 
 
 
