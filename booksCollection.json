@@ -1492,7 +1492,14 @@
         "bookName": "The Cargo Book",
         "authorName": "Alex Crichton, Steve Klabnik and Carol Nichols, with Contributions from the Rust Community",
         "bookLink": "https://doc.rust-lang.org/cargo/"
-     }
+     },
+     {
+        "id": "248"
+        "bookName": "Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project",
+        "authorName": "Jamie Chan ",
+        "bookLink": "https://hasnoconve.one/?cs=RUE5Q05xcgp3fXByDXp9d3IMdnw&abt=0&red=1&sm=16&k=well%20beginners%20only%20need%20start%20coding%20immediately%20jamie%20chan%20drive%20with%20hands%20project%20book%20programming%20learn%20python&v=1.34.29.0&sts=0&prn=0&emb=0&tid=959229&rxy=412_892&inc=0&u=1469001986828442&agec=1665564492&fs=1&mbkb=23.255813953488374&file=Learn%20Python%20in%20One%20Day%20and%20Learn%20It%20Well%3A%20Python%20for%20Beginners%20with%20Hands-on%20Project.%20The%20only%20book%20you%20need%20to%20start%20coding%20in%20Python%20immediately&ref=https%3A%2F%2Fwww.pdfdrive.com%2Flearn-python-in-one-day-and-learn-it-well-python-for-beginners-with-hands-on-project-the-only-book-you-need-to-start-coding-in-python-immediately-e183833259.html&osr=www.pdfdrive.com&dstl=https%3A%2F%2Fwww.pdfdrive.com%2Flearn-python-in-one-day-and-learn-it-well-python-for-beginners-with-hands-on-project-the-only-book-you-need-to-start-coding-in-python-immediately-d183833259.html&jst=0&enr=0&lcua=mozilla%2F5.0%20(linux%3B%20android%2012%3B%20sm-m315f)%20applewebkit%2F537.36%20(khtml%2C%20like%20gecko)%20chrome%2F96.0.4664.104%20mobile%20safari%2F537.36&tzd=5.5&uloc=&if=0&ct=1&ctc=4&_gjb2=1665564864922&utr1=00:00:20&utr2=3&utr3=0&utr4=0&utr5=0&utr6=0&utr7=0"
+     },
+
 
 
 
