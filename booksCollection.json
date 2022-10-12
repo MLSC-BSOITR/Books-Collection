@@ -1474,7 +1474,7 @@
         "bookName" : "Python Programming : An Introduction to Computer Science",
         "authorName" : "Book by John M. Zelle",
         "bookLink"   : "https://asset-pdf.scinapse.io/prod/1575508663/1575508663.pdf"
-     }
+     },
      {
          "id" : "245",
          "bookName" : "Competitive Programming 3",
@@ -1499,6 +1499,25 @@
         "authorName": "Andy Hunt and Dave Thomas",
         "bookLink": "https://www.pdfdrive.com/the-pragmatic-programmer-from-journeyman-to-master-d157846585.html"
      }
+     {
+       "id": "249",
+       "bookName": "Industrial and Technology Management",
+       "authorName": "Kundan. k. Gutam",
+       "bookLink": "https://everythingmanagement.com/books/schoolboek-industrial_and_technology_Management.pdf"
+     },
+     {
+      "id": "250",
+      "bookName": "Building Microservices",
+      "authorName": "Sam Newman is one of the early pioneers of Microservice Architecture and Microservices Guru",
+      "bookLink": "https://samnewman.io/books/building_microservices/"
+    },
+    {
+      "id": "251",
+      "bookName": "AN introduction to formal language and automata",
+      "authorName": "Peter Lynz ",
+      "bookLink": "https://fall14cs.files.wordpress.com/2017/04/an-introduction-to-formal-languages-and-automata-5th-edition-2011.pdf "
+    }
+
 
 
 
