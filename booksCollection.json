@@ -1494,12 +1494,18 @@
         "bookLink": "https://doc.rust-lang.org/cargo/"
      },
      {
+       "id": "248",
+       "bookName": "Industrial and Technology Management",
+       "authorName": "Kundan. k. Gutam",
+       "bookLink": "https://everythingmanagement.com/books/schoolboek-industrial_and_technology_Management.pdf"
+     },
+     {
       "id": "248",
       "bookName": "Building Microservices",
       "authorName": "Sam Newman is one of the early pioneers of Microservice Architecture and Microservices Guru",
       "bookLink": "https://samnewman.io/books/building_microservices/"
-   },
-   {
+    },
+    {
       "id": "249",
       "bookName": "AN introduction to formal language and automata",
       "authorName": "Peter Lynz ",
