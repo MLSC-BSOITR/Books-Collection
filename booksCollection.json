@@ -1474,7 +1474,7 @@
         "bookName" : "Python Programming : An Introduction to Computer Science",
         "authorName" : "Book by John M. Zelle",
         "bookLink"   : "https://asset-pdf.scinapse.io/prod/1575508663/1575508663.pdf"
-     }
+     },
      {
          "id" : "245",
          "bookName" : "Competitive Programming 3",
@@ -1493,12 +1493,19 @@
         "authorName": "Alex Crichton, Steve Klabnik and Carol Nichols, with Contributions from the Rust Community",
         "bookLink": "https://doc.rust-lang.org/cargo/"
      },
+     {
+      "id": "249",
+      "bookName": "AN introduction to formal language and automata",
+      "authorName": "Peter Lynz ",
+      "bookLink": "https://fall14cs.files.wordpress.com/2017/04/an-introduction-to-formal-languages-and-automata-5th-edition-2011.pdf "
+    },
     {
     "id": "248",
     "bookName": "Atomic Habit",
     "authorName": "James clear",
     "bookLink": "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
     }
+
 
 
 ]
