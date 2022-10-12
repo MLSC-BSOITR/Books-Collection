@@ -1492,8 +1492,13 @@
         "bookName": "The Cargo Book",
         "authorName": "Alex Crichton, Steve Klabnik and Carol Nichols, with Contributions from the Rust Community",
         "bookLink": "https://doc.rust-lang.org/cargo/"
-     }
-
+     },
+     {
+        "id": "249",
+        "bookName": "The Quantum Chain",
+        "authorName": "Nick Jones",
+        "bookLink": "https://drive.google.com/file/d/1UNGpoBOw_Zhk83QxILi1wOAfIla-f_de/view?usp=sharing"
+     },
 
 
 
