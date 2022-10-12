@@ -1494,7 +1494,12 @@
         "bookLink": "https://doc.rust-lang.org/cargo/"
      }
 
-
+     {
+       "id": "248",
+       "bookName": "The India Story",
+       "authorName": "Bimal Jalal",
+       "bookLink": "https://www.careerpower.in/books-and-authors.html"
+    },
 
 
 ]
