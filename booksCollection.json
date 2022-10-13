@@ -1553,7 +1553,11 @@
       "authorName": "M. Morris Mano",
       "bookLink": "https://www.pdfdrive.com/digital-logic-and-computer-design-by-m-morris-mano-e34332016.html"
     }
-
-
+    {
+    "id" : "28",
+    "bookName" : "Modern Digital And Analog Communication Systems",
+    "authorName" : "B.P. Lathi",
+    "bookLink"   : "file:///C:/Users/hp/Downloads/Book_Modern_Digital_And_Analog_Communica(1).pdf"
+    },
 
 ]
