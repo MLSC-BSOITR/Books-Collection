@@ -1552,8 +1552,27 @@
       "bookName": "Digital Logic And Computer Design",
       "authorName": "M. Morris Mano",
       "bookLink": "https://www.pdfdrive.com/digital-logic-and-computer-design-by-m-morris-mano-e34332016.html"
-    }
+    },
+    {
 
+      "id" : "256",
+      
+      "bookName" : "Automate the boring stuff with python",
+      
+      "authorName" : "Al Sweigart",
+      
+      "bookLink"   : "https://www.academia.edu/31998064/Automate_the_Boring_Stuff_with_Python_Practical_Programming_for_Total_Beginners_2015_pdf"
+    },
+    {
+
+      "id" : "257",
+      
+      "bookName" : "Girl stop apologizing",
+      
+      "authorName" : "Rachel Hollis",
+      
+      "bookLink"   : "https://allbookshub.com/girl-stop-apologizing-pdf-ebook/"
+      }
 
 
 ]
