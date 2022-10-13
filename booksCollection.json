@@ -1542,7 +1542,13 @@
       "bookLink": "http://engineering108.com/pages/Robotics/automation-and-robotics.html "
     }
     {
-      "id": "254",
+    "id": "254",
+    "bookName": "Percy Jackson: The Lightning Thief",
+    "authorName": "Rick Riordan",
+    "bookLink": "https://www.google.com/aclk?sa=l&ai=DChcSEwiFiNfi5Lz6AhUFNSsKHTEQB5MYABABGgJzZg&sig=AOD64_3yc2UkbKS_daY6Dvrd_FzK9qKYzQ&ctype=5&q=&ved=0ahUKEwiykNHi5Lz6AhXp3TgGHV4TAyMQww8IyQg&adurl="
+    },
+    {
+      "id": "255",
       "bookName": "Digital Logic And Computer Design",
       "authorName": "M. Morris Mano",
       "bookLink": "https://www.pdfdrive.com/digital-logic-and-computer-design-by-m-morris-mano-e34332016.html"
