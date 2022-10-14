@@ -1302,12 +1302,6 @@
         "bookLink"   : "https://instapdf.in/chanakya-niti/"
       },
       {
-        "id" : "222",
-        "bookName" : "Social Engineering The Art of Human Hacking",
-        "authorName" : "Christopher Hadnag",
-        "bookLink"   : "https://git-scm.com/download/win"
-      },
-      {
          "id":"222",
          "bookName": "Real-World Bug Hunting: A Field Guide to Web Hacking Real-World Bug Hunting: A Field Guide to Web",
          "authorName": "Peter Yaworski",
@@ -1546,7 +1540,13 @@
       "bookName": "Automation and Robotics",
       "authorName": "Miltiadis A. Boboulos",
       "bookLink": "http://engineering108.com/pages/Robotics/automation-and-robotics.html "
-    }
+    },
+     {
+        "id" : "254",
+        "bookName" : "Social Engineering The Art of Human Hacking",
+        "authorName" : "Christopher Hadnag",
+        "bookLink"   : "https://git-scm.com/download/win"
+      }
 
 
 
