@@ -1572,6 +1572,12 @@
       "authorName": "Brian Kernighan and Rob Pike",
       "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html"
       },
+   {
+      "id" : "259",
+      "bookName" : "Python for Everbody: Exploring Data in Python3",
+      "authorName" : "Dr. Charles R. Severance",
+      "bookLink"   : "https://books.trinket.io/pfe/index.html"
+      },
 
 
 
