@@ -1546,7 +1546,8 @@
       "bookName": "Coders at Work",
       "authorName": "Peter Seibel",
       "bookLink": "https://www.pdfdrive.com/coders-at-work-reflections-on-the-craft-of-programming-d162550410.html"
-      },
+    },
+  
      {
         "id" : "255",
         "bookName" : "Social Engineering The Art of Human Hacking",
@@ -1564,7 +1565,13 @@
       "bookName": "Digital Logic And Computer Design",
       "authorName": "M. Morris Mano",
       "bookLink": "https://www.pdfdrive.com/digital-logic-and-computer-design-by-m-morris-mano-e34332016.html"
-    }
+    },
+      {
+      "id": "258",
+      "bookName": "The Practice of Programming",
+      "authorName": "Brian Kernighan and Rob Pike",
+      "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html"
+      },
 
 
 
