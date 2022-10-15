@@ -1618,6 +1618,12 @@
        "bookName": "Test-Driven Development by Example",
        "authorName": "Kent Beck",
        "bookLink": "https://www.pdfdrive.com/test-driven-development-by-example-pudncom-d37715816.html"
+     },
+     {
+       "id": "267",
+       "bookName": "Refactoring to Patterns",
+       "authorName": "Joshua Kerievsky",
+       "bookLink": "http://www.tarrani.net/RefactoringToPatterns.pdf"
      }
 
 
