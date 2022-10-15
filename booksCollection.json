@@ -1624,6 +1624,12 @@
        "bookName": "Refactoring to Patterns",
        "authorName": "Joshua Kerievsky",
        "bookLink": "http://www.tarrani.net/RefactoringToPatterns.pdf"
+     },
+     {
+       "id": "268",
+       "bookName": "The Little Schemer",
+       "authorName": "Daniel P. Friedman, Matthias Felleisen",
+       "bookLink": "https://7chan.org/pr/src/The_Little_Schemer_4th_2.pdf"
      }
 
 
