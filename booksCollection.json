@@ -1612,8 +1612,13 @@
        "bookName": "Smart Contract Development with Solidity and Ethereum",
        "authorName": "Akhil Mittal",
        "bookLink": "https://www.perlego.com/book/1681432/smart-contract-development-with-solidity-and-ethereum-building-smart-contracts-with-the-azure-blockchain-pdf"
+     },
+    {
+       "id": "266",
+       "bookName": "Agile Software Development: Principles, Patterns, and Practices",
+       "authorName": "Robert Cecil Martin",
+       "bookLink": "https://www.pdfdrive.com/agile-software-development-principles-patterns-and-practices-d157786315.html"
      }
-
 
 
   
