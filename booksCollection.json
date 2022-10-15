@@ -1547,13 +1547,12 @@
       "authorName": "Peter Seibel",
       "bookLink": "https://www.pdfdrive.com/coders-at-work-reflections-on-the-craft-of-programming-d162550410.html"
     },
-  
-     {
+    {
         "id" : "255",
         "bookName" : "Social Engineering The Art of Human Hacking",
         "authorName" : "Christopher Hadnag",
         "bookLink"   : "https://git-scm.com/download/win"
-      },
+    },
     {
     "id": "256",
     "bookName": "Percy Jackson: The Lightning Thief",
@@ -1566,18 +1565,42 @@
       "authorName": "M. Morris Mano",
       "bookLink": "https://www.pdfdrive.com/digital-logic-and-computer-design-by-m-morris-mano-e34332016.html"
     },
-      {
+    {
       "id": "258",
+      "bookName": " 504 ABSOLUTELY ESSENTIAL WORDS, 6th Edition",
+      "authorName": "Murray Bromberg",
+      "bookLink": "https://fliphtml5.com/eufzi/nyut/basic"
+    },
+    {
+      "id": "259",
+      "bookName": "Fundamentals of Database Systems",
+      "authorName": "Elmsari, Navathe",
+      "bookLink": "https://inspirit.net.in/books/database/Fundamentals%20of%20Database%20Systems.pdf"
+    },
+    {
+      "id": "260",
       "bookName": "The Practice of Programming",
       "authorName": "Brian Kernighan and Rob Pike",
-      "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html"
-      },
-  {
-      "id": "259",
+      "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html
+    },
+    {
+      "id": "261",
       "bookName": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
       "authorName": "Steve Krug",
       "bookLink": "https://www.pdfdrive.com/dont-make-me-think-revisited-a-common-sense-approach-to-web-usability-d195137398.html"
-      }
+    },
+    {
+        "id": "262",
+        "bookName": "Understanding Bitcoin",
+        "authorName": "Silas Barta & Robert P.Murphy",
+        "bookLink": "https://www.pdfdrive.com/understanding-bitcoin-e18846314.html"
+     },
+     {
+      "id": "263",
+      "bookName": "Smart Contract Development with Solidity and Ethereum",
+      "authorName": "Akhil Mittal",
+      "bookLink": "https://www.perlego.com/book/1681432/smart-contract-development-with-solidity-and-ethereum-building-smart-contracts-with-the-azure-blockchain-pdf"
+     }
 
 
 
