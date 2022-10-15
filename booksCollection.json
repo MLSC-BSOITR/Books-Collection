@@ -1630,6 +1630,12 @@
        "bookName": "The Little Schemer",
        "authorName": "Daniel P. Friedman, Matthias Felleisen",
        "bookLink": "https://7chan.org/pr/src/The_Little_Schemer_4th_2.pdf"
+     },
+     {
+       "id": "269",
+       "bookName": "Fluent Python",
+       "authorName": "Reference work",
+       "bookLink": "https://www.pdfdrive.com/fluent-python-clear-concise-and-effective-programming-d185845171.html"
      }
 
 
