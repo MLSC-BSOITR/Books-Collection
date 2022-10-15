@@ -1540,27 +1540,48 @@
       "bookName": "Automation and Robotics",
       "authorName": "Miltiadis A. Boboulos",
       "bookLink": "http://engineering108.com/pages/Robotics/automation-and-robotics.html "
-    }
+    },
     {
-    "id": "254",
+      "id": "254",
+      "bookName": "Coders at Work",
+      "authorName": "Peter Seibel",
+      "bookLink": "https://www.pdfdrive.com/coders-at-work-reflections-on-the-craft-of-programming-d162550410.html"
+    },
+    {
+        "id" : "255",
+        "bookName" : "Social Engineering The Art of Human Hacking",
+        "authorName" : "Christopher Hadnag",
+        "bookLink"   : "https://git-scm.com/download/win"
+    },
+    {
+    "id": "256",
     "bookName": "Percy Jackson: The Lightning Thief",
     "authorName": "Rick Riordan",
     "bookLink": "https://www.google.com/aclk?sa=l&ai=DChcSEwiFiNfi5Lz6AhUFNSsKHTEQB5MYABABGgJzZg&sig=AOD64_3yc2UkbKS_daY6Dvrd_FzK9qKYzQ&ctype=5&q=&ved=0ahUKEwiykNHi5Lz6AhXp3TgGHV4TAyMQww8IyQg&adurl="
     },
     {
-      "id": "255",
+      "id": "257",
       "bookName": "Digital Logic And Computer Design",
       "authorName": "M. Morris Mano",
       "bookLink": "https://www.pdfdrive.com/digital-logic-and-computer-design-by-m-morris-mano-e34332016.html"
     } ,
-
     {
-      "id": "256",
+      "id": "258",
       "bookName": "Fundamentals of Database Systems",
       "authorName": "Elmsari, Navathe",
       "bookLink": "https://inspirit.net.in/books/database/Fundamentals%20of%20Database%20Systems.pdf"
-    }
-
-
+    },
+    {
+      "id": "259",
+      "bookName": "The Practice of Programming",
+      "authorName": "Brian Kernighan and Rob Pike",
+      "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html"
+     },
+     {
+      "id": "260",
+      "bookName": "Smart Contract Development with Solidity and Ethereum",
+      "authorName": "Akhil Mittal",
+      "bookLink": "https://www.perlego.com/book/1681432/smart-contract-development-with-solidity-and-ethereum-building-smart-contracts-with-the-azure-blockchain-pdf"
+     }
 
 ]
