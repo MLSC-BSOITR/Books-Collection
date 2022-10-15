@@ -1500,7 +1500,7 @@
         "bookLink": "https://drive.google.com/file/d/1UNGpoBOw_Zhk83QxILi1wOAfIla-f_de/view?usp=sharing"
      },
      {
-        "id": "248"
+        "id": "248",
         "bookName": "Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project",
         "authorName": "Jamie Chan ",
         "bookLink": "https://www.pdfdrive.com/learn-python-in-one-day-and-learn-it-well-python-for-beginners-with-hands-on-project-the-only-book-you-need-to-start-coding-in-python-immediately-e183833259.html"
@@ -1581,31 +1581,37 @@
       "id": "260",
       "bookName": "The Practice of Programming",
       "authorName": "Brian Kernighan and Rob Pike",
-      "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html"
+      "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html
     },
     {
-      "id": "261",
+       "id": "261",
+        "bookName": "Learning JavaScript Design Patterns",
+        "authorName": "Addy Osmani",
+        "bookLink": "https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1449331815"
+    },
+    {
+      "id": "262",
       "bookName": "An Introduction to Programming for Bioscientists: A Python-Based Primer",
       "authorName": "Berk Ekmekci,Charles E.McAnany,Cameron Mura",
       "bookLink": "https://www.researchgate.net/publication/303337342_An_Introduction_to_Programming_for_Bioscientists_A_Python-Based_Primer/link/573d8e3308ae9ace8410e9d0/download"
     },
     {
-      "id": "262",
+      "id": "263",
       "bookName": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
       "authorName": "Steve Krug",
       "bookLink": "https://www.pdfdrive.com/dont-make-me-think-revisited-a-common-sense-approach-to-web-usability-d195137398.html"
     },
     {
-        "id": "263",
-        "bookName": "Understanding Bitcoin",
-        "authorName": "Silas Barta & Robert P.Murphy",
-        "bookLink": "https://www.pdfdrive.com/understanding-bitcoin-e18846314.html"
+       "id": "264",
+       "bookName": "Understanding Bitcoin",
+       "authorName": "Silas Barta & Robert P.Murphy",
+       "bookLink": "https://www.pdfdrive.com/understanding-bitcoin-e18846314.html"
      },
      {
-      "id": "264",
-      "bookName": "Smart Contract Development with Solidity and Ethereum",
-      "authorName": "Akhil Mittal",
-      "bookLink": "https://www.perlego.com/book/1681432/smart-contract-development-with-solidity-and-ethereum-building-smart-contracts-with-the-azure-blockchain-pdf"
+       "id": "265",
+       "bookName": "Smart Contract Development with Solidity and Ethereum",
+       "authorName": "Akhil Mittal",
+       "bookLink": "https://www.perlego.com/book/1681432/smart-contract-development-with-solidity-and-ethereum-building-smart-contracts-with-the-azure-blockchain-pdf"
      }
 
 
