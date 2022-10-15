@@ -1618,6 +1618,12 @@
        "bookName": "Agile Software Development: Principles, Patterns, and Practices",
        "authorName": "Robert Cecil Martin",
        "bookLink": "https://www.pdfdrive.com/agile-software-development-principles-patterns-and-practices-d157786315.html"
+     },
+    {
+       "id": "268",
+       "bookName": "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
+       "authorName": "Marijn Haverbeke",
+       "bookLink": "https://www.pdfdrive.com/eloquent-javascript-d33544177.html"
      }
 
 
