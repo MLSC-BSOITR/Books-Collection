@@ -1624,7 +1624,13 @@
        "bookName": "Learn Python the Hard Way",
        "authorName": "Zed Shaw",
        "bookLink": "https://www.pdfdrive.com/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-d195045215.html"
-     }
+     },
+    {
+    "id": "268",
+    "bookName": "Zero to One",
+    "authorName": "Peter Thiel",
+    "bookLink": "https://drive.google.com/file/d/0B7OmNithn8yCWE5WUUktZnJvR3M/view"
+  }
 
 
   
