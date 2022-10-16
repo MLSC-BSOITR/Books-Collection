@@ -1500,7 +1500,7 @@
         "bookLink": "https://drive.google.com/file/d/1UNGpoBOw_Zhk83QxILi1wOAfIla-f_de/view?usp=sharing"
      },
      {
-        "id": "248"
+        "id": "248",
         "bookName": "Learn Python in One Day and Learn It Well: Python for Beginners with Hands-on Project",
         "authorName": "Jamie Chan ",
         "bookLink": "https://www.pdfdrive.com/learn-python-in-one-day-and-learn-it-well-python-for-beginners-with-hands-on-project-the-only-book-you-need-to-start-coding-in-python-immediately-e183833259.html"
@@ -1572,6 +1572,14 @@
       "authorName": "Brian Kernighan and Rob Pike",
       "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html"
       },
+    {
+      
+        "id": "259",
+        "bookName": "Learning JavaScript Design Patterns",
+        "authorName": "Addy Osmani",
+        "bookLink": "https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1449331815"
+    }
+    
 
 
 
