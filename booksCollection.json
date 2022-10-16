@@ -1687,8 +1687,14 @@
   },
   {
     "id": "278",
-    "bookName": "Let Us C",
-    "authorName": "Yashavant Kanetkar",
-    "bookLink": "https://www.pdfdrive.com/let-us-c-yashwant-kanetkar-15th-edition-e200738567.html"
+    "bookName": "Introduction to Programming Using Java",
+    "authorName": "DJ Eck",
+    "bookLink": "https://www.iitk.ac.in/esc101/share/downloads/javanotes5.pdf"
+  },
+  {
+    "id": "278",
+    "bookName": "Beginging C++ programming",
+    "authorName": "Richard Grimes",
+    "bookLink": "https://notalentgeek.github.io/note/note/project/project-independent/pi-brp-beginning-c-programming/document/20170807-1504-cet-1-book-and-source-1.pdf"
   }
 ]
