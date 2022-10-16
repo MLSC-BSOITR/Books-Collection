@@ -1,0 +1,6 @@
+{
+    "id" : "1",
+    "bookName" : "Python Internals",
+    "authorName" : "Narendra Kumar",
+    "bookLink"   : "https://www.navneet.com/cin/cin.html"
+}
