@@ -1624,8 +1624,12 @@
        "bookName": "Learn Python the Hard Way",
        "authorName": "Zed Shaw",
        "bookLink": "https://www.pdfdrive.com/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-d195045215.html"
+     },
+     {
+       "id": "267",
+       "bookName": "Ikigai",
+       "authorName": "Héctor García & Francesc Miralles & Heather Cleary",
+       "bookLink": "https://www.pdfdrive.com/ikigai-the-japanese-secret-to-a-long-and-happy-life-e195091541.html "
      }
-
-
   
 ]
