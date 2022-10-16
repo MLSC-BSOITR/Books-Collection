@@ -1585,7 +1585,7 @@
     },
     {
        "id": "261",
-        "bookName": "Learning JavaScript Design Patterns",
+       "bookName": "Learning JavaScript Design Patterns",
         "authorName": "Addy Osmani",
         "bookLink": "https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1449331815"
     },
@@ -1624,7 +1624,14 @@
        "bookName": "Learn Python the Hard Way",
        "authorName": "Zed Shaw",
        "bookLink": "https://www.pdfdrive.com/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-d195045215.html"
+     },
+     {
+      "id":"268",
+      "bookName":"Eloquent JavaScript",
+      "authorName":"Marijn Haverbeke",
+      "bookLink":"https://eloquentjavascript.net/index.html"
      }
+    
 
 
   
