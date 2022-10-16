@@ -1684,12 +1684,17 @@
        "bookName": "Artificial Intelligence For Dummies",
        "authorName": "John Paul Mueller",
        "bookLink": "https://library.samdu.uz/files/0ef4471f10137ed8c31dc820d3287bb2_Artificial%20Intelligence.pdf"
-    }
+    },
     {
        "id": "278",
        "bookName": "Introduction to Programming Using Java",
        "authorName": "DJ Eck",
        "bookLink": "https://www.iitk.ac.in/esc101/share/downloads/javanotes5.pdf"
+    },
+    {
+       "id": "279",
+       "bookName": "Clean Code",
+       "authorName": " Robert Cecil Martin",
+       "bookLink": "https://www.pdfdrive.com/download.pdf?id=32317666&h=656835ee74123c8b1b0e82134a89e645&u=cache&ext=pdf"
     }
-
 ]
