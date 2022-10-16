@@ -1660,6 +1660,12 @@
        "bookName": "Learn Python the Hard Way",
        "authorName": "Zed Shaw",
        "bookLink": "https://www.pdfdrive.com/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-d195045215.html"
+    },
+    {
+       "id": "274",
+       "bookName": "Gray hat Python : Python programming for hackers and reverse",
+       "authorName": "Justin Seitz",
+       "bookLink": "https://www.pdfdrive.com/gray-hat-python-python-programming-for-hackers-and-reverse-e9135313.html",
     }
 
   
