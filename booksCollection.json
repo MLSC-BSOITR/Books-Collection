@@ -1674,5 +1674,11 @@
       "authorName":"Gayle Laakmann McDowell",
       "bookLink":"https://www.bayaprobooks.com/computer-books/cracking-the-pm-interview/"
     }
+   {
+       "id": "275",
+       "bookName": "Artificial Intelligence For Dummies",
+       "authorName": "John Paul Mueller",
+       "bookLink": "https://library.samdu.uz/files/0ef4471f10137ed8c31dc820d3287bb2_Artificial%20Intelligence.pdf",
+    }
 
 ]
