@@ -1581,7 +1581,7 @@
       "id": "260",
       "bookName": "The Practice of Programming",
       "authorName": "Brian Kernighan and Rob Pike",
-      "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html
+      "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html"
     },
     {
        "id": "261",
@@ -1624,8 +1624,12 @@
        "bookName": "Learn Python the Hard Way",
        "authorName": "Zed Shaw",
        "bookLink": "https://www.pdfdrive.com/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-d195045215.html"
-     }
-
-
-  
+     },
+     {
+      "id": "268",
+      "bookName": "Data Structures & Algorithms in Java",
+      "authorName": "Robert Lafore",
+      "bookLink": "https://everythingcomputerscience.com/books/schoolboek-data_structures_and_algorithms_in_java.pdf"
+    }
+      
 ]
