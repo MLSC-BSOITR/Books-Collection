@@ -1623,10 +1623,21 @@
        "id": "267",
        "bookName": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
        "authorName": "David Farley, Jez Humble",
-       "bookLink": "https://proweb.md/ftp/carti/Continuous-Delivery-Jez%20Humble-David-Farley.pdf"
-     }
+       "bookLink": "https://proweb.md/ftp/carti/Continuous-Delivery-Jez%20Humble-David-Farley.pdf
+     },
+     {
+      "id": "268",
+      "bookName": "1984",
+      "authorName": "George Orwell",
+      "bookLink": "https://www.george-orwell.org/1984"
+    },
+    {
+       "id": "269",
+       "bookName": "Learn Python the Hard Way",
+       "authorName": "Zed Shaw",
+       "bookLink": "https://www.pdfdrive.com/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-d195045215.html"
+    }
   
-
 
   
 ]
