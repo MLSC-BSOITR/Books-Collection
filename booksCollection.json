@@ -1665,7 +1665,13 @@
        "id": "274",
        "bookName": "Gray hat Python : Python programming for hackers and reverse",
        "authorName": "Justin Seitz",
-       "bookLink": "https://www.pdfdrive.com/gray-hat-python-python-programming-for-hackers-and-reverse-e9135313.html",
+       "bookLink": "https://www.pdfdrive.com/gray-hat-python-python-programming-for-hackers-and-reverse-e9135313.html"
+    },
+    {
+      "id": "275",
+      "bookName": "Mastering Swift 5",
+      "authorName": "Jon Hoffman",
+      "bookLink": "https://www.packtpub.com/free-ebook/mastering-swift-5-fifth-edition/9781789139860"
     }
 
   
