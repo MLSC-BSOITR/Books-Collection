@@ -1624,7 +1624,13 @@
        "bookName": "Learn Python the Hard Way",
        "authorName": "Zed Shaw",
        "bookLink": "https://www.pdfdrive.com/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-d195045215.html"
-     }
+     },
+     {
+      "id": "268",
+      "bookName": "Binary-Trees",
+      "authorName": "Nick Parlante",
+      "bookLink": "https://everythingcomputerscience.com/books/BinaryTrees.pdf"
+    }
 
 
   
