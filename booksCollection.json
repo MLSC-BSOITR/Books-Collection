@@ -1557,7 +1557,7 @@
     "id": "256",
     "bookName": "Percy Jackson: The Lightning Thief",
     "authorName": "Rick Riordan",
-    "bookLink": "https://www.google.com/aclk?sa=l&ai=DChcSEwiFiNfi5Lz6AhUFNSsKHTEQB5MYABABGgJzZg&sig=AOD64_3yc2UkbKS_daY6Dvrd_FzK9qKYzQ&ctype=5&q=&ved=0ahUKEwiykNHi5Lz6AhXp3TgGHV4TAyMQww8IyQg&adurl=
+    "bookLink": "https://www.google.com/aclk?sa=l&ai=DChcSEwiFiNfi5Lz6AhUFNSsKHTEQB5MYABABGgJzZg&sig=AOD64_3yc2UkbKS_daY6Dvrd_FzK9qKYzQ&ctype=5&q=&ved=0ahUKEwiykNHi5Lz6AhXp3TgGHV4TAyMQww8IyQg&adurl="
   },
   {
     "id": "257",
@@ -1846,12 +1846,18 @@
       "bookName": "Extreme C",
       "authorName": "Kamran Amini",
       "bookLink": "https://www.packtpub.com/free-ebook/extreme-c/9781789343625"
-    }
+    },
     {
-      "id" : "280",
+      "id":"282",
+      "bookName":"DAA course",
+      "authorName":"Chandra Mohan",
+      "bookLink":"https://drive.google.com/dsa-course"
+    },
+    {
+      "id" : "283",
       "bookName" : "MODERN OPERATING SYSTEMS",
       "authorName" : "ANDREW S. TANENBAUM, HERBERT BOS",
       "bookLink"   : "https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf"
-    },
+    }
 
 ]
