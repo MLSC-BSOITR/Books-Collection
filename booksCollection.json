@@ -1847,5 +1847,11 @@
       "authorName": "Kamran Amini",
       "bookLink": "https://www.packtpub.com/free-ebook/extreme-c/9781789343625"
     }
+    {
+      "id" : "280",
+      "bookName" : "MODERN OPERATING SYSTEMS",
+      "authorName" : "ANDREW S. TANENBAUM, HERBERT BOS",
+      "bookLink"   : "https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf"
+    },
 
 ]
