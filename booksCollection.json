@@ -1835,11 +1835,17 @@
       "authorName":"Rakesh Baruah",
       "bookLink":"https://drive.google.com/file/d/16cr5r-Rr2RzPAYge5lzEZYAlcBqDtOL3/view?usp=sharing"
     },
-  {
+    {
       "id":"280",
       "bookName":"guide to competitive programming",
       "authorName":"Antti Laaksonen",
       "bookLink":"https://drive.google.com/file/d/1RIV02A3_d35vwP1fosvlu40GNU2qBJDT/view?usp=sharing"
+    },
+    {
+      "id": "281",
+      "bookName": "Extreme C",
+      "authorName": "Kamran Amini",
+      "bookLink": "https://www.packtpub.com/free-ebook/extreme-c/9781789343625"
     }
 
 ]
