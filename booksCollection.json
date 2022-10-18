@@ -1870,6 +1870,12 @@
       "bookName":"Advanced Computer Architecture",
       "authorName":"Kai Hwang",
       "bookLink":"https://drive.google.com/file/d/1HJAxZkPNbucJ84W1xpY-6XfFjwO6OM2n/view?usp=sharing"
+    },
+  {
+      "id":"286",
+      "bookName":"Cracking-the-Coding-Interview",
+      "authorName":"GAYLE LAAKMANN MCDOWELL",
+      "bookLink":"https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf"
     }
   
 ]
