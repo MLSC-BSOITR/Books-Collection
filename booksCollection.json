@@ -1871,5 +1871,17 @@
       "authorName":"Kai Hwang",
       "bookLink":"https://drive.google.com/file/d/1HJAxZkPNbucJ84W1xpY-6XfFjwO6OM2n/view?usp=sharing"
     }
+    {
+      "id" :"286",
+      "bookName" : "Superintelligence: Paths, Dangers, Strategies",
+      "authorName" : "Nick Bostrom",
+      "bookLink" : "https://dorshon.com/wp-content/uploads/2017/05/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf"
+    }
+    {
+      "id" : "287",
+      "bookName" : "A Thousand Brains : A new Theory of Intellegence",
+      "authorName" : "Jeff Hawkins",
+      "bookLink" : "https://www.yumpu.com/en/document/view/66310877/download-pdf-a-thousand-brains-a-new-theory-of-intelligence-"
+    }
   
 ]
