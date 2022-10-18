@@ -1870,6 +1870,13 @@
       "bookName":"Advanced Computer Architecture",
       "authorName":"Kai Hwang",
       "bookLink":"https://drive.google.com/file/d/1HJAxZkPNbucJ84W1xpY-6XfFjwO6OM2n/view?usp=sharing"
+    },
+    {
+      "id":"286",
+      "bookName":"The Obstacle is the Way",
+      "authorName":"Ryan Holiday",
+      "bookLink":"https://github.com/Deaddemon/DSA-code/blob/main/books/The-Obstacle-Is-the-Way.pdf"
     }
+  
   
 ]
