@@ -1960,6 +1960,12 @@
       "bookName":"Mathematics for Class XII",
       "authorName":"R. D. Sharma",
       "bookLink":"https://books.google.co.in/books/about/Mathematics_for_Class_XII.html?id=2GSdkQEACAAJ&redir_esc=y"
+    },
+    {
+      "id":"301",
+      "bookName":"Compiler Design in C Language",
+      "authorName":"Allen Holub",
+      "bookLink":"https://holub.com/goodies/compiler/compilerDesignInC.pdf"
     }
     {
       "id" : "301",
