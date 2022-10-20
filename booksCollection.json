@@ -1913,5 +1913,11 @@
       "authorName" : "Jeff Hawkins",
       "bookLink" : "https://www.yumpu.com/en/document/view/66310877/download-pdf-a-thousand-brains-a-new-theory-of-intelligence-"
     },
+    {
+      "id": "293",
+      "bookName": "Practical Python Programming for IOT",
+      "authorName": "Gary Smart",
+      "bookLink": "https://www.packtpub.com/product/practical-python-programming-for-iot/9781838982461"
+    },
   
 ]
