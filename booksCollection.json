@@ -1919,5 +1919,11 @@
       "authorName": "Gary Smart",
       "bookLink": "https://www.packtpub.com/product/practical-python-programming-for-iot/9781838982461"
     },
+    {
+     "id": "294",
+     "bookName": "Data Structures and Algorithms in Java ",
+     "authorName": "Michael T. Goodrich ",
+     "bookLink": "https://enos.itcollege.ee/~japoia/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf"
+    },
   
 ]
