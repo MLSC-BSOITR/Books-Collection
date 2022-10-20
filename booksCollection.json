@@ -1925,12 +1925,19 @@
      "authorName": "Michael T. Goodrich ",
      "bookLink": "https://enos.itcollege.ee/~japoia/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf"
     },
->   {
+    {
       "id":"295",
       "bookName":"The Obstacle is the Way",
       "authorName":"Ryan Holiday",
       "bookLink":"https://github.com/Deaddemon/DSA-code/blob/main/books/The-Obstacle-Is-the-Way.pdf"
+     },
+     {
+      "id":"296",
+      "bookName":"Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
+      "authorName":"Krishna Rungta",
+      "bookLink":"https://www.pdfdrive.com/learn-nodejs-in-1-day-complete-node-js-guide-with-examples-e158435138.html"
      }
   
+
   
 ]
