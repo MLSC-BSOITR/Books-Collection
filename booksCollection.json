@@ -1936,7 +1936,7 @@
       "bookName":"Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
       "authorName":"Krishna Rungta",
       "bookLink":"https://www.pdfdrive.com/learn-nodejs-in-1-day-complete-node-js-guide-with-examples-e158435138.html"
-     }
+     },
      {
       "id":"297",
       "bookName":"The Story of My Life",
@@ -1985,6 +1985,12 @@
       "authorName":"Robert Sedgewick and Kevin Wayne",
       "bookLink":"http://algs4.cs.princeton.edu/home/"
     },
+    {
+      "id": "400",
+      "bookName": "Augmented Reality for Developers",
+      "authorName": "Jonathan Linowes",
+      "bookLink": "https://www.packtpub.com/product/augmented-reality-for-developers/9781787286436"
+    }
 
   
 
