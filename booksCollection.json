@@ -1966,14 +1966,19 @@
       "bookName":"Compiler Design in C Language",
       "authorName":"Allen Holub",
       "bookLink":"https://holub.com/goodies/compiler/compilerDesignInC.pdf"
-    }
+    },
     {
       "id" : "301",
       "bookName":"Handbook Of Applied Cryptography",
       "authorName":"Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone",
       "bookLink":"https://cacr.uwaterloo.ca/hac/"
+    },
+    {
+      "id":"302",
+      "bookName":"JavaScript from Beginner to Professional",
+      "authorName":"Laurence Svekis , Maaike van Putten , Rob Percival",
+      "bookLink":"https://www.packtpub.com/product/javascript-from-beginner-to-professional/9781800562523?_ga=2.56774442.1203848610.1666083279-519919309.1666083279"
     }
-
 
 
   
