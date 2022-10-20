@@ -1873,9 +1873,85 @@
     },
     {
       "id":"286",
+      "bookName":"Cracking-the-Coding-Interview",
+      "authorName":"GAYLE LAAKMANN MCDOWELL",
+      "bookLink":"https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf"
+    },
+    {
+      "id":"287",
+      "bookName":"Mastering Machine Learning with Python in Six Steps",
+      "authorName":"Manohar Swamynathan",
+      "bookLink":"https://www.pdfdrive.com/mastering-machine-learning-with-python-in-six-steps-a-practical-implementation-guide-to-predictive-data-analytics-using-python-d168776616.html"
+    },
+    {
+      "id":"288",
+      "bookName":"Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns, and Games",
+      "authorName":" Douglas E. Ensley & J. Winston Crawley",
+      "bookLink":"https://www.pdfdrive.com/discrete-mathematics-mathematical-reasoning-and-proof-with-puzzles-patterns-and-games-e158556392.html"
+    },
+    {
+      "id":"289",
+      "bookName":"Understanding Cryptography: A Textbook for Students and Practitioners",
+      "authorName":"Christof Paar",
+      "bookLink":"https://swarm.cs.pub.ro/~mbarbulescu/cripto/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf"
+    },
+    {
+      "id": "290",
+      "bookName": "Binary-Trees",
+      "authorName": "Nick Parlante",
+      "bookLink": "https://everythingcomputerscience.com/books/BinaryTrees.pdf"
+   },
+    {
+      "id" :"291",
+      "bookName" : "Superintelligence: Paths, Dangers, Strategies",
+      "authorName" : "Nick Bostrom",
+      "bookLink" : "https://dorshon.com/wp-content/uploads/2017/05/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf"
+    },
+    {
+      "id" : "292",
+      "bookName" : "A Thousand Brains : A new Theory of Intellegence",
+      "authorName" : "Jeff Hawkins",
+      "bookLink" : "https://www.yumpu.com/en/document/view/66310877/download-pdf-a-thousand-brains-a-new-theory-of-intelligence-"
+    },
+    {
+      "id": "293",
+      "bookName": "Practical Python Programming for IOT",
+      "authorName": "Gary Smart",
+      "bookLink": "https://www.packtpub.com/product/practical-python-programming-for-iot/9781838982461"
+    },
+    {
+     "id": "294",
+     "bookName": "Data Structures and Algorithms in Java ",
+     "authorName": "Michael T. Goodrich ",
+     "bookLink": "https://enos.itcollege.ee/~japoia/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf"
+    },
+    {
+      "id":"295",
+      "bookName":"The Obstacle is the Way",
+      "authorName":"Ryan Holiday",
+      "bookLink":"https://github.com/Deaddemon/DSA-code/blob/main/books/The-Obstacle-Is-the-Way.pdf"
+     },
+     {
+      "id":"296",
+      "bookName":"Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
+      "authorName":"Krishna Rungta",
+      "bookLink":"https://www.pdfdrive.com/learn-nodejs-in-1-day-complete-node-js-guide-with-examples-e158435138.html"
+     }
+     {
+      "id":"297",
+      "bookName":"The Story of My Life",
+      "authorName":"Helen Keller",
+      "bookLink":"https://www.goodreads.com/book/show/821611.The_Story_of_My_Life"
+    },
+    {
+      "id":"298",
       "bookName":"Image Optimization",
       "authorName":"Addy Osmani",
       "bookLink":"https://www.google.co.in/books/edition/Learning_Patterns/BnJLEAAAQBAJ?hl=en&gbpv=0"
     }
+  
+
+
+
   
 ]
