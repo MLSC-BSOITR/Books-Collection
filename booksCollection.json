@@ -1871,11 +1871,25 @@
       "authorName":"Kai Hwang",
       "bookLink":"https://drive.google.com/file/d/1HJAxZkPNbucJ84W1xpY-6XfFjwO6OM2n/view?usp=sharing"
     },
-  {
+    {
       "id":"286",
       "bookName":"Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns, and Games",
       "authorName":" Douglas E. Ensley & J. Winston Crawley",
       "bookLink":"https://www.pdfdrive.com/discrete-mathematics-mathematical-reasoning-and-proof-with-puzzles-patterns-and-games-e158556392.html"
-    }
+    },
+    {
+      "id":"287",
+      "bookName":"Understanding Cryptography: A Textbook for Students and Practitioners",
+      "authorName":"Christof Paar",
+      "bookLink":"https://swarm.cs.pub.ro/~mbarbulescu/cripto/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf"
+    },
+    {
+      "id": "288",
+      "bookName": "Binary-Trees",
+      "authorName": "Nick Parlante",
+      "bookLink": "https://everythingcomputerscience.com/books/BinaryTrees.pdf"
+    },
+
+
   
 ]
