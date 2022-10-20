@@ -1872,7 +1872,7 @@
       "bookLink":"https://drive.google.com/file/d/1HJAxZkPNbucJ84W1xpY-6XfFjwO6OM2n/view?usp=sharing"
     },
     {
-      "id":"286",
+      "id" : "286",
       "bookName":"Cracking-the-Coding-Interview",
       "authorName":"GAYLE LAAKMANN MCDOWELL",
       "bookLink":"https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf"
@@ -1948,14 +1948,19 @@
       "bookName":"Image Optimization",
       "authorName":"Addy Osmani",
       "bookLink":"https://www.google.co.in/books/edition/Learning_Patterns/BnJLEAAAQBAJ?hl=en&gbpv=0"
-    }
+    },
     {
-      "id":"209",
+      "id":"299",
       "bookName":"Advanced Computer Networks",
       "authorName":"Prof.Dayanand Ambawade",
       "bookLink":"https://web.eecs.umich.edu/~zmao/eecs589/notes/lec1.pdf"
+    },
+    {
+      "id":"300",
+      "bookName":"Mathematics for Class XII",
+      "authorName":"R. D. Sharma",
+      "bookLink":"https://books.google.co.in/books/about/Mathematics_for_Class_XII.html?id=2GSdkQEACAAJ&redir_esc=y"
     }
-  
 
 
 
