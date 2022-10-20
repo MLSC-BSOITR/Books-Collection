@@ -1985,7 +1985,12 @@
       "authorName":"Robert Sedgewick and Kevin Wayne",
       "bookLink":"http://algs4.cs.princeton.edu/home/"
     },
+    {
+      "id":"400",
+      "bookName":"Let Us C",
+      "authorName":"Yashavant P. Kanetkar",
+      "bookLink":"http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf"
+    },
 
-  
 
 ]
