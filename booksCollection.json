@@ -1961,8 +1961,15 @@
       "authorName":"R. D. Sharma",
       "bookLink":"https://books.google.co.in/books/about/Mathematics_for_Class_XII.html?id=2GSdkQEACAAJ&redir_esc=y"
     }
+    {
+      "id" : "301",
+      "bookName":"Handbook Of Applied Cryptography",
+      "authorName":"Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone",
+      "bookLink":"https://cacr.uwaterloo.ca/hac/"
+    }
 
 
 
   
+
 ]
