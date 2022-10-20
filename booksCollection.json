@@ -1978,8 +1978,13 @@
       "bookName":"JavaScript from Beginner to Professional",
       "authorName":"Laurence Svekis , Maaike van Putten , Rob Percival",
       "bookLink":"https://www.packtpub.com/product/javascript-from-beginner-to-professional/9781800562523?_ga=2.56774442.1203848610.1666083279-519919309.1666083279"
-    }
-
+    },
+    {
+      "id":"399",
+      "bookName":"Algorithms",
+      "authorName":"Robert Sedgewick and Kevin Wayne",
+      "bookLink":"http://algs4.cs.princeton.edu/home/"
+    },
 
   
 
