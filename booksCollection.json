@@ -1901,5 +1901,11 @@
       "authorName": "Nick Parlante",
       "bookLink": "https://everythingcomputerscience.com/books/BinaryTrees.pdf"
    },
+   {
+      "id": "291",
+      "bookName": "Algorithms",
+      "authorName": "Robert Sedgewick and Kevin Wayne",
+      "bookLink": "https://algs4.cs.princeton.edu/home/"
+   },
   
 ]
