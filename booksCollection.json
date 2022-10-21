@@ -1985,7 +1985,12 @@
       "authorName":"Robert Sedgewick and Kevin Wayne",
       "bookLink":"http://algs4.cs.princeton.edu/home/"
     },
-
+    {
+      "id":"400",
+      "bookName":"Competitive Programmer’s Handbook",
+      "authorName":"Antti Laaksonen",
+      "bookLink":"https://cses.fi/book/book.pdf"
+    },
   
 
 ]
