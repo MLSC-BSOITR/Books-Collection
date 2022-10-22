@@ -1985,6 +1985,12 @@
       "authorName":"Robert Sedgewick and Kevin Wayne",
       "bookLink":"http://algs4.cs.princeton.edu/home/"
     },
+{
+    "id" : "400",
+    "bookName" : "Distributed Computing: Principles, Algorithms, and Systems",
+    "authorName" : "Ajay D. Kshemkalyani and Mukesh Singhal",
+    "bookLink"   : "https://eclass.uoa.gr/modules/document/file.php/D245/2015/DistrComp.pdf"
+},
 
   
 
