@@ -1936,7 +1936,7 @@
       "bookName":"Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
       "authorName":"Krishna Rungta",
       "bookLink":"https://www.pdfdrive.com/learn-nodejs-in-1-day-complete-node-js-guide-with-examples-e158435138.html"
-     }
+     },
      {
       "id":"297",
       "bookName":"The Story of My Life",
@@ -1980,16 +1980,48 @@
       "bookLink":"https://www.packtpub.com/product/javascript-from-beginner-to-professional/9781800562523?_ga=2.56774442.1203848610.1666083279-519919309.1666083279"
     },
     {
-      "id":"399",
+      "id":"303",
+      "bookName":"Python Pocket Reference, 5th Edition: Python in Your Pocket",
+      "authorName":"Mark Lutz",
+      "bookLink":"https://www.pdfdrive.com/python-pocket-reference-5th-edition-python-in-your-pocket-d166623626.html"
+    },
+    {
+      "id":"304",
       "bookName":"Algorithms",
       "authorName":"Robert Sedgewick and Kevin Wayne",
       "bookLink":"http://algs4.cs.princeton.edu/home/"
     },
     {
-      "id":"410",
+      "id": "305",
+      "bookName": "Augmented Reality for Developers",
+      "authorName": "Jonathan Linowes",
+      "bookLink": "https://www.packtpub.com/product/augmented-reality-for-developers/9781787286436"
+    },
+    {
+      "id":"306",
+      "bookName":"Basic Security Testing with Kali Linux",
+      "authorName":"Dieterle, Daniel",
+      "bookLink":"https://www.pdfdrive.com/basic-security-testing-with-kali-linux-d35634554.html"
+    },
+    {
+      "id":"307",
+      "bookName":"Neural Machine Translation",
+      "authorName":"Philipp Koehn",
+      "bookLink":"http://mt-class.org/jhu/assets/nmt-book.pdf"
+    },
+    {
+      "id":"308",
+      "bookName":"Introduction to Data Structures & Algorithms",
+      "authorName":"THOMAS H. CORMEN, CHARLES E., LEISERSON RONALD L. & RIVEST CLIFFORD STEIN",
+      "bookLink":"https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
+    },
+    {
+      "id":"309",
       "bookName":"Linux Fundamentals",
       "authorName":"Paul Cobbaut",
       "bookLink":"http://linux-training.be/linuxfun.pdf"
     },  
+
+ 
 
 ]
