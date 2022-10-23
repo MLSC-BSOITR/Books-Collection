@@ -1980,7 +1980,13 @@
       "bookLink":"https://www.packtpub.com/product/javascript-from-beginner-to-professional/9781800562523?_ga=2.56774442.1203848610.1666083279-519919309.1666083279"
     },
     {
-      "id":"399",
+      "id":"303",
+      "bookName":"Python Pocket Reference, 5th Edition: Python in Your Pocket",
+      "authorName":"Mark Lutz",
+      "bookLink":"https://www.pdfdrive.com/python-pocket-reference-5th-edition-python-in-your-pocket-d166623626.html"
+    },
+    {
+      "id":"304",
       "bookName":"Algorithms",
       "authorName":"Robert Sedgewick and Kevin Wayne",
       "bookLink":"http://algs4.cs.princeton.edu/home/"
