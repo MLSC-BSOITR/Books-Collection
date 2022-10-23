@@ -1992,6 +1992,12 @@
       "bookLink":"http://algs4.cs.princeton.edu/home/"
     },
 
+     {
+      "id":"400",
+      "bookName":"Neural Machine Translation",
+      "authorName":"Philipp Koehn",
+      "bookLink":"http://mt-class.org/jhu/assets/nmt-book.pdf"
+    },
   
 
 ]
