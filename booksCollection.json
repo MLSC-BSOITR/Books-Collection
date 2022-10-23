@@ -2033,8 +2033,14 @@
       "authorName":"Antti Laaksonen",
       "bookLink":"https://cses.fi/book/book.pdf"
     },
-  
-
- 
+    {
+      "id" : "312",
+      "bookName" : "Modern Digital And Analog Communication Systems",
+      "authorName" : "B.P. Lathi",
+      "bookLink"   : "https://edisciplinas.usp.br/pluginfile.php/5251120/mod_resource/content/1/B.%20P.%20Lathi%2C%20Zhi%20Ding%20-%20Modern%20Digital%20and%20Analog%20Communication%20Systems-Oxford%20University%20Press%20%282009%29.pdf"
+    },
+    
+    
+    
 
 ]
