@@ -1991,12 +1991,17 @@
       "authorName":"Robert Sedgewick and Kevin Wayne",
       "bookLink":"http://algs4.cs.princeton.edu/home/"
     },
-
-     {
-      "id":"400",
+    {
+      "id":"305",
+      "bookName":"Basic Security Testing with Kali Linux",
+      "authorName":"Dieterle, Daniel",
+      "bookLink":"https://www.pdfdrive.com/basic-security-testing-with-kali-linux-d35634554.html"
+    },
+    {
+      "id":"306",
       "bookName":"Neural Machine Translation",
       "authorName":"Philipp Koehn",
-      "bookLink":"http://mt-class.org/jhu/assets/nmt-book.pdf"
+      "bookLink":"http://mt-class.org/jhu/assets/nmt-book.pdf
     },
   
 
