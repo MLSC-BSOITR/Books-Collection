@@ -1936,7 +1936,7 @@
       "bookName":"Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
       "authorName":"Krishna Rungta",
       "bookLink":"https://www.pdfdrive.com/learn-nodejs-in-1-day-complete-node-js-guide-with-examples-e158435138.html"
-     }
+     },
      {
       "id":"297",
       "bookName":"The Story of My Life",
@@ -1992,17 +1992,24 @@
       "bookLink":"http://algs4.cs.princeton.edu/home/"
     },
     {
-      "id":"305",
+      "id": "305",
+      "bookName": "Augmented Reality for Developers",
+      "authorName": "Jonathan Linowes",
+      "bookLink": "https://www.packtpub.com/product/augmented-reality-for-developers/9781787286436"
+    },
+    {
+      "id":"306",
       "bookName":"Basic Security Testing with Kali Linux",
       "authorName":"Dieterle, Daniel",
       "bookLink":"https://www.pdfdrive.com/basic-security-testing-with-kali-linux-d35634554.html"
     },
     {
-      "id":"306",
+      "id":"307",
       "bookName":"Neural Machine Translation",
       "authorName":"Philipp Koehn",
-      "bookLink":"http://mt-class.org/jhu/assets/nmt-book.pdf
+      "bookLink":"http://mt-class.org/jhu/assets/nmt-book.pdf"
     },
+
   
 
 ]
