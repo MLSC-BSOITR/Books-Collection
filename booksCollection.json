@@ -2062,13 +2062,13 @@
       "id":"315",
       "bookName":"Linux: Linux Command Line, Cover all essential Linux commands. A complete introduction to Linux",
       "authorName":"Ray Yao & Ada R Swift & Ruby C",
-      "https://www.pdfdrive.com/linux-linux-command-line-cover-all-essential-linux-commands-a-complete-introduction-to-linux-operating-system-linux-kernel-for-beginners-learn-linux-in-easy-steps-fast-a-beginners-guide-d200442383.html"
+      "bookLink":"https://www.pdfdrive.com/linux-linux-command-line-cover-all-essential-linux-commands-a-complete-introduction-to-linux-operating-system-linux-kernel-for-beginners-learn-linux-in-easy-steps-fast-a-beginners-guide-d200442383.html"
     },
     {
       "id":"316",
       "bookName":"Hacking: The Ultimate Hacking for Beginners: How to Hack: Hacking Intelligence: Certified Hacking Book",
       "authorName":"Anoymous",
-      "https://www.pdfdrive.com/hacking-the-ultimate-hacking-for-beginners-how-to-hack-hacking-intelligence-certified-hacking-book-d158303083.html"
+      "bookLink":"https://www.pdfdrive.com/hacking-the-ultimate-hacking-for-beginners-how-to-hack-hacking-intelligence-certified-hacking-book-d158303083.html"
     },
     {
       "id":"317",
@@ -2083,10 +2083,28 @@
       "bookLink":"https://www.pdfdrive.com/strategic-leadership-e20852523.html"
     },
     {
+      "id" : "319",
+      "bookName" : "NOVEL OF ORDINARY PEOPLE WORKS",
+      "authorName" : "ANDREA HIRATA",
+      "bookLink"   : "https://www.researchgate.net/publication/350109905_NOVEL_ORANG-ORANG_BIASA_KARYA_ANDREA_HIRATA_KAJIAN_SOSIOLOGI_SASTRA"
+    },
+    {
+      "id":"320",
+      "bookName":"The Anthropocene Reviewed",
+      "authorName":"John Green",
+      "bookLink":"https://www.read-any-book.net/ebook/the-anthropocene-reviewed-765600"
+
+    },
+    {
+       "id":"321",
+      "bookName":"Political Philosophy",
+      "authorName":"Dudley Knowles",
+      "bookLink":"https://www.pdfdrive.com/political-philosophy-e19071256.html"
+    },
+    {
     "id":"319",
     "bookName":"The Secret",
     "authorName":"Rhonda Byrne",
     "bookLink":"https://www.pdfdrive.com/the-secret-by-rhonda-byrne-e200864245.html"
     }
-
 ]
