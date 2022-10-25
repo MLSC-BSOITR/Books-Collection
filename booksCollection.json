@@ -2117,5 +2117,18 @@
       "bookName":"The Internet of Things",
       "authorName":"Samuel Greengard",
       "bookLink":"https://ijoc.org/index.php/ijoc/article/download/6469/1844"
+    },
+    {
+       "id":"325",
+      "bookName":"Tales Of Men And Ghosts",
+      "authorName":"Edith Wharton",
+      "bookLink":"https://archive.org/details/cu31924008686218/mode/2up?ref=ol&view=theater"
+    },
+    {
+      "id":"326",
+      "bookName":"Folks From Dixie",
+      "authorName":"Paul L. Dunbar",
+      "bookLink":"https://archive.org/details/folksfromdixie00dunb/mode/2up?ref=ol&view=theater"
     }
+      
 ]
