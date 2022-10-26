@@ -89,6 +89,14 @@
     "authorName": "Colin Scales",
     "bookLink": "https://deals.manybooks.net/ebooks/dorothy-hood"
   },
+  
+  {
+    "id": "120",
+    "bookName": "The Purpose-Driven Life: What on Earth Am I Here For?",
+    "authorName": "Rick Warren",
+    "bookLink": "https://www.pdfdrive.com/the-purpose-driven-life-what-on-earth-am-i-here-for-e185720921.html"
+  },
+  
   {
     "id": "27",
     "bookName": "Zero to One",
@@ -2062,13 +2070,13 @@
       "id":"315",
       "bookName":"Linux: Linux Command Line, Cover all essential Linux commands. A complete introduction to Linux",
       "authorName":"Ray Yao & Ada R Swift & Ruby C",
-      "https://www.pdfdrive.com/linux-linux-command-line-cover-all-essential-linux-commands-a-complete-introduction-to-linux-operating-system-linux-kernel-for-beginners-learn-linux-in-easy-steps-fast-a-beginners-guide-d200442383.html"
+      "bookLink":"https://www.pdfdrive.com/linux-linux-command-line-cover-all-essential-linux-commands-a-complete-introduction-to-linux-operating-system-linux-kernel-for-beginners-learn-linux-in-easy-steps-fast-a-beginners-guide-d200442383.html"
     },
     {
       "id":"316",
       "bookName":"Hacking: The Ultimate Hacking for Beginners: How to Hack: Hacking Intelligence: Certified Hacking Book",
       "authorName":"Anoymous",
-      "https://www.pdfdrive.com/hacking-the-ultimate-hacking-for-beginners-how-to-hack-hacking-intelligence-certified-hacking-book-d158303083.html"
+      "bookLink":"https://www.pdfdrive.com/hacking-the-ultimate-hacking-for-beginners-how-to-hack-hacking-intelligence-certified-hacking-book-d158303083.html"
     },
     {
       "id":"317",
@@ -2082,13 +2090,65 @@
       "authorName":"Richard L. Morrill",
       "bookLink":"https://www.pdfdrive.com/strategic-leadership-e20852523.html"
     },
+     {
+      "id" : "319",
+      "bookName" : "NOVEL OF ORDINARY PEOPLE WORKS",
+      "authorName" : "ANDREA HIRATA",
+      "bookLink"   : "https://www.researchgate.net/publication/350109905_NOVEL_ORANG-ORANG_BIASA_KARYA_ANDREA_HIRATA_KAJIAN_SOSIOLOGI_SASTRA"
+    },
     {
+      "id":"320",
+      "bookName":"The Anthropocene Reviewed",
+      "authorName":"John Green",
+      "bookLink":"https://www.read-any-book.net/ebook/the-anthropocene-reviewed-765600"
+    },
+    {
+       "id":"321",
+      "bookName":"Political Philosophy",
+      "authorName":"Dudley Knowles",
+      "bookLink":"https://www.pdfdrive.com/political-philosophy-e19071256.html"
+    },
+    {
+    "id":"322",
+    "bookName":"The Secret",
+    "authorName":"Rhonda Byrne",
+    "bookLink":"https://www.pdfdrive.com/the-secret-by-rhonda-byrne-e200864245.html"
+    },
+     {
+      "id":"323",
+      "bookName":"Deep Work: Rules for Focused Success in a Distracted World",
+      "authorName":"Cal Newport",
+      "bookLink":"https://b-ok.asia/book/2651862/754aff"
+    },
+    {
+      "id":"324",
+      "bookName":"The Internet of Things",
+      "authorName":"Samuel Greengard",
+      "bookLink":"https://ijoc.org/index.php/ijoc/article/download/6469/1844"
+    },
+    {
+       "id":"325",
+      "bookName":"Tales Of Men And Ghosts",
+      "authorName":"Edith Wharton",
+      "bookLink":"https://archive.org/details/cu31924008686218/mode/2up?ref=ol&view=theater"
+    },
+    {
+      "id":"326",
+      "bookName":"Folks From Dixie",
+      "authorName":"Paul L. Dunbar",
+      "bookLink":"https://archive.org/details/folksfromdixie00dunb/mode/2up?ref=ol&view=theater"
+    },
+        {
+      "id":"327",
+      "bookName":"The Go Programming Language",
+      "authorName":"Allan A.A. Donovan, Brian W. Aernighan",
+      "bookLin":"https://www.pdfdrive.com/the-go-programming-language-phrasebook-e31616881.html",
+    },
+       {
       "id":"319",
       "bookName":"Basic Marketing Research",
       "authorName":"Scott M. Smith and Gerald S. Albaum",
       "bookLink":"https://www.pdfdrive.com/basic-marketing-research-e25082943.html"
-    }
-
-   
-
+     }
+      
 ]
