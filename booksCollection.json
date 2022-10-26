@@ -2138,17 +2138,24 @@
       "authorName":"Paul L. Dunbar",
       "bookLink":"https://archive.org/details/folksfromdixie00dunb/mode/2up?ref=ol&view=theater"
     },
-        {
+    {
       "id":"327",
+      "bookName":"An Introduction To Programming In GO",
+      "authorName":"CALEB DOXSEY",
+      "BookLink":"https://www.golang-book.com/public/pdf/gobook.pdf"
+    },
+        {
+      "id":"328",
       "bookName":"The Go Programming Language",
       "authorName":"Allan A.A. Donovan, Brian W. Aernighan",
       "bookLin":"https://www.pdfdrive.com/the-go-programming-language-phrasebook-e31616881.html",
     },
        {
-      "id":"319",
+      "id":"329",
       "bookName":"Basic Marketing Research",
       "authorName":"Scott M. Smith and Gerald S. Albaum",
       "bookLink":"https://www.pdfdrive.com/basic-marketing-research-e25082943.html"
      }
+
       
 ]
