@@ -2155,7 +2155,35 @@
       "bookName":"Basic Marketing Research",
       "authorName":"Scott M. Smith and Gerald S. Albaum",
       "bookLink":"https://www.pdfdrive.com/basic-marketing-research-e25082943.html"
+     },
+ {
+      "id":"1011",
+      "bookName":"Deep Learning",
+      "authorName":"Ian Goodfellow and Yoshua Bengio and Aaron Courville",
+      "bookLink":"https://www.deeplearningbook.org/"
+     },
+   {
+      "id":"1012",
+      "bookName":"Assemblers And Loaders",
+      "authorName":"Ellis Horwood ",
+      "bookLink":"https://www.freetechbooks.com/assemblers-and-loaders-t682.html"
+     },
+       {
+      "id":"1013",
+      "bookName":"Introduction to Reverse Engineering Software",
+      "authorName":"nill",
+      "bookLink":"https://www.freetechbooks.com/introduction-to-reverse-engineering-software-t285.html"
+     },
+  {
+      "id":"1014",
+      "bookName":"Web Animation using JavaScript: Develop & Design",
+      "authorName":" Julian Shapiro",
+      "bookLink":"https://www.pdfdrive.com/web-animation-using-javascript-develop-design-e25729884.html"
+     },
+{
+      "id":"1015",
+      "bookName":"Networking for Dummies--For Dummies; 7th Ed.",
+      "authorName":" Lowe, Doug.",
+      "bookLink":"https://www.pdfdrive.com/networking-for-dummies-for-dummies-7th-ed-e9679716.html"
      }
-
-      
 ]
