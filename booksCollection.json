@@ -89,14 +89,14 @@
     "authorName": "Colin Scales",
     "bookLink": "https://deals.manybooks.net/ebooks/dorothy-hood"
   },
-  
+
   {
     "id": "120",
     "bookName": "The Purpose-Driven Life: What on Earth Am I Here For?",
     "authorName": "Rick Warren",
     "bookLink": "https://www.pdfdrive.com/the-purpose-driven-life-what-on-earth-am-i-here-for-e185720921.html"
   },
-  
+
   {
     "id": "27",
     "bookName": "Zero to One",
@@ -1711,515 +1711,523 @@
     "authorName": "Richard Grimes",
     "bookLink": "https://notalentgeek.github.io/note/note/project/project-independent/pi-brp-beginning-c-programming/document/20170807-1504-cet-1-book-and-source-1.pdf"
   },
-    {
-      "id": "257",
-      "bookName": "Digital Logic And Computer Design",
-      "authorName": "M. Morris Mano",
-      "bookLink": "https://www.pdfdrive.com/digital-logic-and-computer-design-by-m-morris-mano-e34332016.html"
-    },
-    {
-      "id": "258",
-      "bookName": " 504 ABSOLUTELY ESSENTIAL WORDS, 6th Edition",
-      "authorName": "Murray Bromberg",
-      "bookLink": "https://fliphtml5.com/eufzi/nyut/basic"
-    },
-    {
-      "id": "259",
-      "bookName": "Fundamentals of Database Systems",
-      "authorName": "Elmsari, Navathe",
-      "bookLink": "https://inspirit.net.in/books/database/Fundamentals%20of%20Database%20Systems.pdf"
-    },
-    {
-      "id": "260",
-      "bookName": "The Practice of Programming",
-      "authorName": "Brian Kernighan and Rob Pike",
-      "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html"
-    },
-    {
-       "id": "261",
-        "bookName": "Learning JavaScript Design Patterns",
-        "authorName": "Addy Osmani",
-        "bookLink": "https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1449331815"
-    },
-    {
-      "id": "262",
-      "bookName": "An Introduction to Programming for Bioscientists: A Python-Based Primer",
-      "authorName": "Berk Ekmekci,Charles E.McAnany,Cameron Mura",
-      "bookLink": "https://www.researchgate.net/publication/303337342_An_Introduction_to_Programming_for_Bioscientists_A_Python-Based_Primer/link/573d8e3308ae9ace8410e9d0/download"
-    },
-    {
-      "id": "263",
-      "bookName": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
-      "authorName": "Steve Krug",
-      "bookLink": "https://www.pdfdrive.com/dont-make-me-think-revisited-a-common-sense-approach-to-web-usability-d195137398.html"
-    },
-    {
-       "id": "264",
-       "bookName": "Understanding Bitcoin",
-       "authorName": "Silas Barta & Robert P.Murphy",
-       "bookLink": "https://www.pdfdrive.com/understanding-bitcoin-e18846314.html"
-     },
-     {
-       "id": "265",
-       "bookName": "Smart Contract Development with Solidity and Ethereum",
-       "authorName": "Akhil Mittal",
-       "bookLink": "https://www.perlego.com/book/1681432/smart-contract-development-with-solidity-and-ethereum-building-smart-contracts-with-the-azure-blockchain-pdf"
-     },
-     {
-       "id": "266",
-       "bookName": "Test-Driven Development by Example",
-       "authorName": "Kent Beck",
-       "bookLink": "https://www.pdfdrive.com/test-driven-development-by-example-pudncom-d37715816.html"
-     },
-     {
-       "id": "267",
-       "bookName": "Refactoring to Patterns",
-       "authorName": "Joshua Kerievsky",
-       "bookLink": "http://www.tarrani.net/RefactoringToPatterns.pdf"
-     },
-     {
-       "id": "268",
-       "bookName": "The Little Schemer",
-       "authorName": "Daniel P. Friedman, Matthias Felleisen",
-       "bookLink": "https://7chan.org/pr/src/The_Little_Schemer_4th_2.pdf"
-     },
-     {
-       "id": "269",
-       "bookName": "Fluent Python",
-       "authorName": "Reference work",
-       "bookLink": "https://www.pdfdrive.com/fluent-python-clear-concise-and-effective-programming-d185845171.html"
-     },
-     {
-       "id":"270",
-       "bookName": "Agile Software Development: Principles, Patterns, and Practices",
-       "authorName": "Robert Cecil Martin",
-       "bookLink": "https://www.pdfdrive.com/agile-software-development-principles-patterns-and-practices-d157786315.html"
-     },
-     {
-       "id": "271",
-       "bookName": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
-       "authorName": "David Farley, Jez Humble",
-       "bookLink": "https://proweb.md/ftp/carti/Continuous-Delivery-Jez%20Humble-David-Farley.pdf"
-     },
-     {
-      "id": "272",
-      "bookName": "1984",
-      "authorName": "George Orwell",
-      "bookLink": "https://www.george-orwell.org/1984"
-    },
-    {
-       "id": "273",
-       "bookName": "Learn Python the Hard Way",
-       "authorName": "Zed Shaw",
-       "bookLink": "https://www.pdfdrive.com/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-d195045215.html"
-    },
-    {
-       "id": "274",
-       "bookName": "Gray hat Python : Python programming for hackers and reverse",
-       "authorName": "Justin Seitz",
-       "bookLink": "https://www.pdfdrive.com/gray-hat-python-python-programming-for-hackers-and-reverse-e9135313.html"
-    },
-    {
-      "id": "275",
-      "bookName": "Mastering Swift 5",
-      "authorName": "Jon Hoffman",
-      "bookLink": "https://www.packtpub.com/free-ebook/mastering-swift-5-fifth-edition/9781789139860"
-    },
-    {
-      "id":"276",
-      "bookName":"Cracking the PM Interview: How to Land a Product Manager Job in Technology",
-      "authorName":"Gayle Laakmann McDowell",
-      "bookLink":"https://www.bayaprobooks.com/computer-books/cracking-the-pm-interview/"
-    },
-    {
-       "id": "277",
-       "bookName": "Artificial Intelligence For Dummies",
-       "authorName": "John Paul Mueller",
-       "bookLink": "https://library.samdu.uz/files/0ef4471f10137ed8c31dc820d3287bb2_Artificial%20Intelligence.pdf"
-    },
-    {
-       "id": "278",
-       "bookName": "Introduction to Programming Using Java",
-       "authorName": "DJ Eck",
-       "bookLink": "https://www.iitk.ac.in/esc101/share/downloads/javanotes5.pdf"
-    },
-    {
-      "id":"279",
-      "bookName":"AR and VR using the WebXR API",
-      "authorName":"Rakesh Baruah",
-      "bookLink":"https://drive.google.com/file/d/16cr5r-Rr2RzPAYge5lzEZYAlcBqDtOL3/view?usp=sharing"
-    },
-    {
-      "id": "280",
-      "bookName": "Learning C# by developing games with Unity",
-      "authorName": "Harrison Ferrone",
-      "bookLink": "https://www.packtpub.com/product/learning-c-by-developing-games-with-unity-2021-sixth-edition/9781801813945"
-    },
-    {
-      "id":"281",
-      "bookName":"guide to competitive programming",
-      "authorName":"Antti Laaksonen",
-      "bookLink":"https://drive.google.com/file/d/1RIV02A3_d35vwP1fosvlu40GNU2qBJDT/view?usp=sharing"
-    },
-    {
-      "id": "282",
-      "bookName": "Extreme C",
-      "authorName": "Kamran Amini",
-      "bookLink": "https://www.packtpub.com/free-ebook/extreme-c/9781789343625"
-    },
-    {
-      "id":"283",
-      "bookName":"DAA course",
-      "authorName":"Chandra Mohan",
-      "bookLink":"https://drive.google.com/dsa-course"
-    },
-    {
-      "id" : "284",
-      "bookName" : "MODERN OPERATING SYSTEMS",
-      "authorName" : "ANDREW S. TANENBAUM, HERBERT BOS",
-      "bookLink"   : "https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf"
-    },
-    {
-      "id":"285",
-      "bookName":"Advanced Computer Architecture",
-      "authorName":"Kai Hwang",
-      "bookLink":"https://drive.google.com/file/d/1HJAxZkPNbucJ84W1xpY-6XfFjwO6OM2n/view?usp=sharing"
-    },
-    {
-      "id" : "286",
-      "bookName":"Cracking-the-Coding-Interview",
-      "authorName":"GAYLE LAAKMANN MCDOWELL",
-      "bookLink":"https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf"
-    },
-    {
-      "id":"287",
-      "bookName":"Mastering Machine Learning with Python in Six Steps",
-      "authorName":"Manohar Swamynathan",
-      "bookLink":"https://www.pdfdrive.com/mastering-machine-learning-with-python-in-six-steps-a-practical-implementation-guide-to-predictive-data-analytics-using-python-d168776616.html"
-    },
-    {
-      "id":"288",
-      "bookName":"Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns, and Games",
-      "authorName":" Douglas E. Ensley & J. Winston Crawley",
-      "bookLink":"https://www.pdfdrive.com/discrete-mathematics-mathematical-reasoning-and-proof-with-puzzles-patterns-and-games-e158556392.html"
-    },
-    {
-      "id":"289",
-      "bookName":"Understanding Cryptography: A Textbook for Students and Practitioners",
-      "authorName":"Christof Paar",
-      "bookLink":"https://swarm.cs.pub.ro/~mbarbulescu/cripto/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf"
-    },
-    {
-      "id": "290",
-      "bookName": "Binary-Trees",
-      "authorName": "Nick Parlante",
-      "bookLink": "https://everythingcomputerscience.com/books/BinaryTrees.pdf"
-   },
-    {
-      "id" :"291",
-      "bookName" : "Superintelligence: Paths, Dangers, Strategies",
-      "authorName" : "Nick Bostrom",
-      "bookLink" : "https://dorshon.com/wp-content/uploads/2017/05/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf"
-    },
-    {
-      "id" : "292",
-      "bookName" : "A Thousand Brains : A new Theory of Intellegence",
-      "authorName" : "Jeff Hawkins",
-      "bookLink" : "https://www.yumpu.com/en/document/view/66310877/download-pdf-a-thousand-brains-a-new-theory-of-intelligence-"
-    },
-    {
-      "id": "293",
-      "bookName": "Practical Python Programming for IOT",
-      "authorName": "Gary Smart",
-      "bookLink": "https://www.packtpub.com/product/practical-python-programming-for-iot/9781838982461"
-    },
-    {
-     "id": "294",
-     "bookName": "Data Structures and Algorithms in Java ",
-     "authorName": "Michael T. Goodrich ",
-     "bookLink": "https://enos.itcollege.ee/~japoia/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf"
-    },
-    {
-      "id":"295",
-      "bookName":"The Obstacle is the Way",
-      "authorName":"Ryan Holiday",
-      "bookLink":"https://github.com/Deaddemon/DSA-code/blob/main/books/The-Obstacle-Is-the-Way.pdf"
-     },
-     {
-      "id":"296",
-      "bookName":"Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
-      "authorName":"Krishna Rungta",
-      "bookLink":"https://www.pdfdrive.com/learn-nodejs-in-1-day-complete-node-js-guide-with-examples-e158435138.html"
-     },
-     {
-      "id":"297",
-      "bookName":"The Story of My Life",
-      "authorName":"Helen Keller",
-      "bookLink":"https://www.goodreads.com/book/show/821611.The_Story_of_My_Life"
-    },
-    {
-      "id":"298",
-      "bookName":"Image Optimization",
-      "authorName":"Addy Osmani",
-      "bookLink":"https://www.google.co.in/books/edition/Learning_Patterns/BnJLEAAAQBAJ?hl=en&gbpv=0"
-    },
-    {
-      "id":"299",
-      "bookName":"Advanced Computer Networks",
-      "authorName":"Prof.Dayanand Ambawade",
-      "bookLink":"https://web.eecs.umich.edu/~zmao/eecs589/notes/lec1.pdf"
-    },
-    {
-      "id":"300",
-      "bookName":"Mathematics for Class XII",
-      "authorName":"R. D. Sharma",
-      "bookLink":"https://books.google.co.in/books/about/Mathematics_for_Class_XII.html?id=2GSdkQEACAAJ&redir_esc=y"
-    },
-    {
-      "id":"301",
-      "bookName":"Compiler Design in C Language",
-      "authorName":"Allen Holub",
-      "bookLink":"https://holub.com/goodies/compiler/compilerDesignInC.pdf"
-    },
-    {
-      "id" : "301",
-      "bookName":"Handbook Of Applied Cryptography",
-      "authorName":"Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone",
-      "bookLink":"https://cacr.uwaterloo.ca/hac/"
-    },
-    {
-      "id":"302",
-      "bookName":"JavaScript from Beginner to Professional",
-      "authorName":"Laurence Svekis , Maaike van Putten , Rob Percival",
-      "bookLink":"https://www.packtpub.com/product/javascript-from-beginner-to-professional/9781800562523?_ga=2.56774442.1203848610.1666083279-519919309.1666083279"
-    },
-    {
-      "id":"303",
-      "bookName":"Python Pocket Reference, 5th Edition: Python in Your Pocket",
-      "authorName":"Mark Lutz",
-      "bookLink":"https://www.pdfdrive.com/python-pocket-reference-5th-edition-python-in-your-pocket-d166623626.html"
-    },
-    {
-      "id":"304",
-      "bookName":"Algorithms",
-      "authorName":"Robert Sedgewick and Kevin Wayne",
-      "bookLink":"http://algs4.cs.princeton.edu/home/"
-    },
-    {
-      "id": "305",
-      "bookName": "Augmented Reality for Developers",
-      "authorName": "Jonathan Linowes",
-      "bookLink": "https://www.packtpub.com/product/augmented-reality-for-developers/9781787286436"
-    },
-    {
-      "id":"306",
-      "bookName":"Basic Security Testing with Kali Linux",
-      "authorName":"Dieterle, Daniel",
-      "bookLink":"https://www.pdfdrive.com/basic-security-testing-with-kali-linux-d35634554.html"
-    },
-    {
-      "id":"307",
-      "bookName":"Neural Machine Translation",
-      "authorName":"Philipp Koehn",
-      "bookLink":"http://mt-class.org/jhu/assets/nmt-book.pdf"
-    },
-    {
-      "id":"308",
-      "bookName":"Introduction to Data Structures & Algorithms",
-      "authorName":"THOMAS H. CORMEN, CHARLES E., LEISERSON RONALD L. & RIVEST CLIFFORD STEIN",
-      "bookLink":"https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
-    },
-    {
-      "id":"309",
-      "bookName":"Linux Fundamentals",
-      "authorName":"Paul Cobbaut",
-      "bookLink":"http://linux-training.be/linuxfun.pdf"
-    },  
-    {
-      "id":"310",
-      "bookName":"The C Programming Language. 2nd Edition",
-      "authorName":"Brian Kernighan and Dennis Ritchie",
-      "bookLink":"https://kremlin.cc/k&r.pdf"
-    },
-    {
-      "id":"311",
-      "bookName":"Competitive Programmer’s Handbook",
-      "authorName":"Antti Laaksonen",
-      "bookLink":"https://cses.fi/book/book.pdf"
-    },
-    {
-      "id" : "312",
-      "bookName" : "Modern Digital And Analog Communication Systems",
-      "authorName" : "B.P. Lathi",
-      "bookLink"   : "https://edisciplinas.usp.br/pluginfile.php/5251120/mod_resource/content/1/B.%20P.%20Lathi%2C%20Zhi%20Ding%20-%20Modern%20Digital%20and%20Analog%20Communication%20Systems-Oxford%20University%20Press%20%282009%29.pdf"
-    },
-    {
-      "id" : "313",
-      "bookName" : "Distributed Computing: Principles, Algorithms, and Systems",
-      "authorName" : "Ajay D. Kshemkalyani and Mukesh Singhal",
-      "bookLink"   : "https://eclass.uoa.gr/modules/document/file.php/D245/2015/DistrComp.pdf"
-    },
-    {
-      "id":"314",
-      "bookName":"The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results",
-      "authorName":"Gary Keller & Jay Papasan",
-      "bookLink":"https://www.pdfdrive.com/the-one-thing-the-surprisingly-simple-truth-behind-extraordinary-results-e196262683.html"
-    },
+  {
+    "id": "257",
+    "bookName": "Digital Logic And Computer Design",
+    "authorName": "M. Morris Mano",
+    "bookLink": "https://www.pdfdrive.com/digital-logic-and-computer-design-by-m-morris-mano-e34332016.html"
+  },
+  {
+    "id": "258",
+    "bookName": " 504 ABSOLUTELY ESSENTIAL WORDS, 6th Edition",
+    "authorName": "Murray Bromberg",
+    "bookLink": "https://fliphtml5.com/eufzi/nyut/basic"
+  },
+  {
+    "id": "259",
+    "bookName": "Fundamentals of Database Systems",
+    "authorName": "Elmsari, Navathe",
+    "bookLink": "https://inspirit.net.in/books/database/Fundamentals%20of%20Database%20Systems.pdf"
+  },
+  {
+    "id": "260",
+    "bookName": "The Practice of Programming",
+    "authorName": "Brian Kernighan and Rob Pike",
+    "bookLink": "https://www.pdfdrive.com/the-practice-of-programming-d159020107.html"
+  },
+  {
+    "id": "261",
+    "bookName": "Learning JavaScript Design Patterns",
+    "authorName": "Addy Osmani",
+    "bookLink": "https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1449331815"
+  },
+  {
+    "id": "262",
+    "bookName": "An Introduction to Programming for Bioscientists: A Python-Based Primer",
+    "authorName": "Berk Ekmekci,Charles E.McAnany,Cameron Mura",
+    "bookLink": "https://www.researchgate.net/publication/303337342_An_Introduction_to_Programming_for_Bioscientists_A_Python-Based_Primer/link/573d8e3308ae9ace8410e9d0/download"
+  },
+  {
+    "id": "263",
+    "bookName": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+    "authorName": "Steve Krug",
+    "bookLink": "https://www.pdfdrive.com/dont-make-me-think-revisited-a-common-sense-approach-to-web-usability-d195137398.html"
+  },
+  {
+    "id": "264",
+    "bookName": "Understanding Bitcoin",
+    "authorName": "Silas Barta & Robert P.Murphy",
+    "bookLink": "https://www.pdfdrive.com/understanding-bitcoin-e18846314.html"
+  },
+  {
+    "id": "265",
+    "bookName": "Smart Contract Development with Solidity and Ethereum",
+    "authorName": "Akhil Mittal",
+    "bookLink": "https://www.perlego.com/book/1681432/smart-contract-development-with-solidity-and-ethereum-building-smart-contracts-with-the-azure-blockchain-pdf"
+  },
+  {
+    "id": "266",
+    "bookName": "Test-Driven Development by Example",
+    "authorName": "Kent Beck",
+    "bookLink": "https://www.pdfdrive.com/test-driven-development-by-example-pudncom-d37715816.html"
+  },
+  {
+    "id": "267",
+    "bookName": "Refactoring to Patterns",
+    "authorName": "Joshua Kerievsky",
+    "bookLink": "http://www.tarrani.net/RefactoringToPatterns.pdf"
+  },
+  {
+    "id": "268",
+    "bookName": "The Little Schemer",
+    "authorName": "Daniel P. Friedman, Matthias Felleisen",
+    "bookLink": "https://7chan.org/pr/src/The_Little_Schemer_4th_2.pdf"
+  },
+  {
+    "id": "269",
+    "bookName": "Fluent Python",
+    "authorName": "Reference work",
+    "bookLink": "https://www.pdfdrive.com/fluent-python-clear-concise-and-effective-programming-d185845171.html"
+  },
+  {
+    "id": "270",
+    "bookName": "Agile Software Development: Principles, Patterns, and Practices",
+    "authorName": "Robert Cecil Martin",
+    "bookLink": "https://www.pdfdrive.com/agile-software-development-principles-patterns-and-practices-d157786315.html"
+  },
+  {
+    "id": "271",
+    "bookName": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+    "authorName": "David Farley, Jez Humble",
+    "bookLink": "https://proweb.md/ftp/carti/Continuous-Delivery-Jez%20Humble-David-Farley.pdf"
+  },
+  {
+    "id": "272",
+    "bookName": "1984",
+    "authorName": "George Orwell",
+    "bookLink": "https://www.george-orwell.org/1984"
+  },
+  {
+    "id": "273",
+    "bookName": "Learn Python the Hard Way",
+    "authorName": "Zed Shaw",
+    "bookLink": "https://www.pdfdrive.com/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code-d195045215.html"
+  },
+  {
+    "id": "274",
+    "bookName": "Gray hat Python : Python programming for hackers and reverse",
+    "authorName": "Justin Seitz",
+    "bookLink": "https://www.pdfdrive.com/gray-hat-python-python-programming-for-hackers-and-reverse-e9135313.html"
+  },
+  {
+    "id": "275",
+    "bookName": "Mastering Swift 5",
+    "authorName": "Jon Hoffman",
+    "bookLink": "https://www.packtpub.com/free-ebook/mastering-swift-5-fifth-edition/9781789139860"
+  },
+  {
+    "id": "276",
+    "bookName": "Cracking the PM Interview: How to Land a Product Manager Job in Technology",
+    "authorName": "Gayle Laakmann McDowell",
+    "bookLink": "https://www.bayaprobooks.com/computer-books/cracking-the-pm-interview/"
+  },
+  {
+    "id": "277",
+    "bookName": "Artificial Intelligence For Dummies",
+    "authorName": "John Paul Mueller",
+    "bookLink": "https://library.samdu.uz/files/0ef4471f10137ed8c31dc820d3287bb2_Artificial%20Intelligence.pdf"
+  },
+  {
+    "id": "278",
+    "bookName": "Introduction to Programming Using Java",
+    "authorName": "DJ Eck",
+    "bookLink": "https://www.iitk.ac.in/esc101/share/downloads/javanotes5.pdf"
+  },
+  {
+    "id": "279",
+    "bookName": "AR and VR using the WebXR API",
+    "authorName": "Rakesh Baruah",
+    "bookLink": "https://drive.google.com/file/d/16cr5r-Rr2RzPAYge5lzEZYAlcBqDtOL3/view?usp=sharing"
+  },
+  {
+    "id": "280",
+    "bookName": "Learning C# by developing games with Unity",
+    "authorName": "Harrison Ferrone",
+    "bookLink": "https://www.packtpub.com/product/learning-c-by-developing-games-with-unity-2021-sixth-edition/9781801813945"
+  },
+  {
+    "id": "281",
+    "bookName": "guide to competitive programming",
+    "authorName": "Antti Laaksonen",
+    "bookLink": "https://drive.google.com/file/d/1RIV02A3_d35vwP1fosvlu40GNU2qBJDT/view?usp=sharing"
+  },
+  {
+    "id": "282",
+    "bookName": "Extreme C",
+    "authorName": "Kamran Amini",
+    "bookLink": "https://www.packtpub.com/free-ebook/extreme-c/9781789343625"
+  },
+  {
+    "id": "283",
+    "bookName": "DAA course",
+    "authorName": "Chandra Mohan",
+    "bookLink": "https://drive.google.com/dsa-course"
+  },
+  {
+    "id": "284",
+    "bookName": "MODERN OPERATING SYSTEMS",
+    "authorName": "ANDREW S. TANENBAUM, HERBERT BOS",
+    "bookLink": "https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf"
+  },
+  {
+    "id": "285",
+    "bookName": "Advanced Computer Architecture",
+    "authorName": "Kai Hwang",
+    "bookLink": "https://drive.google.com/file/d/1HJAxZkPNbucJ84W1xpY-6XfFjwO6OM2n/view?usp=sharing"
+  },
+  {
+    "id": "286",
+    "bookName": "Cracking-the-Coding-Interview",
+    "authorName": "GAYLE LAAKMANN MCDOWELL",
+    "bookLink": "https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf"
+  },
+  {
+    "id": "287",
+    "bookName": "Mastering Machine Learning with Python in Six Steps",
+    "authorName": "Manohar Swamynathan",
+    "bookLink": "https://www.pdfdrive.com/mastering-machine-learning-with-python-in-six-steps-a-practical-implementation-guide-to-predictive-data-analytics-using-python-d168776616.html"
+  },
+  {
+    "id": "288",
+    "bookName": "Discrete Mathematics: Mathematical Reasoning and Proof with Puzzles, Patterns, and Games",
+    "authorName": " Douglas E. Ensley & J. Winston Crawley",
+    "bookLink": "https://www.pdfdrive.com/discrete-mathematics-mathematical-reasoning-and-proof-with-puzzles-patterns-and-games-e158556392.html"
+  },
+  {
+    "id": "289",
+    "bookName": "Understanding Cryptography: A Textbook for Students and Practitioners",
+    "authorName": "Christof Paar",
+    "bookLink": "https://swarm.cs.pub.ro/~mbarbulescu/cripto/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf"
+  },
+  {
+    "id": "290",
+    "bookName": "Binary-Trees",
+    "authorName": "Nick Parlante",
+    "bookLink": "https://everythingcomputerscience.com/books/BinaryTrees.pdf"
+  },
+  {
+    "id": "291",
+    "bookName": "Superintelligence: Paths, Dangers, Strategies",
+    "authorName": "Nick Bostrom",
+    "bookLink": "https://dorshon.com/wp-content/uploads/2017/05/superintelligence-paths-dangers-strategies-by-nick-bostrom.pdf"
+  },
+  {
+    "id": "292",
+    "bookName": "A Thousand Brains : A new Theory of Intellegence",
+    "authorName": "Jeff Hawkins",
+    "bookLink": "https://www.yumpu.com/en/document/view/66310877/download-pdf-a-thousand-brains-a-new-theory-of-intelligence-"
+  },
+  {
+    "id": "293",
+    "bookName": "Practical Python Programming for IOT",
+    "authorName": "Gary Smart",
+    "bookLink": "https://www.packtpub.com/product/practical-python-programming-for-iot/9781838982461"
+  },
+  {
+    "id": "294",
+    "bookName": "Data Structures and Algorithms in Java ",
+    "authorName": "Michael T. Goodrich ",
+    "bookLink": "https://enos.itcollege.ee/~japoia/algorithms/GT/Data%20Structures%20and%20Algorithms%20in%20Java%20Fourth%20Edition.pdf"
+  },
+  {
+    "id": "295",
+    "bookName": "The Obstacle is the Way",
+    "authorName": "Ryan Holiday",
+    "bookLink": "https://github.com/Deaddemon/DSA-code/blob/main/books/The-Obstacle-Is-the-Way.pdf"
+  },
+  {
+    "id": "296",
+    "bookName": "Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
+    "authorName": "Krishna Rungta",
+    "bookLink": "https://www.pdfdrive.com/learn-nodejs-in-1-day-complete-node-js-guide-with-examples-e158435138.html"
+  },
+  {
+    "id": "297",
+    "bookName": "The Story of My Life",
+    "authorName": "Helen Keller",
+    "bookLink": "https://www.goodreads.com/book/show/821611.The_Story_of_My_Life"
+  },
+  {
+    "id": "298",
+    "bookName": "Image Optimization",
+    "authorName": "Addy Osmani",
+    "bookLink": "https://www.google.co.in/books/edition/Learning_Patterns/BnJLEAAAQBAJ?hl=en&gbpv=0"
+  },
+  {
+    "id": "299",
+    "bookName": "Advanced Computer Networks",
+    "authorName": "Prof.Dayanand Ambawade",
+    "bookLink": "https://web.eecs.umich.edu/~zmao/eecs589/notes/lec1.pdf"
+  },
+  {
+    "id": "300",
+    "bookName": "Mathematics for Class XII",
+    "authorName": "R. D. Sharma",
+    "bookLink": "https://books.google.co.in/books/about/Mathematics_for_Class_XII.html?id=2GSdkQEACAAJ&redir_esc=y"
+  },
+  {
+    "id": "301",
+    "bookName": "Compiler Design in C Language",
+    "authorName": "Allen Holub",
+    "bookLink": "https://holub.com/goodies/compiler/compilerDesignInC.pdf"
+  },
+  {
+    "id": "301",
+    "bookName": "Handbook Of Applied Cryptography",
+    "authorName": "Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone",
+    "bookLink": "https://cacr.uwaterloo.ca/hac/"
+  },
+  {
+    "id": "302",
+    "bookName": "JavaScript from Beginner to Professional",
+    "authorName": "Laurence Svekis , Maaike van Putten , Rob Percival",
+    "bookLink": "https://www.packtpub.com/product/javascript-from-beginner-to-professional/9781800562523?_ga=2.56774442.1203848610.1666083279-519919309.1666083279"
+  },
+  {
+    "id": "303",
+    "bookName": "Python Pocket Reference, 5th Edition: Python in Your Pocket",
+    "authorName": "Mark Lutz",
+    "bookLink": "https://www.pdfdrive.com/python-pocket-reference-5th-edition-python-in-your-pocket-d166623626.html"
+  },
+  {
+    "id": "304",
+    "bookName": "Algorithms",
+    "authorName": "Robert Sedgewick and Kevin Wayne",
+    "bookLink": "http://algs4.cs.princeton.edu/home/"
+  },
+  {
+    "id": "305",
+    "bookName": "Augmented Reality for Developers",
+    "authorName": "Jonathan Linowes",
+    "bookLink": "https://www.packtpub.com/product/augmented-reality-for-developers/9781787286436"
+  },
+  {
+    "id": "306",
+    "bookName": "Basic Security Testing with Kali Linux",
+    "authorName": "Dieterle, Daniel",
+    "bookLink": "https://www.pdfdrive.com/basic-security-testing-with-kali-linux-d35634554.html"
+  },
+  {
+    "id": "307",
+    "bookName": "Neural Machine Translation",
+    "authorName": "Philipp Koehn",
+    "bookLink": "http://mt-class.org/jhu/assets/nmt-book.pdf"
+  },
+  {
+    "id": "308",
+    "bookName": "Introduction to Data Structures & Algorithms",
+    "authorName": "THOMAS H. CORMEN, CHARLES E., LEISERSON RONALD L. & RIVEST CLIFFORD STEIN",
+    "bookLink": "https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf"
+  },
+  {
+    "id": "309",
+    "bookName": "Linux Fundamentals",
+    "authorName": "Paul Cobbaut",
+    "bookLink": "http://linux-training.be/linuxfun.pdf"
+  },
+  {
+    "id": "310",
+    "bookName": "The C Programming Language. 2nd Edition",
+    "authorName": "Brian Kernighan and Dennis Ritchie",
+    "bookLink": "https://kremlin.cc/k&r.pdf"
+  },
+  {
+    "id": "311",
+    "bookName": "Competitive Programmer’s Handbook",
+    "authorName": "Antti Laaksonen",
+    "bookLink": "https://cses.fi/book/book.pdf"
+  },
+  {
+    "id": "312",
+    "bookName": "Modern Digital And Analog Communication Systems",
+    "authorName": "B.P. Lathi",
+    "bookLink": "https://edisciplinas.usp.br/pluginfile.php/5251120/mod_resource/content/1/B.%20P.%20Lathi%2C%20Zhi%20Ding%20-%20Modern%20Digital%20and%20Analog%20Communication%20Systems-Oxford%20University%20Press%20%282009%29.pdf"
+  },
+  {
+    "id": "313",
+    "bookName": "Distributed Computing: Principles, Algorithms, and Systems",
+    "authorName": "Ajay D. Kshemkalyani and Mukesh Singhal",
+    "bookLink": "https://eclass.uoa.gr/modules/document/file.php/D245/2015/DistrComp.pdf"
+  },
+  {
+    "id": "314",
+    "bookName": "The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results",
+    "authorName": "Gary Keller & Jay Papasan",
+    "bookLink": "https://www.pdfdrive.com/the-one-thing-the-surprisingly-simple-truth-behind-extraordinary-results-e196262683.html"
+  },
 
-    {
-      "id":"315",
-      "bookName":"Linux: Linux Command Line, Cover all essential Linux commands. A complete introduction to Linux",
-      "authorName":"Ray Yao & Ada R Swift & Ruby C",
-      "bookLink":"https://www.pdfdrive.com/linux-linux-command-line-cover-all-essential-linux-commands-a-complete-introduction-to-linux-operating-system-linux-kernel-for-beginners-learn-linux-in-easy-steps-fast-a-beginners-guide-d200442383.html"
-    },
-    {
-      "id":"316",
-      "bookName":"Hacking: The Ultimate Hacking for Beginners: How to Hack: Hacking Intelligence: Certified Hacking Book",
-      "authorName":"Anoymous",
-      "bookLink":"https://www.pdfdrive.com/hacking-the-ultimate-hacking-for-beginners-how-to-hack-hacking-intelligence-certified-hacking-book-d158303083.html"
-    },
-    {
-      "id":"317",
-      "bookName":"Contract Law",
-      "authorName":"Alex Mould",
-      "bookLink":"https://www.pdfdrive.com/contract-law-e20720112.html"
-    },
-    {
-      "id":"318",
-      "bookName":"Strategic Leadership",
-      "authorName":"Richard L. Morrill",
-      "bookLink":"https://www.pdfdrive.com/strategic-leadership-e20852523.html"
-    },
-     {
-      "id" : "319",
-      "bookName" : "NOVEL OF ORDINARY PEOPLE WORKS",
-      "authorName" : "ANDREA HIRATA",
-      "bookLink"   : "https://www.researchgate.net/publication/350109905_NOVEL_ORANG-ORANG_BIASA_KARYA_ANDREA_HIRATA_KAJIAN_SOSIOLOGI_SASTRA"
-    },
-    {
-      "id":"320",
-      "bookName":"The Anthropocene Reviewed",
-      "authorName":"John Green",
-      "bookLink":"https://www.read-any-book.net/ebook/the-anthropocene-reviewed-765600"
-    },
-    {
-       "id":"321",
-      "bookName":"Political Philosophy",
-      "authorName":"Dudley Knowles",
-      "bookLink":"https://www.pdfdrive.com/political-philosophy-e19071256.html"
-    },
-    {
-    "id":"322",
-    "bookName":"The Secret",
-    "authorName":"Rhonda Byrne",
-    "bookLink":"https://www.pdfdrive.com/the-secret-by-rhonda-byrne-e200864245.html"
-    },
-    {
-      "id":"323",
-      "bookName":"Deep Work: Rules for Focused Success in a Distracted World",
-      "authorName":"Cal Newport",
-      "bookLink":"https://b-ok.asia/book/2651862/754aff"
-    },
-    {
-      "id":"324",
-      "bookName":"The Internet of Things",
-      "authorName":"Samuel Greengard",
-      "bookLink":"https://ijoc.org/index.php/ijoc/article/download/6469/1844"
-    },
-    {
-       "id":"325",
-      "bookName":"Tales Of Men And Ghosts",
-      "authorName":"Edith Wharton",
-      "bookLink":"https://archive.org/details/cu31924008686218/mode/2up?ref=ol&view=theater"
-    },
-    {
-      "id":"326",
-      "bookName":"Folks From Dixie",
-      "authorName":"Paul L. Dunbar",
-      "bookLink":"https://archive.org/details/folksfromdixie00dunb/mode/2up?ref=ol&view=theater"
-    },
-    {
-      "id":"327",
-      "bookName":"An Introduction To Programming In GO",
-      "authorName":"CALEB DOXSEY",
-      "BookLink":"https://www.golang-book.com/public/pdf/gobook.pdf"
-    },
-        {
-      "id":"328",
-      "bookName":"The Go Programming Language",
-      "authorName":"Allan A.A. Donovan, Brian W. Aernighan",
-      "bookLin":"https://www.pdfdrive.com/the-go-programming-language-phrasebook-e31616881.html",
-    },
-    {
-      "id":"329",
-      "bookName":"Basic Marketing Research",
-      "authorName":"Scott M. Smith and Gerald S. Albaum",
-      "bookLink":"https://www.pdfdrive.com/basic-marketing-research-e25082943.html"
-     },
-     {
-      "id":"330",
-      "bookName":"Deep Learning",
-      "authorName":"Ian Goodfellow and Yoshua Bengio and Aaron Courville",
-      "bookLink":"https://www.deeplearningbook.org/"
-     },
-     {
-      "id":"331",
-      "bookName":"Assemblers And Loaders",
-      "authorName":"Ellis Horwood ",
-      "bookLink":"https://www.freetechbooks.com/assemblers-and-loaders-t682.html"
-     },
-     {
-      "id":"332",
-      "bookName":"Introduction to Reverse Engineering Software",
-      "authorName":"nill",
-      "bookLink":"https://www.freetechbooks.com/introduction-to-reverse-engineering-software-t285.html"
-     },
-     {
-      "id":"333",
-      "bookName":"Web Animation using JavaScript: Develop & Design",
-      "authorName":" Julian Shapiro",
-      "bookLink":"https://www.pdfdrive.com/web-animation-using-javascript-develop-design-e25729884.html"
-     },
-     {
-      "id":"334",
-      "bookName":"Networking for Dummies--For Dummies; 7th Ed.",
-      "authorName":" Lowe, Doug.",
-      "bookLink":"https://www.pdfdrive.com/networking-for-dummies-for-dummies-7th-ed-e9679716.html"
-     },
-     {
-      "id":"335",
-      "bookName":"The Mysterious Island",
-      "authorName":"Jules Verne",
-      "bookLink":"https://library.manybooks.net/live/get-book/127668/pdf?hash=5e339aec5831dcf16c4b8bca12ca5e4c&name=The-Mysterious-Island&gid=8993"
-     },
+  {
+    "id": "315",
+    "bookName": "Linux: Linux Command Line, Cover all essential Linux commands. A complete introduction to Linux",
+    "authorName": "Ray Yao & Ada R Swift & Ruby C",
+    "bookLink": "https://www.pdfdrive.com/linux-linux-command-line-cover-all-essential-linux-commands-a-complete-introduction-to-linux-operating-system-linux-kernel-for-beginners-learn-linux-in-easy-steps-fast-a-beginners-guide-d200442383.html"
+  },
+  {
+    "id": "316",
+    "bookName": "Hacking: The Ultimate Hacking for Beginners: How to Hack: Hacking Intelligence: Certified Hacking Book",
+    "authorName": "Anoymous",
+    "bookLink": "https://www.pdfdrive.com/hacking-the-ultimate-hacking-for-beginners-how-to-hack-hacking-intelligence-certified-hacking-book-d158303083.html"
+  },
+  {
+    "id": "317",
+    "bookName": "Contract Law",
+    "authorName": "Alex Mould",
+    "bookLink": "https://www.pdfdrive.com/contract-law-e20720112.html"
+  },
+  {
+    "id": "318",
+    "bookName": "Strategic Leadership",
+    "authorName": "Richard L. Morrill",
+    "bookLink": "https://www.pdfdrive.com/strategic-leadership-e20852523.html"
+  },
+  {
+    "id": "319",
+    "bookName": "NOVEL OF ORDINARY PEOPLE WORKS",
+    "authorName": "ANDREA HIRATA",
+    "bookLink": "https://www.researchgate.net/publication/350109905_NOVEL_ORANG-ORANG_BIASA_KARYA_ANDREA_HIRATA_KAJIAN_SOSIOLOGI_SASTRA"
+  },
+  {
+    "id": "320",
+    "bookName": "The Anthropocene Reviewed",
+    "authorName": "John Green",
+    "bookLink": "https://www.read-any-book.net/ebook/the-anthropocene-reviewed-765600"
+  },
+  {
+    "id": "321",
+    "bookName": "Political Philosophy",
+    "authorName": "Dudley Knowles",
+    "bookLink": "https://www.pdfdrive.com/political-philosophy-e19071256.html"
+  },
+  {
+    "id": "322",
+    "bookName": "The Secret",
+    "authorName": "Rhonda Byrne",
+    "bookLink": "https://www.pdfdrive.com/the-secret-by-rhonda-byrne-e200864245.html"
+  },
+  {
+    "id": "323",
+    "bookName": "Deep Work: Rules for Focused Success in a Distracted World",
+    "authorName": "Cal Newport",
+    "bookLink": "https://b-ok.asia/book/2651862/754aff"
+  },
+  {
+    "id": "324",
+    "bookName": "The Internet of Things",
+    "authorName": "Samuel Greengard",
+    "bookLink": "https://ijoc.org/index.php/ijoc/article/download/6469/1844"
+  },
+  {
+    "id": "325",
+    "bookName": "Tales Of Men And Ghosts",
+    "authorName": "Edith Wharton",
+    "bookLink": "https://archive.org/details/cu31924008686218/mode/2up?ref=ol&view=theater"
+  },
+  {
+    "id": "326",
+    "bookName": "Folks From Dixie",
+    "authorName": "Paul L. Dunbar",
+    "bookLink": "https://archive.org/details/folksfromdixie00dunb/mode/2up?ref=ol&view=theater"
+  },
+  {
+    "id": "327",
+    "bookName": "An Introduction To Programming In GO",
+    "authorName": "CALEB DOXSEY",
+    "BookLink": "https://www.golang-book.com/public/pdf/gobook.pdf"
+  },
+  {
+    "id": "328",
+    "bookName": "The Go Programming Language",
+    "authorName": "Allan A.A. Donovan, Brian W. Aernighan",
+    "bookLin": "https://www.pdfdrive.com/the-go-programming-language-phrasebook-e31616881.html"
+  },
+  {
+    "id": "329",
+    "bookName": "Basic Marketing Research",
+    "authorName": "Scott M. Smith and Gerald S. Albaum",
+    "bookLink": "https://www.pdfdrive.com/basic-marketing-research-e25082943.html"
+  },
+  {
+    "id": "330",
+    "bookName": "Deep Learning",
+    "authorName": "Ian Goodfellow and Yoshua Bengio and Aaron Courville",
+    "bookLink": "https://www.deeplearningbook.org/"
+  },
+  {
+    "id": "331",
+    "bookName": "Assemblers And Loaders",
+    "authorName": "Ellis Horwood ",
+    "bookLink": "https://www.freetechbooks.com/assemblers-and-loaders-t682.html"
+  },
+  {
+    "id": "332",
+    "bookName": "Introduction to Reverse Engineering Software",
+    "authorName": "nill",
+    "bookLink": "https://www.freetechbooks.com/introduction-to-reverse-engineering-software-t285.html"
+  },
+  {
+    "id": "333",
+    "bookName": "Web Animation using JavaScript: Develop & Design",
+    "authorName": " Julian Shapiro",
+    "bookLink": "https://www.pdfdrive.com/web-animation-using-javascript-develop-design-e25729884.html"
+  },
+  {
+    "id": "334",
+    "bookName": "Networking for Dummies--For Dummies; 7th Ed.",
+    "authorName": " Lowe, Doug.",
+    "bookLink": "https://www.pdfdrive.com/networking-for-dummies-for-dummies-7th-ed-e9679716.html"
+  },
+  {
+    "id": "335",
+    "bookName": "The Mysterious Island",
+    "authorName": "Jules Verne",
+    "bookLink": "https://library.manybooks.net/live/get-book/127668/pdf?hash=5e339aec5831dcf16c4b8bca12ca5e4c&name=The-Mysterious-Island&gid=8993"
+  },
 
-     {
-      "id": "336",
-      "bookName": "The Lean Startup",
-      "authorName": "Eric Ries",
-      "bookLink": "https://www.pdfdrive.com/the-lean-startup-e5180143.html"
-    },
+  {
+    "id": "336",
+    "bookName": "The Lean Startup",
+    "authorName": "Eric Ries",
+    "bookLink": "https://www.pdfdrive.com/the-lean-startup-e5180143.html"
+  },
 
-      {
-      "id": "337",
-      "bookName": "Off to Be the Wizard",      
-      "authorName": "Scott Meyer",      
-      "bookLink": "https://www.amazon.com/dp/1612184715"      
-     }
-      {
-
-      "id":"338",
-
-      "bookName":"The Time Machine",
-
-      "authorName":"H. G. Wells",
-
-      "bookLink":"https://manybooks.net/book/127836/read#epubcfi(/6/2[item4]!/4/2/1:0)"
-
-      }
-
-
-
-     
-      
+  {
+    "id": "337",
+    "bookName": "Off to Be the Wizard",
+    "authorName": "Scott Meyer",
+    "bookLink": "https://www.amazon.com/dp/1612184715"
+  },
+  {
+    "id": "338",
+    "bookName": "The Time Machine",
+    "authorName": "H. G. Wells",
+    "bookLink": "https://manybooks.net/book/127836/read#epubcfi(/6/2[item4]!/4/2/1:0)"
+  },
+  {
+    "id": "339",
+    "bookName": "The Alchemist",
+    "authorName": "Paulo Coelho",
+    "bookLink": "https://www.pdfdrive.com/the-alchemist-e86385321.html"
+  },
+  {
+    "id": "340",
+    "bookName": "Revolution 2020",
+    "authorName": "Chetan Bhagat",
+    "bookLink": "https://www.pdfdrive.com/revolution-2020-e18723858.html"
+  },
+  {
+    "id": "341",
+    "bookName": "The subtle art of not giving a fuck",
+    "authorName": "Alvin Wang",
+    "bookLink": "https://www.pdfdrive.com/the-subtle-art-of-not-giving-a-fuck-e200818675.html"
+  }
 ]
