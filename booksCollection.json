@@ -2217,7 +2217,12 @@
       "bookLink":"https://manybooks.net/book/127836/read#epubcfi(/6/2[item4]!/4/2/1:0)"
 
       }
-
+  {
+    "id": "339",
+    "bookName": "Automate the Boring Stuff with Python",
+    "authorName": "Al Sweigart",
+    "bookLink": "https://automatetheboringstuff.com/"
+  },
 
 
      
