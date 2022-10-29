@@ -2239,7 +2239,14 @@
       "bookName" : "C Language Tutorial",
       "authorName" : "Gordon Dodrill",
       "bookLink"   : "http://www.freebookcentre.net/programming-books-download/C-Language-Tutorial-(PDF-124P).html"
+     },
+     {
+      "id" : "344",
+      "bookName" : "Discrete Mathematics and its Applications",
+      "authorName" : "Kenneth H.Rosen",
+      "bookLink"   : "https://drive.google.com/file/d/1J1V0Ub4RtnWtugLaygfpVZ7u-QkZeTp1/view?usp=drivesdk"
      }
+
 
 
      
