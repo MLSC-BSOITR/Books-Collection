@@ -2229,13 +2229,17 @@
       "bookLink": "https://www.packtpub.com/product/mastering-ubuntu-server-fourth-edition/9781803234243"
      },
      {
-        "id": 342,
-        "bookName": "The Millionaire Fastlane",
-        "authorName": "MJ DeMarco",
-        "bookLink": "https://ia801009.us.archive.org/27/items/the-millionaire-fastlane-140113153049-phpapp01/the-millionaire-fastlane.pdf"
+       "id": 342,
+       "bookName": "The Millionaire Fastlane",
+       "authorName": "MJ DeMarco",
+       "bookLink": "https://ia801009.us.archive.org/27/items/the-millionaire-fastlane-140113153049-phpapp01/the-millionaire-fastlane.pdf"
+     },
+     {
+      "id" : "343",
+      "bookName" : "C Language Tutorial",
+      "authorName" : "Gordon Dodrill",
+      "bookLink"   : "http://www.freebookcentre.net/programming-books-download/C-Language-Tutorial-(PDF-124P).html"
      }
-
-      
 
 
      
