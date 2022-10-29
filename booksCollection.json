@@ -2148,7 +2148,7 @@
       "id":"328",
       "bookName":"The Go Programming Language",
       "authorName":"Allan A.A. Donovan, Brian W. Aernighan",
-      "bookLin":"https://www.pdfdrive.com/the-go-programming-language-phrasebook-e31616881.html",
+      "bookLink":"https://www.pdfdrive.com/the-go-programming-language-phrasebook-e31616881.html"
     },
     {
       "id":"329",
@@ -2221,9 +2221,13 @@
       "bookName": "A Practical Introduction to Python Programming",
       "authorName": "Brian Heinold",
       "bookLink": "https://www.freetechbooks.com/a-practical-introduction-to-python-programming-t1376.html"
+     },
+     {
+      "id": "341",
+      "bookName": "Mastering Ubuntu Server",
+      "authorName": "Jay LaCroix",
+      "bookLink": "https://www.packtpub.com/product/mastering-ubuntu-server-fourth-edition/9781803234243"
      }
-
-
 
 
       
