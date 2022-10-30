@@ -2245,6 +2245,12 @@
       "bookName" : "Discrete Mathematics and its Applications",
       "authorName" : "Kenneth H.Rosen",
       "bookLink"   : "https://drive.google.com/file/d/1J1V0Ub4RtnWtugLaygfpVZ7u-QkZeTp1/view?usp=drivesdk"
+     },
+     {
+      "id" : "345",
+      "bookName" : "Compilers; Principles, Techniques and Tools",
+      "authorName" : "Jeffrey D. Ullman",
+      "bookLink"   : "https://www.pdfdrive.com/compilers-principles-techniques-and-toolspdf-e55053723.html"
      }
 
 
