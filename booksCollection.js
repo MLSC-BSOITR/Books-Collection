@@ -1,5 +1,4 @@
-{
-  "Sheet 1": [
+export const books=  [
     {
       "id": "1",
       "bookName": "Introduction to Programming in Java: An Interdisciplinary Approach",
@@ -1842,4 +1841,3 @@
       "bookLink": "https://www.pdfdrive.com/the-success-principles-tm-how-to-get-from-where-you-are-to-where-you-want-to-be-e185588523.html"
     }
   ]
-}
